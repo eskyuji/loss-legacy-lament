@@ -1,0 +1,246 @@
+# Mythrir — Character Index
+
+Lightweight cross-reference for every named character and NPC across all four campaigns. Each entry links to its full file under `Characters/`, `NPCs/`, `Locations/`, or `Items/`.
+
+**Session recaps:** [Campaign 1 — Guilds in the Dark: Overall Summary](Sessions/Campaign 1 - Guilds in the Dark - Overall Summary.md) · [Campaign 2 — The Eternal Empire: Overall Summary](Sessions/Campaign 2 - The Eternal Empire - Overall Summary.md) · [Campaign 3 — Remnants of a Broken World: Overall Summary](Sessions/Campaign 3 - Remnants of a Broken World - Overall Summary.md) · [Campaign 4 — Past and Future, Dusk and Dawn: Overall Summary](Sessions/Campaign 4 - Past and Future, Dusk and Dawn - Overall Summary.md) · [Overall History — Executive Summary](Sessions/Mythrir — Overall History Executive Summary.md)
+
+*⚠️ Structural note: the section formerly labeled "CAMPAIGN 1 — Past and Future, Dusk and Dawn" was renamed to "CAMPAIGN 4" and moved to the end of this index in an earlier pass. "Past and Future, Dusk and Dawn" is Campaign 4's actual title (confirmed against the uploaded Campaign 4 raw notes); the original "Campaign 1" label was a leftover artifact from the very first whole-compendium parse, done before per-campaign chronology had been established. No content was removed — only relabeled and reordered. Four entries originally filed under "Campaign 3" (Oxis Steelclaw, Teyou Zhiang, Geno Atul, Rotguardian Ixtar) were likewise moved into the Campaign 4 section, each with an in-file correction flag rather than a silent edit. See each file for details.*
+
+*A genuine Campaign 1 — "Guilds in the Dark" — has since been added below, built from a separate, newly uploaded raw-notes file unrelated to the earlier mislabeling. It appears to predate Campaign 2 chronologically (it reads as the founding/recruitment era of the Moa, who recur as ancient legends by Campaign 2), but the raw notes never state this explicitly — treat the ordering as inferred, not confirmed.*
+
+## CAMPAIGN 1 — Guilds in the Dark
+
+*Source material for this section combines the player's sparse, glossary-style raw notes with more authoritative excerpts from the campaign's Discord lore channel, including a day-by-day DM timeline — see the Overall Summary linked above for caveats and what each source resolved or left open.*
+
+### Characters / NPCs
+
+- [Paavu](NPCs/Paavu.md) — A warlord and one of the original Moa; this campaign appears to depict him becoming "the newest Moa." *(Also Campaign 2.)*
+- [Ryx](NPCs/Ryx.md) — A kobold who became a dragon; present for the Underdark recruitment drive predating her Moa/dragon status. *(Also Campaign 2.)*
+- [Iphitus](NPCs/Iphitus.md) — An avatar of The Watcher; recognized and feared by Ruby the Glass Eye, claims Lehinar's body after her death. *(Also Campaign 2.)*
+- [Yannick](NPCs/Yannick.md) — "The blade in the dark," Mortalus's champion; dies and is revived by Mor'Talus on Day 105, defeating the Black Blood of Yag'saruf and taking her glass eye — the likely origin of his rise to godhood as One-Eyed Jack. His truesight reveals a Blood of the Beyond in the town of Typhlo. *(Also Campaign 2.)*
+- [Tyra](Characters/Tyra.md) — Not encountered directly, but the Typhlo/Urath cosmology behind her title is established here. *(Also Campaign 2.)*
+- [Mortalus (Mort)](Characters/Mortalus (Mort).md) — Travels disguised as "Mort" from Day 48 onward, revealing himself as Mor'Talus on Day 105 — consistent with his later-established identity as the God of Death. *(Also Campaign 2.)*
+- [Behelor](NPCs/Behelor.md) — Confirmed a Tiefling Moa per the Discord lore channel ("Behelor- Tiefling Lehinar- Aasimar"), consistent with his reveal as "Baphomet," a demon lord. ⚠️ Lesser flag: still doesn't match this campaign's separate "ancient minotaur" Overview description. *(Also Campaign 2.)*
+- [Silkworm](NPCs/Silkworm.md) — The original holder of the title, a former assassin for King Phresee, killed and cut into nine pieces — explains the "current holder of the title" framing used in Campaign 4. *(Also Campaign 4.)*
+- [One-Eyed Jack](Characters/One-Eyed Jack.md) — Confirms the Campaign 4 civilian of this name is named for Yannick, the divine figure. *(Also Campaign 4.)*
+- [Ruby the Glass Eye](NPCs/Ruby%20the%20Glass%20Eye.md) — De facto leader of the Canaries guild; transforms into the Black Blood of Yag'saruf when wounded, and is defeated by Yannick on Day 105.
+- [Black Blood of Yag'saruf](NPCs/Black%20Blood%20of%20Yag'saruf.md) — ⚠️ Claims to be the true God of Death, in tension with Mortalus's established claim to that title.
+- [Xanathar](NPCs/Xanathar.md) — A Moa running a thieves' guild of the same name in Gul'Malar.
+- [Corthus the Fallen Star](NPCs/Corthus%20the%20Fallen%20Star.md) — "The One True Moa," a giant spider-woman defeated by the party.
+- [Sitherak the Alhoun (No Name)](NPCs/Sitherak%20the%20Alhoun.md) — An elder-brain-ascended illithid, possibly a Moa, possibly a lich.
+- [Kitar the Sphynx](NPCs/Kitar%20the%20Sphynx.md) — A Moa who can warp time; has fallen away from serving balance.
+- [Lehinar (Uriel)](NPCs/Lehinar%20(Uriel).md) — Confirmed an Aasimar Moa and Behelor's rival; killed by the party at Behelor's request on Day 99-103. ⚠️ Pronoun inconsistency: DM timeline uses "his/him," player notes use "her."
+- [Salazar](NPCs/Salazar.md) — Ruby's bugbear guard, apparently also a Moa.
+- [Balanar and Malhar](NPCs/Balanar%20and%20Malhar.md) — Two Moa described as "two sides of the same coin."
+- [The Nameless One (Moa)](NPCs/The%20Nameless%20One%20(Moa).md) — A Moa beyond even Xanathar's knowledge.
+- [Kythrazi](NPCs/Kythrazi.md) — A two-headed bird-person god, confirmed patron of crafting. ⚠️ Spelling variant "Kithrazi" also appears in Campaign 2 lore (Hall of the Owls, Tyra) — possible cross-era connection, not confirmed.
+- [Aerynath](NPCs/Aerynath.md) — A nine-headed dragon god, confirmed Patron of Life who often takes beggar form. ⚠️ Possible naming overlap with "Aerynth," a hero who fell in Campaign 2 — flagged, not merged.
+- [The Owl (Campaign 1)](NPCs/The%20Owl%20(Campaign%201).md) — Affiliated with the Owls guild, "insane scribes of the supernatural." ⚠️ Possible connection to the established "Owls" lore from Campaigns 2 and 4 — flagged, not asserted.
+- [Mort (Human of North Arill)](NPCs/Mort%20(Human%20of%20North%20Arill).md) — **RETRACTED.** Was incorrectly treated as distinct from Mortalus; corrected and merged into [Mortalus (Mort)](Characters/Mortalus (Mort).md).
+- [The Watcher](NPCs/The%20Watcher.md) — Patron of protectors, power behind the Church of the Helm; protected early Underdark life from the Typhlo/Urath battle. *(Also referenced Campaign 2 — see [[Thelonius]].)*
+- [Xixxern](NPCs/Xixxern.md) — A dragon gifted to the party by Xanathar so Ryx could claim vengeance. ⚠️ Possible origin of Ryx's later transformation into a dragon — flagged, not confirmed.
+- [King Phresee](NPCs/King%20Phresee.md) — King of the humans above the Underdark.
+- [Mackleroy](NPCs/Mackleroy.md) — A dwarf from North Arill.
+- [Billy](NPCs/Billy.md) — A human guard.
+- [Jorn Hall the Paladin](NPCs/Jorn%20Hall%20the%20Paladin.md) — A Lizardfolk priest of Urath.
+- [Barry the Bard](NPCs/Barry%20the%20Bard.md) — A halfling bartender in Salamada.
+- [Barry the Parrot (the Pirate)](NPCs/Barry%20the%20Parrot.md) — A flamboyant hobgoblin.
+- [Vice Conroy](NPCs/Vice%20Conroy.md) — Leader of "the Hawks."
+- [Sorgog](NPCs/Sorgog.md) — Recruited by Ryx to gather Underdark forces.
+
+### Locations
+
+- [Gol'talum](Locations/Gol'talum.md) — Wild-west checkpoint city; the Poisoned Dagger, the fight club.
+- [Lake Urathil](Locations/Lake%20Urathil.md) — The party's original destination; site of the incident that drove illithids into the Underdark.
+- [Salamada](Locations/Salamada.md) — First Underdark stop; the Coat Hanger, Boar's Hat, Shattered Vial.
+- [South Arill / North Arill](Locations/South%20and%20North%20Arill.md) — Cities; Mackleroy, Mort.
+- [Maw of Arrath](Locations/Maw%20of%20Arrath.md) — City warned to fall by the Owl; the Cracked Flask. ⚠️ Discord lore channel calls it "the Maw of Urath" instead.
+- [The Guilds of the Underdark](Locations/The%20Guilds%20of%20the%20Underdark.md) — The ten named bird-themed guilds governing Underdark politics.
+- [Gul'Malar](Locations/Gul'Malar.md) — City; Xanathar, Addie's Acquisitions, the Empty Mug.
+- [Norathin](Locations/Norathin.md) — City; Behelor/Lehinar, Ruby the Glass Eye, the Four Flumphs, Gelatinous Cube.
+- [Val'new Oasis](Locations/Val'new%20Oasis.md) — Oasis with the Underdark's only known hole to the sky.
+- [Typhlo (Town)](Locations/Typhlo%20(Town).md) — Built near Typhlo's tomb; Typhlo's Crown, the Trail of Sooth.
+- [Tilted Flagon](Locations/Tilted%20Flagon.md) — Inn at the crossroads.
+
+### Items
+
+- [Moa Coin](Items/Moa%20Coin.md) — Token of Moa status; taken by Paavu from Corthus the Fallen Star.
+- [The Grand Magics](Items/The%20Grand%20Magics.md) — Eight world-changing 10th-12th level spells, each tied to a Moa.
+- [Fiery Crown](Items/Fiery%20Crown.md) — Taken from Lehinar after the party defeats him.
+
+## CAMPAIGN 2 — The Eternal Empire
+
+
+### Characters
+
+- [Abacus Black](Characters/Abacus Black.md) — A Kalashtar who lives a double life in the Aether while sleeping.
+- [Benji](Characters/Benji.md) — Founder of Shaidar's Rest.
+- [Carp](Characters/Carp.md) — A poison-dart-frog-colored Bullywug hired as a butler by Abacus.
+- [Drifter](Characters/Drifter.md) — A friendly Greatshell who drifts between worlds looking for an end to all conflicts.
+- [Enki Steelbane](Characters/Enki Steelbane.md) — A six-foot Tortle druid born in the Ebonywoods.
+- [Goroshi](Characters/Goroshi.md) — An ancient Oni — one of ten, each tied to a region of the world.
+- [Logan](Characters/Logan.md) — Benji's apprentice turned betrayer.
+- [Mortalus (Mort)](Characters/Mortalus (Mort).md) — Tall, dark-haired, and regal in black robes.
+- [Myka](Characters/Myka.md) — Plays a major role in this campaign as well — see [[Myka]]'s Campaign Appearances note for clarification on how Campaign 2 fits before her Campaign 1 resurrection.
+- [Nakki (Akki Nakki)](Characters/Nakki (Akki Nakki).md) — A red goblin cursed with the Curse of Truth — she cannot lie, even when she doesn't know the answer.
+- [Rynn](Characters/Rynn.md) — A centaur with a long white beard who has watched over Myka's Keep for three hundred years.
+- [Seraph](Characters/Seraph.md) — A tall, pale Aasimar with completely black eyes save for metallic silver irises.
+- [Taeus Merrymantle](Characters/Taeus Merrymantle.md) — A Leonin soldier promoted to Second Lieutenant early in the campaign.
+- [Thelonius](Characters/Thelonius.md) — Ancient beyond reckoning, cursed into the form of a sphynx cat by The Watcher for forgetting his duty — a paradox, since his curse is Remembrance.
+- [Tirgad](Characters/Tirgad.md) — An undead dragon who rose to dominance after Goroshi's death freed him.
+- [Tyra](Characters/Tyra.md) — A tall blonde woman encountered deep in the Hall of the Owls.
+- [Un'Malo](Characters/Un'Malo.md) — The Fourth Aspect of the World Crafter — the Aspect of Vengeance.
+- [Zeth Nogoth](Characters/Zeth Nogoth.md) — Protector of shadows.
+
+### NPCs
+
+- [000 Excessive Treble](NPCs/000 Excessive Treble.md) — A Warforged who takes surprisingly well to dancing during Hades' birthday party.
+- [773 Philosophical Directory](NPCs/773 Philosophical Directory.md) — A seven-foot-tall Warforged made of marble and mahogany who helps run the Cat's Pajamas.
+- [Aleer](NPCs/Aleer.md) — An Aarakocra who served as the party's commanding officer in the Eternal Empire campaign. *(Also Campaign 4 — see correction note in-file regarding his death.)*
+- [Ashan](NPCs/Ashan.md) — A small vulture-man, only three feet tall, who escorted the party alongside Resheek.
+- [Bailey](NPCs/Bailey.md) — Tycho's mother.
+- [Behelor](NPCs/Behelor.md) — An ancient minotaur and the last of the original Moa.
+- [Drip Gut](NPCs/Drip Gut.md) — A human caravan guard with a gambling problem who digs holes and drinks beer.
+- [Faro the Halfling](NPCs/Faro the Halfling.md) — The greatest grower in the world — the only person capable of planting Heart Trees, which can retain the memories of what land used to be.
+- [Ilirr](NPCs/Ilirr.md) — An Aarakocra captain with chitinous gauntlets and chest plate as marks of rank.
+- [Iphitus](NPCs/Iphitus.md) — An avatar of The Watcher and champion of light.
+- [King Nebbuzar](NPCs/King Nebbuzar.md) — An ancient lich — the King of a pre-Empire desert kingdom called Nebbuzar.
+- [Laylah](NPCs/Laylah.md) — An innkeeper's helper at the Cat's Pajamas in Varaneth.
+- [Maginus](NPCs/Maginus.md) — Tycho's father.
+- [Paavu](NPCs/Paavu.md) — A warlord and one of the original Moa.
+- [Patricia](NPCs/Patricia.md) — Carp's partner, met in the swamps after the apocalypse.
+- [Resheek](NPCs/Resheek.md) — A ratfolk who escorted the party through The Crash toward the palace.
+- [Ryx](NPCs/Ryx.md) — A kobold who became a dragon.
+- [Sebash](NPCs/Sebash.md) — A Rakshasa who approached the party in the desert during a sandstorm, disguising himself as a tiger scavenger.
+- [Star](NPCs/Star.md) — Tycho's squire and one of the casualties of the blood magic assault on Shaidar's Rest in Campaign 3.
+- [Sunny and Moony](NPCs/Sunny and Moony.md) — The greatest relic hunters in the known and unknown world.
+- [Tiny Tim](NPCs/Tiny Tim.md) — Aleer's younger brother — six minutes younger, half an inch shorter.
+- [Veth](NPCs/Veth.md) — A shadow swordsman who works for Myka in Shaidar's Rest.
+- [Wesley Valentine](NPCs/Wesley Valentine.md) — A jeweler in Varaneth who made jewelry for Myka.
+- [Yannick](NPCs/Yannick.md) — Called "the blade in the dark." Mort's champion.
+
+### Locations
+
+- [Varaneth](Locations/Varaneth.md) — City; seat of the Council, the orphanage, the Festival of Lights, and notable businesses. ⚠️ possible naming overlap with Campaign 4's Veranath flagged in-file.
+- [Hall of the Owls](Locations/Hall of the Owls.md) — Ancient Moa ruin/dungeon; Beyond incursion site, Tyra's penance, key loot.
+- [Myka's Keep](Locations/Myka's Keep.md) — Fortress; Rynn's 300-year watch, Logan's reign and fall, Zeth Nogoth's stand.
+- [Library of Mor'Talus](Locations/Library of Mor'Talus.md) — Domain/library kept by Mortalus.
+- [Ebonywoods](Locations/Ebonywoods.md) — Forest/region; Enki's birthplace and the site of his parents' murder.
+
+### Items
+
+- [The Earth Plate](Items/The Earth Plate.md) — Stone necklace granting living armor; owned by Taeus Merrymantle.
+- [Queen's Boots](Items/Queen's Boots.md) — Water-walking boots of unknown Yuan-Ti craft; owned by Taeus Merrymantle.
+- [Yeziah, the Sentient Platemail](Items/Yeziah, the Sentient Platemail.md) — Sentient bismuth armor bound to the World Crafter; owned by Tycho. ⚠️ naming overlap with Bas Tetran's blade "Yesiah" flagged in-file.
+- [Death's Walking Stick (a.k.a. Death's Scythe)](Items/Death's Walking Stick.md) — Mortalus's teleporting scythe, later wielded by Tycho. ⚠️ naming discrepancy flagged in-file.
+- [Boon of Mortalus](Items/Boon of Mortalus.md) — Divine blessing granted to the party by Mortalus.
+
+## CAMPAIGN 3 — Remnants of a Broken World
+
+
+### Characters
+
+- [Benji](Characters/Benji.md) — Founder of Shaidar's Rest, recovered in this campaign as the Oathstone of Eternity. *(Also Campaign 2.)*
+- [Carp](Characters/Carp.md) — Killed in the blood magic riot in Shaidar's Rest. *(Also Campaign 2.)*
+- [Feit](Characters/Feit.md) — Ancient, ageless, and deeply wrong. *(Also Campaign 4.)*
+- [Goroshi](Characters/Goroshi.md) — An ancient Oni who guides the party through The Crash and is revealed to be Nebbuzar's phylactery. *(Also Campaign 2.)*
+- [Kwadwo](Characters/Kwadwo.md) — A Rhox infected with the Rot who breaks his people's code by leaving The Crash to seek help.
+- [Logan](Characters/Logan.md) — Benji's apprentice turned betrayer, resurfacing here possessing Benji's recovered body. *(Also Campaign 2.)*
+- [Myka](Characters/Myka.md) — Now ruling Shaidar's Rest. *(Also Campaigns 2 and 4.)*
+- [Queen Nin](Characters/Queen Nin.md) — The ruler of The Crash, who views the Frost Shepherds as interlopers.
+- [Seraph](Characters/Seraph.md) — A tall, pale Aasimar with completely black eyes save for metallic silver irises. *(Also Campaigns 2 and 4.)*
+- [The Magus](Characters/The Magus.md) — Ancient.
+- [Thelonius](Characters/Thelonius.md) — Master of all sixteen Metal Magics; loses an arm during the blood magic riot. *(Also Campaigns 2 and 4.)*
+- [Tin](Characters/Tin.md) — Leader of Lost Hope. *(Also Campaign 4.)*
+- [Tirgad](Characters/Tirgad.md) — An undead dragon who rose to dominance after Goroshi's death freed him.
+- [Tycho](Characters/Tycho.md) — A scarred Leonin who began as a soldier and became a legend. *(Also Campaigns 2 and 4.)*
+- [Yelena Moller](Characters/Yelena Moller.md) — Six-foot-two, 186 pounds.
+- [Zeth Nogoth](Characters/Zeth Nogoth.md) — Defends Shaidar's Rest from the blood magic riot in his shadow-monstrosity form. *(Also Campaign 2; killed ~2,000 years later in Campaign 4 by the new "Pridemaster" — see [[The Pridemaster (Campaign 4)]].)*
+
+### NPCs
+
+- [1000 Straight Forward Derivative](NPCs/1000 Straight Forward Derivative.md) — A Warforged who greets the party in Veranath, already briefed on the apprenticeship arrangement.
+- [446 Impartial Argument](NPCs/446 Impartial Argument.md) — A Warforged wizard working in Shaidar's Rest.
+- [Ashan](NPCs/Ashan.md) — A small vulture-man who escorted the party through The Crash. *(Also Campaign 2.)*
+- [Cikow](NPCs/Cikow.md) — A Kenku first mate aboard the Heracles.
+- [King Nebbuzar](NPCs/King Nebbuzar.md) — An ancient lich, King of the pre-Empire desert kingdom of Nebbuzar. *(Also Campaign 2.)*
+- [Kwa-mina](NPCs/Kwa-mina.md) — Kwadwo's daughter.
+- [Resheek](NPCs/Resheek.md) — A ratfolk who escorted the party through The Crash. *(Also Campaign 2.)*
+- [Sebash](NPCs/Sebash.md) — A Rakshasa servant of King Nebbuzar. *(Also Campaign 2.)*
+- [Star](NPCs/Star.md) — Tycho's squire, killed in the blood magic riot. *(Also Campaign 2.)*
+- [Sunny and Moony](NPCs/Sunny and Moony.md) — The greatest relic hunters in the known and unknown world, who locate the Oathstone of Eternity. *(Also Campaign 2.)*
+- [Veth](NPCs/Veth.md) — A shadow swordsman who works for Myka in Shaidar's Rest. *(Also Campaign 2. ⚠️ possible duplicate flagged against Zeth Nogoth in-file.)*
+
+### Locations
+
+- [The Crash](Locations/The Crash.md) — Desert city-state ruled by Queen Nin; home to the Magus and the Necropolis of Nebbuzar.
+- [Lost Hope](Locations/Lost Hope.md) — City led by Tin, the Merchant King. *(Also Campaign 4.)*
+
+### Items
+
+- [Armor of the Oni](Items/Armor%20of%20the%20Oni.md) — Traded to Tycho by Meeka; owned by Tycho.
+- [Ironwood Armor](Items/Ironwood%20Armor.md) — Grown for Myka by Rynn.
+- [Oathstones](Items/Oathstones.md) — Lore/artifact-class entry covering Benji, Thelonius, and other suspected Oathstones.
+
+## CAMPAIGN 4 — Past and Future, Dusk and Dawn
+
+*⚠️ See the structural note at the top of this index — this section was formerly mislabeled "Campaign 1." Entries below marked "(originally filed under Campaign 3)" have been moved here from that section with an in-file correction flag.*
+
+### Characters
+
+- [702 Purpose and Intent](Characters/702 Purpose and Intent.md) — A Steel Wrought (Warforged) commander.
+- [Bas Tetran XXIV](Characters/Bas Tetran XXIV.md) — The twenty-fourth in a long line of Tabaxi bearing the same name.
+- [December Redd](Characters/December Redd.md) — A shifter whose eyes glow.
+- [Feit](Characters/Feit.md) — Ancient, ageless, and deeply wrong; revealed as "the Dark Door," shed order of Yogg-Sothoth. *(Also Campaign 3.)*
+- [Galv](Characters/Galv.md) — A bald Truthspeaker with burnt skin and splotchy coloring.
+- [Loanar](Characters/Loanar.md) — An ancient goddess of silver roses.
+- [Meeka](Characters/Meeka.md) — God of All Lost Things.
+- [Myka](Characters/Myka.md) — Dies and is remade as Vengeance Incarnate in Loanar's realm. *(Also Campaigns 2 and 3.)*
+- [Naebor](Characters/Naebor.md) — A male myconid and old friend of Netiri's.
+- [Netiri](Characters/Netiri.md) — A Satyr Circle of Spores druid and guardian of the Rot Farms.
+- [One-Eyed Jack](Characters/One-Eyed Jack.md) — A civilian driver who loses his eye to a helicopter pilot's stray cigarette.
+- [Oxis Steelclaw](Characters/Oxis Steelclaw.md) — A seven-foot-ten Dragonborn fighter from one of the three great Dragonborn houses. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
+- [Seraph](Characters/Seraph.md) — A tall, pale Aasimar with completely black eyes save for metallic silver irises; bound by a new Geas, redeemed a second time by Meeka. *(Also Campaigns 2 and 3.)*
+- [Teyou Zhiang](Characters/Teyou Zhiang.md) — The God with a capital G; delivers the campaign's central cosmological lore-dump. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
+- [The Emperor (Za'a-ni)](Characters/The Emperor (Za'a-ni).md) — An arrogant, scrawny, armless Leonin armorer artificer, only eighteen years old.
+- [Thelonius](Characters/Thelonius.md) — Leads the party through four labors in Veranath; ruler of the cat hive-mind there. *(Also Campaigns 2 and 3.)*
+- [Tin](Characters/Tin.md) — Leader of Lost Hope; charges Varyn with refounding the Moa. *(Also Campaign 3.)*
+- [Tycho](Characters/Tycho.md) — A scarred Leonin who began as a soldier and became a legend; dies and is confirmed as the God of Death in Loanar's realm. *(Also Campaigns 2 and 3. ⚠️ title conflict with the new "Pridemaster" flagged in-file.)*
+- [Tyn](Characters/Tyn.md) — The Oathstone of Tenacity; gives his sword Reno to Bas Tetran XXIV before Lost Hope goes dark around him.
+- [Varyn](Characters/Varyn.md) — A stitchwork fighter assembled from the limbs of multiple races; introduces the reformed Moa party.
+
+### NPCs
+
+- [Aleer](NPCs/Aleer.md) — Captains the Heracles; dies at Seraph's hand at the Tower of the Third Moon. *(Also Campaign 2 — see correction note in-file.)*
+- [Desiree Redd](NPCs/Desiree Redd.md) — December's missing daughter, found imprisoned in the Maw as a vessel for a version of Feit; revealed as a Truthspeaker.
+- [Don Carlo Iro](NPCs/Don Carlo Iro.md) — A level 12 Pyromancy Sorcerer who steps up to lead the defense of Shaidar's Rest when the party leaves.
+- [Elise Redd](NPCs/Elise Redd.md) — December's wife.
+- [Geno Atul](NPCs/Geno Atul.md) — The Ghost of the Third Moon. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
+- [Iyo](NPCs/Iyo.md) — A Wilden — a tree-like plant person — and member of Varyn's Moa.
+- [Madam Lennette](NPCs/Madam Lennette.md) — Never appears in the flesh; her doll is given by Meeka to Galv to fuel his greatest teleportation.
+- [Magerna](NPCs/Magerna.md) — A 90-year-old farmer turned ring-bound ghost; his bag holds the Spear of Creation and Destruction.
+- [Master Tinkerer Morrin](NPCs/Master Tinkerer Morrin.md) — Never appears directly but is referenced with reverence by both the Emperor and Magerna.
+- [Monsieur Pierre](NPCs/Monsieur Pierre.md) — The prime consort of Madam Lennette, revived to mastermind a new Crimson Winter.
+- [Myhama](NPCs/Myhama.md) — The healer of the Truthspeakers.
+- [The Pridemaster (Campaign 4)](NPCs/The Pridemaster (Campaign 4).md) — A new antagonist who rises in Shaidar's Rest and kills Zeth Nogoth. ⚠️ title conflict with Tycho flagged in-file.
+- [Rico](NPCs/Rico.md) — A rat boy who runs errands for the Emperor out of the Scrapyard.
+- [Rotguardian Ixtar](NPCs/Rotguardian Ixtar.md) — A massive Greatshell Myconid guardian at the rot farm near Empyr. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
+- [Russo](NPCs/Russo.md) — A sixteen-year-old red goblin who serves as the Emperor's second-in-command at the Scrapyard.
+- [Silkworm](NPCs/Silkworm.md) — A small goblin wearing an Oni mask, leader of the Crows in Empyr; the current holder of a title whose original bearer dies in Campaign 1. *(Also Campaign 1.)*
+- [Sypt / Grail](NPCs/Sypt - Grail.md) — Two people sharing one body — a Triton.
+- [The Blood Magic Orphan](NPCs/The Blood Magic Orphan.md) — A nameless child driven out of Shaidar's Rest when blood magic was outlawed.
+- [The Yuan-Ti](NPCs/The Yuan-Ti.md) — Ancient, serpentine, and operating out of a shack near Ryxspine Lake; trades years of Bas's life for the dagger that becomes the Coiled Viper.
+
+### Locations
+
+- [Empyr](Locations/Empyr.md) — Corrupt city contested by the Crows; rot farm, Silkworm, and the climactic Geno Atul confrontation.
+- [Lost Hope](Locations/Lost Hope.md) — City led by Tin; Tyn Street altar, where Tyn gives Reno to Bas. *(Also Campaign 3.)*
+- [The Maw](Locations/The Maw.md) — Region gone dark; home to a False Hydra and Desiree Redd's rescue.
+- [Tower of the Third Moon](Locations/Tower%20of%20the%20Third%20Moon.md) — Reached via the Heracles; site of Aleer's death and Teyou Zhiang's cosmological lore-dump.
+- [Veranath](Locations/Veranath.md) — Dead city ruled by Thelonius's cat hive-mind; home to the Gates of the Afterlife. ⚠️ naming overlap with Campaign 2's Varaneth flagged in-file.
+
+### Items
+
+- [Moa Pendants](Items/Moa%20Pendants.md) — Four pendants distributed by Meeka at her bazaar, tied to Loanar's lore.
+- [Reno](Items/Reno.md) — Tyn's Tychonium sword, given to Bas Tetran XXIV in Lost Hope.
+- [Spear of Creation and Destruction](Items/Spear%20of%20Creation%20and%20Destruction.md) — Legendary spear found in Magerna's bag.
