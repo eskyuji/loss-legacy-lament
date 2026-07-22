@@ -253,6 +253,68 @@ img {
   outline-offset: 2px;
 }
 
+.recap-entry {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.recap-entry summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  padding-left: 40px;
+}
+.recap-entry summary::-webkit-details-marker { display: none; }
+
+.recap-entry summary::before {
+  content: "▸";
+  position: absolute;
+  left: 18px;
+  top: 18px;
+  color: var(--gold-dim);
+  font-size: 0.85em;
+  transition: transform 0.15s ease;
+}
+.recap-entry[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.recap-entry summary:hover {
+  background: var(--bg-elevated-hover);
+  border-radius: var(--radius);
+}
+
+.recap-entry-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--gold-bright);
+  font-size: 1.05rem;
+}
+
+.recap-entry-hook {
+  color: var(--text-muted);
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+.recap-entry[open] summary {
+  border-bottom: 1px solid var(--border);
+}
+
+.recap-entry-body {
+  padding: 4px 20px 20px;
+}
+.recap-entry-body > *:first-child { margin-top: 0; }
+.recap-entry-body h3:first-of-type { margin-top: 0.5em; }
+
 /* Data tables (stat blocks, item tables, etc.) — classic bordered rows. */
 
 table {
