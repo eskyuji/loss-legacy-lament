@@ -87,7 +87,7 @@ The session ends with the three of them heading back to the Cat's Pajamas to bri
 
 ---
 
-## Session 2 — Milton's Feast
+## Session 2 — Before Me Is Death
 
 ### Thelonius's demiplane
 

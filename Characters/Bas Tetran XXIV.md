@@ -98,7 +98,7 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 - Ends the goblin's attack on the beggar by severing its bladed hand with Yesiah; the goblin turns to dust on the spot. Investigating the resulting shard (a broken, Volcan-marked piece of Tychonium reading "Remember"), Bas alone hears it speak: *"You are nothing without me."* Held near his own Tychonium sliver from Teyou's pocket, the two repel each other like same-pole magnets.
 - Present when Meeka confirms Feit's return, and when she reappears afterward in a newly self-constructed humanoid body for the first time since he's known her.
 
-### Session 2 — Milton's Feast
+### Session 2 — Before Me Is Death
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 

@@ -6,6 +6,21 @@ title: "Mythrir: Loss, Legacy, and Lament"
 
 A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech-noir fantasy. Focused on the current campaign; past campaigns are kept in the [archive](archive/).
 
+> "The future is here, the tower will claim us. Before me is death, and behind me non-existence. We knew what was to come and did nothing to stop it. Hubris is our downfall."
+>
+> — [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent)
+{: .pull-quote}
+
+---
+
+## Latest Session Recap
+
+### Session 2 — Before Me Is Death
+
+Thelonius identifies the party's broken shard as impossible Vulcan-forged Tychonium and sends them toward Milton's Feast at the Maw, hoping a favor earned there will open doors the proud Vulcan smiths would otherwise keep shut. On the way out, 702 Purpose and Intent — carrying two thousand years of guilt over what Feit once forced him to do — confesses directly to Bas. The party then reaches the goblin camp under the Western Bridge to find it slaughtered to the last, save one survivor: a young goblin child they refuse to leave behind, carrying him toward safety as the session ends.
+
+[Read the full recap →](Sessions/Recaps)
+
 ---
 
 ## Characters
@@ -67,7 +82,8 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 
 | | |
 |---|---|
-| [Campaign 5 — Loss, Legacy, and Lament](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) | [Overall History Executive Summary](Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary) |
+| [Session Recaps](Sessions/Recaps) | [Campaign 5 — Loss, Legacy, and Lament](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) |
+| [Overall History Executive Summary](Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary) | |
 {: .link-grid}
 
 ---
