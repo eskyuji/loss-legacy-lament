@@ -1,4 +1,4 @@
-# Bas Tetran XXIV — Character Art Prompt Session
+# Bas Tetran XXIV
 
 **Type:** Major Character
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 5 — Loss, Legacy, and Lament
@@ -72,15 +72,7 @@ Receives the sword Reno — worn down to almost nothing but forged of pure Tycho
 
 When Bas returned after his 500 years of servitude to Meeka, he found that House Tetran had continued without him — his cousin had inherited the title as Bas Tetran XXV, and successive Lords and Ladies had ruled capably in the centuries since. He did not reclaim his title or contest the succession. He introduced himself simply as Bas, accepted the position of First Advisor, and has served every subsequent Lord or Lady Tetran in that role ever since. None have begun their reign without seeking his blessing — not because law demands it, but because none have wished to.
 
-The First Advisor role is the puppet-master instinct codified as an institution: influential, indispensable, and structurally insulated from the full weight of direct responsibility or exposure. He chose a legitimate container for his need to stay involved while staying hidden. See [[Factions/House Tetran]] for full house history.
-
-### Between the campaigns
-
-At the climactic battle against Feit that closed Campaign 4 — confirmed in Session 1 to have taken place inside the Hall of the Owls itself, the same moment the Owls vanished for the next 2,000 years — the last Frost Shepherds — Bas, Netiri, December Redd, and the Emperor (revealed in that fight as the reincarnated Za'a-ni) — were scattered separately into the unknown, along with Seraph. Bas was "rescued" by Meeka, God of All Lost Things, in exchange for 500 years of servitude in her employ. After his debt was paid and he escaped the Hall of the Owls, he spent decades, then centuries, searching for any sign of what became of his companions. His skills as an investigator and infiltrator turned up nothing — no leads, but also no evidence of death, which is what kept him searching as long as he did.
-
-Eventually, with every lead exhausted, he stepped back from active searching. He rebuilt his underground network and now operates as a puppet master pulling strings from the shadows — guiding the organization's endeavors to his own ends without revealing that he's immortal. Centuries of having mastered everything, tried everything, and outlived everything has left him increasingly jaded and detached; there is no relief of death waiting for him, and nothing left feels new. He keeps going regardless.
-
-One thing has kept him from fully calcifying: once every century, he keeps a standing appointment with the other long-lived survivors of his era at the Cat's Pajamas in Veranath, to confirm to each other — and to himself — that they're all still standing.
+See [[Factions/House Tetran]] for full house history.
 
 ### Session 0.5 — The Reunion at the Cat's Pajamas
 
@@ -112,57 +104,3 @@ See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for ful
 - Comforts and effectively adopts the sole goblin survivor, "Shithead," refusing to hand him off to intermediaries and personally escorting him to House Modril's orphanage at the Maw. Uses Inspiring Leader (26 temporary hit points) on the way out of Veranath.
 - Sends 702 a span-read message about the massacre; receives a hand-drawn illustration of 702 giving him the finger in reply.
 - Learns from 702 the origin of his own divine blood — see Divine Marks, above.
-
----
-
-## Final Image Generation Prompt
-
-**Style/Medium:**
-
-Dark fantasy concept art, digital painting. Semi-realistic but with intentional painterly contrast — fine, crisp detail concentrated on the face, hands, and weapons; the coat, legs, and background rendered looser and more atmospheric, almost impressionistic. This contrast is deliberate and should feel like professional concept art, not a render. Dark, moody palette. Neutral-dark background with smoke and wet ground suggesting urban ruin. Slight rim lighting from one side to carve the silhouette.
-
----
-
-**Character:**
-
-Anthropomorphic snow leopard male, slightly aged — silver-white fur with faded dark rosette markings, subtle weatherlines around the eyes and muzzle. Tall, lean, composed. Athletic build. Long silver-white hair worn in a loose braid over one shoulder. Snow leopard tail visible, thick and spotted, curling low behind him.
-
-Piercing eyes with a faint metallic-gold ethereal glow — subtle, like a reflection that shouldn't be there. Lips a cool, otherworldly blue — luminous and supernatural, as if lit softly from within. Both details understated; divine, not decorative.
-
----
-
-**Expression & Pose:**
-
-Full body, standing. Weight on one leg, completely at ease. He is wiping down Rea with a cloth — slow, practiced, idle. Eyes up. Watching you with the calm attention of someone who has already assessed every exit in the room. Not performing confidence. Simply possessed of it.
-
----
-
-**Outfit & Armor — Black, Gray, Deep Red:**
-
-Beneath the cloak: a close-fitting tactical underlayer — matte black with subtle micro-panel seams and low-profile armor plating at the chest and shoulders. Minimalist. Appears civilian at a glance. Tactical belt with flat modular pouches, a thigh-mounted holster for Rea, and concealed dagger sheaths along the belt line. Matte black trousers with subtle articulated knee paneling. Heavy lace-up combat boots, black.
-
-Over everything: a deep crimson-red cloak — long, draping past the knees, with significant fabric weight. The hood is worn down, pooling and folding into a high dramatic collar around the neck and shoulders. The cloak is not a coat — it has no sleeves, parting at the front to reveal the tactical underlayer beneath. Across the chest and shoulders, the cloak is secured and structured by a harness of dark leather straps — buckled and layered, crossing the chest diagonally, with small modular attachment points. These straps give it a wrapped, bound quality rather than a loose drape. The fabric carries the Cloak of Displacement effect: at its edges and folds, a faint prismatic ghost-shimmer, as if the borders of the cloak exist slightly out of phase with the rest of the image. Subtle. Unsettling if you notice it.
-
-Over the arms and hands: heavy dark leather gauntlets — articulated, reinforced at the knuckles and forearm with segmented plating. These sit over the cloak's arm openings, covering from mid-forearm to the hand. Strapped and buckled at the wrist. Worn, purposeful. The Gloves of Thievery are integrated into these — fine glyph-like etching barely visible along the back of the hand beneath the plating.
-
-Ioun Stone of Mastery — a small dark geometric gemstone, faceted like a d20, orbiting slowly at head level. Deep black with a faint cold inner light. Easy to miss.
-
----
-
-**Weapons:**
-
-*Rea* (in hands, mid-maintenance): An extremely sleek, elegant silenced pistol — matte black, minimal profile, long integrated suppressor. Custom, clearly expensive. No external markings. Being wiped down with a dark cloth, the motion casual and practiced. Rendered with precise detail — clean lines, machined finish.
-
-*Yesiah* (sheathed at hip, tip nearly reaching the ground): A long, slender blade — katana length, rapier thin. Sheathed in a slim matte-black tech scabbard with a magnetic closure. The hilt is wrapped in dark braided snakeskin cord wound tightly — the Coiled Viper in its dormant form, indistinguishable from standard wrapping. At the base of the guard, a second smaller blade hilt is slotted flush and nearly invisible, its seam traced by a single fine line of acid-green light. The blade tip of Yesiah just visible at the scabbard's end, hinting at its length.
-
----
-
-**Atmosphere:**
-
-Dark background — wet concrete, distant city lights, low smoke. The character is the composition. Detail is sharpest at the face and hands; the environment and lower body softer and more painterly. The overall impression: you found him because he let you.
-
----
-
-**Negative prompt (if supported):**
-
-No medieval armor, no fantasy robes, no bright warm colors, no neon glow, no cartoonish proportions, no lens flare, no busy backgrounds, no oversized weapons, no chunky firearms, no structured jacket collar. Avoid over-muscled builds. No hood up.

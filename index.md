@@ -95,4 +95,3 @@ See [full NPC list](NPCs/) for the complete roster.
 ## Reference
 
 - [Character Index](Mythrir%20%E2%80%94%20Character%20Index)
-- [Gilded Lament Art Style Guide](Mythrir%20-%20Gilded%20Lament%20Art%20Style%20Guide)
