@@ -1,5 +1,6 @@
 .DS_Store
 private/
+.claude/
 vendor/
 .bundle/
 _site/
