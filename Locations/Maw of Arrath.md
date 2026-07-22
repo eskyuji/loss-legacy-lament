@@ -20,15 +20,15 @@ The city after North Arill. The party finds a note here describing people being 
 ## Notable Locations & Businesses
 
 - **Cracked Flask** — inn run by a couple; mentioning Mackleroy's name gets the party a free room. Owned by Art, a friend of Mackleroy's.
-- **House Modril Orphanage** — one of the charitable Modril family's orphanages; per Campaign 5, the only one on this side of the world, owing to the region's distance from the Modril farmstead. Receives a rescued goblin child from the party at the end of Campaign 5, Session 2 (see [[Characters/Magerna]]).
+- **House Modril Orphanage** — one of the charitable Modril family's orphanages; per Campaign 5, the only one on this side of the world, owing to the region's distance from the Modril farmstead. Receives a rescued goblin child from the party at the end of Campaign 5, Session 2 (see [Magerna](../Characters/Magerna)).
 
 ---
 
 ## Campaign 5 Session Detail
 
-**Session 2:** Site of Milton's Feast, House Richardson's annual gathering held each Junathar (the Mythrir equivalent of June), where great houses and cities from across the world send representatives and the head of the house personally serves every guest — see [[Factions/House Richardson]]. Thelonius sends the party as Verenath's representatives this year, hoping the favor earned there might grant access to the Master of the Forges at the Scarlet Peaks. The party arrives 22 miles south of the city via Meeka's use of [[Items/Liberty of the End]], with the Maw visible on the horizon as the session ends.
+**Session 2:** Site of Milton's Feast, House Richardson's annual gathering held each Junathar (the Mythrir equivalent of June), where great houses and cities from across the world send representatives and the head of the house personally serves every guest — see [House Richardson](../Factions/House Richardson). Thelonius sends the party as Verenath's representatives this year, hoping the favor earned there might grant access to the Master of the Forges at the Scarlet Peaks. The party arrives 22 miles south of the city via Meeka's use of [Liberty of the End](../Items/Liberty of the End), with the Maw visible on the horizon as the session ends.
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
 

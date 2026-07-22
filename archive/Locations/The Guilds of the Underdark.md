@@ -22,7 +22,7 @@ Per the Discord lore channel, the Underdark's political structure (as of Campaig
 | The Canaries | Miners' guild — de facto led by Ruby the Glass Eye. |
 | The Gulls | Sailors of the underground seas. |
 | The Parrots | Pirates. |
-| The Owls | Insane scribes of the supernatural in the Underdark — see [[The Owl (Campaign 1)]] for the possible/unconfirmed connection to the "Owls" of later campaigns. |
+| The Owls | Insane scribes of the supernatural in the Underdark — see [The Owl (Campaign 1)](../NPCs/The Owl (Campaign 1)) for the possible/unconfirmed connection to the "Owls" of later campaigns. |
 | The Mockingbirds | Bard college — Barry the Bard carries a Mocking Bird guild symbol. |
 | The Moa | A dead, ancient guild — though Campaign 1 finds it very much active, if scattered and secretive; see the many individual Moa entries (Paavu, Ryx, Behelor, Lehinar, Xanathar, Corthus the Fallen Star, and others). |
 

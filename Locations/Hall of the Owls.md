@@ -21,7 +21,7 @@ The Ring of Ryx, taken from Ryx's remains, functions as a key to the Hall.
 
 Confirmed as the site of the Frost Shepherds' final confrontation with Feit at the end of Campaign 4 — Bas, Netiri, December Redd, Za'ani, and Seraph were all scattered from inside the Hall itself in that battle, and the Owls vanished from the world that same moment, dormant for the 2,000 years since. A physical tower is visible from the coast roughly a mile out from Shaidar's Rest.
 
-In Session 1, an Owl — a robed figure in a pewter owl mask — is seen again for the first time in that span: perched on a rooftop in Veranath, filling scrolls that fold themselves into origami owls and fly north toward the Hall the instant they're finished. This one appears to have reverted to the Owls' original purpose (watching and recording, not acting) and proved completely impervious to physical attacks, spells, and Banishment alike — see [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for the full encounter.
+In Session 1, an Owl — a robed figure in a pewter owl mask — is seen again for the first time in that span: perched on a rooftop in Veranath, filling scrolls that fold themselves into origami owls and fly north toward the Hall the instant they're finished. This one appears to have reverted to the Owls' original purpose (watching and recording, not acting) and proved completely impervious to physical attacks, spells, and Banishment alike — see [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for the full encounter.
 
 ---
 

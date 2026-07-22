@@ -13,7 +13,7 @@ title: Yannick
 
 Called "the blade in the dark." Mort's champion. Also known as One-Eyed Jack the lesser divinity — a figure who began as a thief, became a hero, then a legend, then a god of death and service. Tyra, the Sword of Typhlo, has sworn to kill him for his role in the death of the Twin Gods.
 
-*Confirms a connection already anticipated in the Campaign 4 file [NPCs/One-Eyed Jack.md](../Characters/One-Eyed%20Jack.md), which notes its own One-Eyed Jack "is named for the divine figure... though this Jack appears to be just a regular, chaotic guy." This file establishes that divine figure as Yannick.*
+*Confirms a connection already anticipated in the Campaign 4 file [NPCs/One-Eyed Jack.md](../Characters/One-Eyed%20Jack), which notes its own One-Eyed Jack "is named for the divine figure... though this Jack appears to be just a regular, chaotic guy." This file establishes that divine figure as Yannick.*
 
 ---
 

@@ -18,8 +18,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 | [Nakki (Akki Nakki)](Characters/Nakki%20(Akki%20Nakki)) | [Netiri](Characters/Netiri) |
 | [Seraph](Characters/Seraph) | [Teyou Zhiang](Characters/Teyou%20Zhiang) |
 | [The Emperor (Za'a-ni)](Characters/The%20Emperor%20(Za'a-ni)) | [Thelonius](Characters/Thelonius) |
-| [Tin](Characters/Tin) | [Tycho](Characters/Tycho) |
-| [Tyn](Characters/Tyn) | |
+| [Tycho](Characters/Tycho) | [Tyn](Characters/Tyn) |
 {: .link-grid}
 
 ---

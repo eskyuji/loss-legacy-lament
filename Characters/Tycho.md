@@ -23,7 +23,7 @@ A scarred Leonin who began as a soldier and became a legend. Guided lost souls o
 
 Dies alongside Myka and is remade as the God of Death in Loanar's realm — the role this file's title already anticipates from his eventual appearance guiding souls on the Long Walk. Touches Aleer's divine blood. A new figure calling himself "the Pridemaster" rises in Shaidar's Rest amid a Tiefling-vs-Leonin caste conflict and kills Zeth Nogoth.
 
-*⚠️ Title conflict: this file's header already credits Tycho as "The Pridemaster / God of Death" — a title that, per this file's own (previously mislabeled "Campaign 1," actually Campaign 4) notes and the Campaign 2 notes, he carries into his afterlife role. The Campaign 4 raw notes separately describe a new antagonist who rises to power in Shaidar's Rest and personally kills Zeth Nogoth, also referred to as "the Pridemaster." Whether this is the same Tycho returning to that title under different circumstances, a usurper claiming his old name, or a title that simply gets reused by Shaidar's Rest's rulers over time has not been confirmed in session — flagging rather than merging the two. See the new [NPCs/The Pridemaster (Campaign 4).md] entry.*
+*⚠️ Title conflict: this file's header already credits Tycho as "The Pridemaster / God of Death" — a title that, per this file's own (previously mislabeled "Campaign 1," actually Campaign 4) notes and the Campaign 2 notes, he carries into his afterlife role. The Campaign 4 raw notes separately describe a new antagonist who rises to power in Shaidar's Rest and personally kills Zeth Nogoth, also referred to as "the Pridemaster." Whether this is the same Tycho returning to that title under different circumstances, a usurper claiming his old name, or a title that simply gets reused by Shaidar's Rest's rulers over time has not been confirmed in session — flagging rather than merging the two. See the new [The Pridemaster (Campaign 4)](../archive/NPCs/The Pridemaster (Campaign 4)) entry.*
 
 ---
 
@@ -35,7 +35,7 @@ Takes over squad leadership after Taeus's promotion. Son of Maginus; his mother 
 
 **Magic items:** Buys a Cloak of Deflect Missiles. During the fight against the Dark Bringer, while mind-controlled, finds himself unworthy of the Greatsword of the Pridemaster and instead takes up Mortalus's scythe after Mort's sacrifice. After the Dark Bringer falls, he struggles to lift the Greatsword again — and this time proves himself worthy, ending the campaign with both weapons in hand. Receives Yeziah, a sentient suit of platemail.
 
-*⚠️ Naming note: the session notes call Mort's scythe "Death's Scythe" once Tycho takes it up. An earlier compendium pass on this file used "Death's Walking Stick." Both names are preserved in [[archive/Items/Death's Walking Stick]] pending clarification — flagging rather than silently picking one.*
+*⚠️ Naming note: the session notes call Mort's scythe "Death's Scythe" once Tycho takes it up. An earlier compendium pass on this file used "Death's Walking Stick." Both names are preserved in [Death's Walking Stick](../archive/Items/Death's Walking Stick) pending clarification — flagging rather than silently picking one.*
 
 *Update from the Campaign 3 notes: usage there consistently calls the weapon "Death's Walking Stick" ("Tycho swings Death's Walking Stick and beheads the Rakshasa"), suggesting the name settled by that point. Leaving the Campaign 2 flag in place rather than retroactively editing it, since it may simply reflect informal naming before the title crystallized.*
 
@@ -55,7 +55,7 @@ Present for Star's death during the blood magic riot in Shaidar's Rest — his g
 
 By his own accounting, roughly twice two thousand years have passed since he last held the Frost Shepherds' title himself — placing Campaign 5 at roughly 4,000 years after the Eternal Empire of Campaign 2. **Metal namesake:** Tychonium — silver-gray metal that transmutes ordinary iron wherever Tycho's influence runs strong — is confirmed (Session 1) to be one of three Vulcan-forged metals directly named for and tied to a specific individual, alongside Seraphium (Seraph) and Myconium (Netiri). Keeps a standing, once-a-century appointment with Bas Tetran XXIV and other long-lived survivors at the Cat's Pajamas in Veranath — a town unchanged in the four thousand years of Thelonius's stewardship as the Oathstone of Remembrance. Arrives at the Session 0.5 reunion with snowflakes in his mane in the height of summer — an omen he and Bas both recognize as unwelcome and unseen since the last Frost Shepherds' era. Present for Teyou Zhiang's death at the table; confirms to the others that Barry, the original keeper of the Cat's Pajamas, was murdered in cold blood during Tycho's own mortal life, with the killer executed shortly before Tycho's ascension.
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ## Notes
 

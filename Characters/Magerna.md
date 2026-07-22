@@ -49,7 +49,7 @@ Touches the mysterious beggar who remarks on Teyou's death, prompting an unsolic
 
 *⚠️ Possible family connection: House Modril — the noble charitable house whose orphanage network takes in the rescued goblin child in Session 2 — shares its name with Magerna Modril, the farmer whose death is the origin of this Magerna's consciousness (see Origin, above), and Magerna's own origin story establishes that farmer as "the last of his line." Whether House Modril is a separate branch of the same family, a house that later adopted the name, or something else, is unaddressed in session — flagging rather than assuming a connection.*
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
 

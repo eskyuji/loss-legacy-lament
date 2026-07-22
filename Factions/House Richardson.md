@@ -22,7 +22,7 @@ House Richardson holds no standing military, because attacking it would draw the
 
 Held every year in the middle of Junathar (the Mythrir equivalent of June), at the Maw. Representatives of the great houses and major cities from across the world attend, and the head of House Richardson personally serves every guest at the table. One place setting is left empty every year for Milton, Bruce's raccoon companion, regardless of whether Bruce or Milton are still alive to occupy it.
 
-**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Vulcan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Vulcan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
 

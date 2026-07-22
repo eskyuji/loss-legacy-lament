@@ -50,5 +50,5 @@ That distinction matters for his arc. He already demonstrated, when he returned 
 
 ## Cross-references
 
-- [[Characters/Bas Tetran XXIV]] — the founding figure and current First Advisor
-- [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] — campaign in which Bas's arc centers on this tension
+- [Bas Tetran XXIV](../Characters/Bas Tetran XXIV) — the founding figure and current First Advisor
+- [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) — campaign in which Bas's arc centers on this tension

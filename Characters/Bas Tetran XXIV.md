@@ -14,7 +14,7 @@ title: Bas Tetran XXIV
 **Race:** Tabaxi (Snow Leopard)
 **Campaign Setting:** Post-apocalyptic technological future
 
-The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like a modern-day spy — charming, suave, and professionally lethal. Takes jobs for whoever is paying but holds a quiet moral code and won't touch overtly evil work. Head of [[Factions/House Tetran]], one of the oldest noble houses in Mythrir — the hereditary title "Bas" belongs to the house's ruling lord, making him both the origin and the namesake of an entire dynastic lineage. Later becomes Godblooded and immortal after touching Aleer's divine blood.
+The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like a modern-day spy — charming, suave, and professionally lethal. Takes jobs for whoever is paying but holds a quiet moral code and won't touch overtly evil work. Head of [House Tetran](../Factions/House Tetran), one of the oldest noble houses in Mythrir — the hereditary title "Bas" belongs to the house's ruling lord, making him both the origin and the namesake of an entire dynastic lineage. Later becomes Godblooded and immortal after touching Aleer's divine blood.
 
 **House motto:** "The Moon Remembers."
 
@@ -53,7 +53,7 @@ The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like 
 
 Receives the sword Reno — worn down to almost nothing but forged of pure Tychonium — as a freely-given gift from Tyn, the Oathstone of Tenacity, in Lost Hope, just before the city goes dark around them. Strikes a deal with the Yuan-Ti near Ryxspine Lake, trading years of his own life for the dagger that becomes the Coiled Viper. Present for Aleer's death aboard the Heracles and the Tower of the Third Moon arc; touches Aleer's divine blood in the aftermath and is transformed into "the Godblooded" — immortal, marked with metallic-gold eyes and luminous blue lips, the first of his line to become more than mortal.
 
-*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../archive/Items/Yeziah, the Sentient Platemail.md), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
+*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../archive/Items/Yeziah, the Sentient Platemail), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
 
 ---
 
@@ -76,11 +76,11 @@ Receives the sword Reno — worn down to almost nothing but forged of pure Tycho
 
 When Bas returned after his 500 years of servitude to Meeka, he found that House Tetran had continued without him — his cousin had inherited the title as Bas Tetran XXV, and successive Lords and Ladies had ruled capably in the centuries since. He did not reclaim his title or contest the succession. He introduced himself simply as Bas, accepted the position of First Advisor, and has served every subsequent Lord or Lady Tetran in that role ever since. None have begun their reign without seeking his blessing — not because law demands it, but because none have wished to.
 
-See [[Factions/House Tetran]] for full house history.
+See [House Tetran](../Factions/House Tetran) for full house history.
 
 ### Session 0.5 — The Reunion at the Cat's Pajamas
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
 - **Current appearance:** Visibly aged for the first time since his transformation — roughly 15-20 years' worth of wear despite the centuries. Distinguished rather than merely suave now ("silver fox era"): lighter, near-silver fur; long hair worn in a single braid over one shoulder (previously short); a new scar crossing his right eye from a blade that nearly took it; faint creases from age.
 - Recognizes snow falling over Veranath in summer — absent since the last Frost Shepherds' era — as a bad omen shared with Tycho, who carries the snowflakes in his mane into the bar.
@@ -90,7 +90,7 @@ See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for ful
 
 ### Session 1 — The Broken Blade
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
 - Searches Teyou's body directly for the first time: finds 37 electrum (an obsolete currency Teyou had tried to pay with earlier in the scene) and a three-inch sliver of Tychonium. Confirms in the process that Reno — the worn Tychonium sword Tyn gave him in Campaign 4 — was eventually melted down and reforged into a bismuth breastplate for Emp, and that Seraph's status is now confirmed **lost**, in the same unresolved category as Netiri and Za'ani.
 - Tracks the beggar on foot with Magerna, using his old "lose a gold piece" shorthand to summon Meeka directly for the first time since his 500 years in her service. Identifies the recurring vendor exchange as three word-for-word identical conversations — the first sign of Synchronization Malformata.
@@ -100,9 +100,9 @@ See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for ful
 
 ### Session 2 — Milton's Feast
 
-See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
-- Confirms with Thelonius that Tyn's old gift Reno (see [[Items/Reno]]) was melted down into a bismuth breastplate for Emp, and learns for the first time that the blade was originally Tyn's own sentient friend before his ascension to Oathstone.
+- Confirms with Thelonius that Tyn's old gift Reno (see [Reno](../Items/Reno)) was melted down into a bismuth breastplate for Emp, and learns for the first time that the blade was originally Tyn's own sentient friend before his ascension to Oathstone.
 - Questions 702 Purpose and Intent directly about how he already knows of Feit's possible return with no witnesses present; on a natural 20 insight check, confirms 702 is withholding something but not lying. Uses Panache to comfort, not manipulate, 702 after his confession about the murdered infant — the check fails against 702's own resolve, but the gesture lands anyway.
 - Declines to use 702's face for the goblin-camp notification out of respect after hearing his story; borrows a random lieutenant's face instead via his prestige-class ability, then decides against using even that once the scale of the massacre becomes clear.
 - Comforts and effectively adopts the sole goblin survivor, "Shithead," refusing to hand him off to intermediaries and personally escorting him to House Modril's orphanage at the Maw. Uses Inspiring Leader (26 temporary hit points) on the way out of Veranath.

@@ -20,7 +20,7 @@ title: The Shard
 
 ## Session 1 Session Detail
 
-Wielded as a makeshift shiv by a goblin — later revealed to be no older than sixteen or seventeen — in an unprovoked attack on [[NPCs/The Beggar]]. Each time the shard glows, its wielder's wounds knit shut instantly and he ignores outside commands entirely, including an overridden Command spell; every hit it lands does exactly one point of damage that feels, per Bas, "old" — like an ache before rain — regardless of armor or temporary hit points in the way.
+Wielded as a makeshift shiv by a goblin — later revealed to be no older than sixteen or seventeen — in an unprovoked attack on [The Beggar](../NPCs/The Beggar). Each time the shard glows, its wielder's wounds knit shut instantly and he ignores outside commands entirely, including an overridden Command spell; every hit it lands does exactly one point of damage that feels, per Bas, "old" — like an ache before rain — regardless of armor or temporary hit points in the way.
 
 When Bas severs the goblin's hand (and the shard with it) using Yesiah, the goblin withers to dust on the spot and a thread of black smoke pours out of the wound and back into the shard — implying the goblin had already stopped being fully himself by that point.
 
@@ -34,4 +34,4 @@ Too dangerous to carry — Meeka wraps it in her own refuse and takes it back to
 
 ## Notes
 
-*Full extent of the shard's power, its exact relationship to Feit, and why it chose Grit are all unconfirmed as of Session 2 — flagging rather than speculating further. See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.*
+*Full extent of the shard's power, its exact relationship to Feit, and why it chose Grit are all unconfirmed as of Session 2 — flagging rather than speculating further. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.*

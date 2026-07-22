@@ -17,9 +17,9 @@ title: One-Eyed Jack
 
 A civilian driver in Lost Hope who loses his eye to a helicopter pilot's stray cigarette flicked into it mid-takeoff. Gets conscripted into the party's chaos almost immediately — fake police lights on his van, high-speed chases, and asphalt monsters. Friendly, chaotic, and surprisingly unphased; becomes a recurring contact before Lost Hope goes dark. Named for the divine figure — the lesser divinity of death and service — though this Jack appears to be just a regular, chaotic guy.
 
-*Confirmed by the Campaign 1 raw notes: the divine "One-Eyed Jack" this character is named for is [[Yannick]] — "the blade in the dark," Mortalus's champion, a figure who began as a thief and rose to godhood. See [NPCs/Yannick.md](../NPCs/Yannick.md).*
+*Confirmed by the Campaign 1 raw notes: the divine "One-Eyed Jack" this character is named for is [Yannick](../NPCs/Yannick) — "the blade in the dark," Mortalus's champion, a figure who began as a thief and rose to godhood. See [NPCs/Yannick.md](../NPCs/Yannick).*
 
-*Confirmed by the Campaign 1 raw notes: the divine "One-Eyed Jack" this character is named for is [[Yannick]] — "the blade in the dark," Mortalus's champion, a figure who began as a thief and rose to godhood. See [NPCs/Yannick.md](../NPCs/Yannick.md).*
+*Confirmed by the Campaign 1 raw notes: the divine "One-Eyed Jack" this character is named for is [Yannick](../NPCs/Yannick) — "the blade in the dark," Mortalus's champion, a figure who began as a thief and rose to godhood. See [NPCs/Yannick.md](../NPCs/Yannick).*
 
 ---
 

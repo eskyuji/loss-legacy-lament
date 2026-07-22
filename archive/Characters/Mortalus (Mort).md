@@ -13,7 +13,7 @@ title: Mortalus (Mort)
 
 Tall, dark-haired, and regal in black robes. A scholar, death god, and keeper of the Library of Mor'Talus. Son of Un'Malo. Presents as a composed intellectual but drops his illusion at the death of his father, revealing a skeleton with dark feathered wings. Sacrifices himself during the fight against the Dark Bringer to restore the party to full strength. His scythe falls to the ground and is later taken up by Tycho.
 
-*⚠️ Naming note: the session notes refer to this scythe as "Death's Scythe" once Tycho claims it; an earlier compendium pass on this file called it "Death's Walking Stick." See [[archive/Items/Death's Walking Stick]] — both names kept on file pending clarification rather than silently resolved.*
+*⚠️ Naming note: the session notes refer to this scythe as "Death's Scythe" once Tycho claims it; an earlier compendium pass on this file called it "Death's Walking Stick." See [Death's Walking Stick](../Items/Death's Walking Stick) — both names kept on file pending clarification rather than silently resolved.*
 
 ---
 
@@ -23,7 +23,7 @@ Travels with the party disguised as a human ally named "Mort," accompanied by tw
 
 His true identity is revealed at the climax of the Ruby the Glass Eye confrontation (Day 105): after Ruby slits Yannick's throat, Mort'Talus drops his disguise and offers Yannick another chance at life in exchange for taking over his pact — reviving him just before Yannick, freed and "uncaged," defeats Ruby's true ooze form and takes her glass eye, setting him down the path toward eventual godhood as One-Eyed Jack.
 
-*A file originally created to treat the human "Mort" as a separate, unrelated character has been corrected and retracted — see [[Mort (Human of North Arill)]] for the correction record.*
+*A file originally created to treat the human "Mort" as a separate, unrelated character has been corrected and retracted — see [Mort (Human of North Arill)](../NPCs/Mort (Human of North Arill)) for the correction record.*
 
 ---
 

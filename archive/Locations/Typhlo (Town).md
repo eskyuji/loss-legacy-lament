@@ -24,4 +24,4 @@ A town built near the volcano where the god Typhlo buried himself after his batt
 
 ## Notes
 
-*See [[Aerynath]], [[Kythrazi]], and [[Mortalus (Mort)]] for cosmology surrounding Typhlo and Urath. Geography and contents to be added as they're established in session.*
+*See [Aerynath](../NPCs/Aerynath), [Kythrazi](../NPCs/Kythrazi), and [Mortalus (Mort)](../Characters/Mortalus (Mort)) for cosmology surrounding Typhlo and Urath. Geography and contents to be added as they're established in session.*

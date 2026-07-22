@@ -15,12 +15,12 @@ A set of 10th-level-and-above spells, each tied to a specific Moa, offered to th
 
 | Spell | School | Level | Tied to |
 |---|---|---|---|
-| Salazar's Mirrored Bastion | Abjuration | 11th | [[Salazar]] |
-| The Xanathar's Pocket Dimension | Conjuration | 10th | [[Xanathar]] |
-| Kytaar's Sands of Time | Divination | 10th | [[Kitar the Sphynx]] (spelling variant "Kytaar") |
-| The Nameless' Fungal Recruitment | Enchantment | 10th | [[The Nameless One (Moa)]] |
-| Behelor's Breath of the Mountain | Evocation | 10th | [[Behelor]] |
-| Skittarak's Killing Wind X | Necromancy | 11th | Possibly [[Sitherak the Alhoun]] (spelling variant) |
+| Salazar's Mirrored Bastion | Abjuration | 11th | [Salazar](../NPCs/Salazar) |
+| The Xanathar's Pocket Dimension | Conjuration | 10th | [Xanathar](../NPCs/Xanathar) |
+| Kytaar's Sands of Time | Divination | 10th | [Kitar the Sphynx](../NPCs/Kitar the Sphynx) (spelling variant "Kytaar") |
+| The Nameless' Fungal Recruitment | Enchantment | 10th | [The Nameless One (Moa)](../NPCs/The Nameless One (Moa)) |
+| Behelor's Breath of the Mountain | Evocation | 10th | [Behelor](../NPCs/Behelor) |
+| Skittarak's Killing Wind X | Necromancy | 11th | Possibly [Sitherak the Alhoun](../NPCs/Sitherak the Alhoun) (spelling variant) |
 | Polunaar's Move Reality | Transmutation | 11th | Possibly "Pelunar," referenced in the player's raw notes as a Moa who could corroborate Xanathar's account |
 | Blood of the Moa | ???? | 12th | Unattributed — name and owner left blank in the source ("????") |
 

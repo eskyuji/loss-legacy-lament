@@ -26,4 +26,4 @@ Originally Seraph's own artifact — its Stars Without Number effect was later f
 
 ## Notes
 
-*Full extent of its other effects (beyond the three used or described in session) not yet established. See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] and [[Characters/Meeka]] for context on how Meeka's access to it works.*
+*Full extent of its other effects (beyond the three used or described in session) not yet established. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) and [Meeka](../Characters/Meeka) for context on how Meeka's access to it works.*
