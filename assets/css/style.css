@@ -1,0 +1,258 @@
+/* Mythrir wiki — dark tech-noir theme */
+
+:root {
+  --bg: #050504;
+  --bg-elevated: #131210;
+  --bg-elevated-hover: #1d1b16;
+  --border: #2c2820;
+  --text: #ede6d6;
+  --text-muted: #96907e;
+  --gold: #c9a227;
+  --gold-bright: #eecb72;
+  --gold-dim: #8a6f2e;
+  --radius: 10px;
+  --max-width: 1000px;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(201, 162, 39, 0.10), transparent 60%),
+    radial-gradient(ellipse 900px 500px at 100% 0%, rgba(201, 162, 39, 0.06), transparent 60%),
+    var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Header */
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 48px 0 32px;
+  margin-bottom: 8px;
+}
+
+.site-title {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  background: linear-gradient(120deg, var(--gold-bright), var(--gold) 55%, var(--gold-dim));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.site-tagline {
+  margin: 10px 0 0;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Main content */
+
+main.page {
+  padding: 40px 24px 64px;
+}
+
+main.page > h1:first-child {
+  margin-top: 0;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  color: var(--text);
+}
+
+h1 { font-size: 1.9rem; }
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--border);
+  color: var(--gold-bright);
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: var(--gold-dim);
+}
+
+p { color: var(--text); }
+
+strong { color: var(--gold-bright); font-weight: 650; }
+
+em { color: var(--text-muted); }
+
+a {
+  color: var(--gold);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(211, 174, 106, 0.35);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+a:hover {
+  color: var(--gold-bright);
+  border-bottom-color: var(--gold-bright);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  margin: 2.5em 0;
+  background: linear-gradient(90deg, transparent, var(--border) 20%, var(--border) 80%, transparent);
+}
+
+blockquote {
+  margin: 1.5em 0;
+  padding: 0.2em 1.2em;
+  border-left: 3px solid var(--gold-dim);
+  color: var(--text-muted);
+  background: rgba(201, 162, 39, 0.06);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+code {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.9em;
+  color: var(--gold-bright);
+}
+
+pre {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  overflow-x: auto;
+}
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--text);
+}
+
+ul, ol { padding-left: 1.4em; }
+li { margin: 0.3em 0; }
+li::marker { color: var(--gold-dim); }
+
+img {
+  max-width: 100%;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+/* Data tables (stat blocks, item tables, etc.) — classic bordered rows. */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+th {
+  text-align: left;
+  background: var(--bg-elevated);
+  color: var(--gold-bright);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+td {
+  padding: 12px 14px;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+}
+tr > td:last-child { border-right: none; }
+tr:last-child > td { border-bottom: none; }
+
+tbody tr:hover {
+  background: var(--bg-elevated-hover);
+}
+
+/* Link-index grid (homepage) — opt in with {: .link-grid} under the table. */
+
+table.link-grid {
+  border: none;
+  border-collapse: separate;
+  border-spacing: 10px;
+  margin: 1.2em -10px;
+}
+
+table.link-grid th { display: none; }
+
+table.link-grid td {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+table.link-grid tbody tr:hover { background: none; }
+
+table.link-grid td:hover {
+  background: var(--bg-elevated-hover);
+  border-color: var(--gold);
+  transform: translateY(-1px);
+}
+
+table.link-grid td a {
+  display: block;
+  padding: 12px 16px;
+  border-bottom: none;
+  font-weight: 500;
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 28px 0 56px;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.site-footer a {
+  color: var(--text-muted);
+  border-bottom-color: var(--border);
+}
+.site-footer a:hover {
+  color: var(--gold-bright);
+}
+
+@media (max-width: 640px) {
+  .site-title { font-size: 1.5rem; }
+  table, tbody, tr, td { display: block; width: 100%; }
+  table { border-spacing: 0; }
+  td { margin-bottom: 10px; }
+}

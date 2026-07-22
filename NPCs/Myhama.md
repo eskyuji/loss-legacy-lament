@@ -1,3 +1,7 @@
+---
+title: Myhama
+---
+
 # Myhama
 
 **Type:** Background Character  

@@ -1,3 +1,7 @@
+---
+title: Goroshi
+---
+
 # Goroshi
 
 **Type:** Major Character  

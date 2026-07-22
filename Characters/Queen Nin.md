@@ -1,3 +1,7 @@
+---
+title: Queen Nin
+---
+
 # Queen Nin
 
 **Type:** Major Character  

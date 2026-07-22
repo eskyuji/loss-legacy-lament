@@ -1,3 +1,7 @@
+---
+title: Gul'Malar
+---
+
 # Gul'Malar
 
 **Type:** City (Underdark)

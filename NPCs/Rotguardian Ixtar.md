@@ -1,3 +1,7 @@
+---
+title: Rotguardian Ixtar
+---
+
 # Rotguardian Ixtar
 
 **Type:** Background Character  

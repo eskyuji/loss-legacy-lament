@@ -1,3 +1,7 @@
+---
+title: Carp
+---
+
 # Carp
 
 **Type:** Major Character  

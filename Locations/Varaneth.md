@@ -1,3 +1,7 @@
+---
+title: Varaneth
+---
+
 # Varaneth
 
 **Type:** City  

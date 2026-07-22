@@ -1,3 +1,7 @@
+---
+title: The Guilds of the Underdark
+---
+
 # The Guilds of the Underdark
 
 **Type:** Lore / faction-class entry

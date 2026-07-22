@@ -1,3 +1,7 @@
+---
+title: Reno
+---
+
 # Reno
 
 **Type:** Weapon (artifact-tier), Tychonium sword

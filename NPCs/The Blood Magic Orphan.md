@@ -1,3 +1,7 @@
+---
+title: The Blood Magic Orphan
+---
+
 # The Blood Magic Orphan
 
 **Type:** Background Character  

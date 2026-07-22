@@ -1,3 +1,7 @@
+---
+title: Feit
+---
+
 # Feit
 
 **Type:** Major Character  

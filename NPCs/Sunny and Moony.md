@@ -1,3 +1,7 @@
+---
+title: Sunny and Moony
+---
+
 # Sunny and Moony
 
 **Type:** Background Character  

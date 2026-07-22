@@ -1,3 +1,13 @@
-theme: jekyll-theme-midnight
 title: "Mythrir: Loss, Legacy, and Lament"
 description: "Campaign wiki for the Mythrir D&D 5e homebrew campaign."
+markdown: kramdown
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

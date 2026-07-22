@@ -1,3 +1,7 @@
+---
+title: House Richardson
+---
+
 # House Richardson
 
 **Type:** Great House (non-noble by blood — a house built on accumulated favors)

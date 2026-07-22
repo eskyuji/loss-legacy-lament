@@ -1,3 +1,7 @@
+---
+title: Typhlo (Town)
+---
+
 # Typhlo (Town)
 
 **Type:** Town / sacred site (Underdark)

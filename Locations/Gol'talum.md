@@ -1,3 +1,7 @@
+---
+title: Gol'talum
+---
+
 # Gol'talum
 
 **Type:** City

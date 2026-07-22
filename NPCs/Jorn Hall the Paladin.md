@@ -1,3 +1,7 @@
+---
+title: Jorn Hall the Paladin
+---
+
 # Jorn Hall the Paladin
 
 **Type:** Background NPC

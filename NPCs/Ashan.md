@@ -1,3 +1,7 @@
+---
+title: Ashan
+---
+
 # Ashan
 
 **Type:** Background Character  

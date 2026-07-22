@@ -1,3 +1,7 @@
+---
+title: Faro the Halfling
+---
+
 # Faro the Halfling
 
 **Type:** Background Character  

@@ -1,3 +1,7 @@
+---
+title: Enki Steelbane
+---
+
 # Enki Steelbane
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: The Earth Plate
+---
+
 # The Earth Plate
 
 **Type:** Wondrous item (necklace), attuned  

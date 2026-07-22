@@ -1,3 +1,7 @@
+---
+title: Thelonius
+---
+
 # Thelonius
 
 **Type:** Major Character  

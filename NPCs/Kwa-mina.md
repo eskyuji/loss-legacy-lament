@@ -1,3 +1,7 @@
+---
+title: Kwa-mina
+---
+
 # Kwa-mina
 
 **Type:** Background Character  

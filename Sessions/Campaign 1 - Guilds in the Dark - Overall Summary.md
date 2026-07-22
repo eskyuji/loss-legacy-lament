@@ -1,3 +1,7 @@
+---
+title: 'Campaign 1: Guilds in the Dark — Overall Summary'
+---
+
 # Campaign 1: Guilds in the Dark — Overall Summary
 
 **Party:** Paavu, Ryx, Iphitus, Yannick, Behelor and/or Lehinar (membership and roles inferred from the source material — not stated outright)

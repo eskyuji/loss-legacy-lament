@@ -1,3 +1,7 @@
+---
+title: Ryx
+---
+
 # Ryx
 
 **Type:** Background Character  

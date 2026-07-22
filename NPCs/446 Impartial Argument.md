@@ -1,3 +1,7 @@
+---
+title: 446 Impartial Argument
+---
+
 # 446 Impartial Argument
 
 **Type:** Background Character  

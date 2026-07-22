@@ -1,3 +1,7 @@
+---
+title: Salazar
+---
+
 # Salazar
 
 **Type:** Background NPC / Moa

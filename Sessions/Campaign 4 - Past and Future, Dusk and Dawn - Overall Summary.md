@@ -1,3 +1,7 @@
+---
+title: 'Campaign 4: Past and Future, Dusk and Dawn — Overall Summary'
+---
+
 # Campaign 4: Past and Future, Dusk and Dawn — Overall Summary
 
 **Party:** Bas Tetran XXIV, December Redd, Netiri, The Emperor (Za'a-ni)

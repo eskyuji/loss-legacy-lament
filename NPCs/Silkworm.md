@@ -1,3 +1,7 @@
+---
+title: Silkworm
+---
+
 # Silkworm
 
 **Type:** Background Character  

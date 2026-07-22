@@ -1,3 +1,7 @@
+---
+title: Hall of the Owls
+---
+
 # Hall of the Owls
 
 **Type:** Ancient ruin / dungeon  

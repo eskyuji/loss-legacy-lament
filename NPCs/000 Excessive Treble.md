@@ -1,3 +1,7 @@
+---
+title: 000 Excessive Treble
+---
+
 # 000 Excessive Treble
 
 **Type:** Background Character  

@@ -1,3 +1,7 @@
+---
+title: Drip Gut
+---
+
 # Drip Gut
 
 **Type:** Background Character  

@@ -1,3 +1,7 @@
+---
+title: Mackleroy
+---
+
 # Mackleroy
 
 **Type:** Background NPC

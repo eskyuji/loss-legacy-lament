@@ -1,3 +1,7 @@
+---
+title: Moa Pendants
+---
+
 # Moa Pendants
 
 **Type:** Artifact set (four pendants)

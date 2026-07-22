@@ -1,3 +1,7 @@
+---
+title: Salamada (Salamda)
+---
+
 # Salamada (Salamda)
 
 **Type:** City (Underdark)

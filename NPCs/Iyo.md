@@ -1,3 +1,7 @@
+---
+title: Iyo
+---
+
 # Iyo
 
 **Type:** Background Character  

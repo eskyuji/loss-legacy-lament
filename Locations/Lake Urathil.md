@@ -1,3 +1,7 @@
+---
+title: Lake Urathil
+---
+
 # Lake Urathil
 
 **Type:** Location (Underdark)

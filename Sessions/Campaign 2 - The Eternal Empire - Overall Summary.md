@@ -1,3 +1,7 @@
+---
+title: 'Campaign 2: The Eternal Empire — Overall Summary'
+---
+
 # Campaign 2: The Eternal Empire — Overall Summary
 
 **Party:** Tycho, Myka, Enki Steelbane, Seraph, with Mortalus and Carp joining for stretches  

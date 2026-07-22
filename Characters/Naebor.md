@@ -1,3 +1,7 @@
+---
+title: Naebor
+---
+
 # Naebor
 
 **Type:** Major Character  

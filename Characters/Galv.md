@@ -1,3 +1,7 @@
+---
+title: Galv
+---
+
 # Galv
 
 **Type:** Major Character  

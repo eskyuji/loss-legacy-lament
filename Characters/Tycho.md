@@ -1,3 +1,7 @@
+---
+title: Tycho
+---
+
 # Tycho
 
 *(The Pridemaster / God of Death)*

@@ -1,3 +1,7 @@
+---
+title: Armor of the Oni
+---
+
 # Armor of the Oni
 
 **Type:** Armor (unique), attuned  

@@ -1,3 +1,7 @@
+---
+title: Xixxern
+---
+
 # Xixxern
 
 **Type:** Dragon (NPC, spelling uncertain)

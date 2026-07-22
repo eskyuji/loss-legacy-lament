@@ -1,3 +1,7 @@
+---
+title: Maw of Arrath (the Maw)
+---
+
 # Maw of Arrath (the Maw)
 
 **Type:** City (Underdark)

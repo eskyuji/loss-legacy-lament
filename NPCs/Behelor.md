@@ -1,3 +1,7 @@
+---
+title: Behelor
+---
+
 # Behelor
 
 **Type:** Background Character  

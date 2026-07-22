@@ -1,3 +1,7 @@
+---
+title: Aerynath
+---
+
 # Aerynath
 
 **Type:** Major NPC / God

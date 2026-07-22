@@ -1,3 +1,7 @@
+---
+title: Resheek
+---
+
 # Resheek
 
 **Type:** Background Character  

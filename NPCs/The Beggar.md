@@ -1,3 +1,7 @@
+---
+title: The Beggar
+---
+
 # The Beggar
 
 **Type:** Recurring NPC — unnamed

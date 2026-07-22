@@ -1,3 +1,7 @@
+---
+title: Fiery Crown
+---
+
 # Fiery Crown
 
 **Type:** Item — taken from a defeated Moa

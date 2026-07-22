@@ -1,3 +1,7 @@
+---
+title: Monsieur Pierre
+---
+
 # Monsieur Pierre
 
 **Type:** Background Character  

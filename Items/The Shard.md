@@ -1,3 +1,7 @@
+---
+title: The Shard
+---
+
 # The Shard
 
 **Type:** Cursed Item — broken weapon fragment, Volcan Tychonium

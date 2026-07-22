@@ -1,3 +1,7 @@
+---
+title: Elise Redd
+---
+
 # Elise Redd
 
 **Type:** Background Character  

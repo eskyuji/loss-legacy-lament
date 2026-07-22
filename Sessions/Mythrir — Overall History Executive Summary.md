@@ -1,3 +1,7 @@
+---
+title: 'Mythrir — Overall History: Executive Summary'
+---
+
 # Mythrir — Overall History: Executive Summary
 
 A cross-campaign overview of Mythrir's documented history, spanning all four campaigns on file. Campaign 1's source material is notably sparser than the others — see the note at the end of this document.

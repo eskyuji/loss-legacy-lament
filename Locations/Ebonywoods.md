@@ -1,3 +1,7 @@
+---
+title: Ebonywoods
+---
+
 # Ebonywoods
 
 **Type:** Forest / region  

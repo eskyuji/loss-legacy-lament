@@ -1,3 +1,7 @@
+---
+title: Tyn
+---
+
 # Tyn
 
 **Type:** Major Character  

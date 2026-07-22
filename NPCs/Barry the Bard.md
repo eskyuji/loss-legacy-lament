@@ -1,3 +1,7 @@
+---
+title: Barry the Bard
+---
+
 # Barry the Bard
 
 **Type:** Background NPC

@@ -1,3 +1,7 @@
+---
+title: Bailey
+---
+
 # Bailey
 
 **Type:** Background Character  

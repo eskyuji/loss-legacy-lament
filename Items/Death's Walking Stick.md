@@ -1,3 +1,7 @@
+---
+title: Death's Walking Stick (a.k.a. Death's Scythe)
+---
+
 # Death's Walking Stick (a.k.a. Death's Scythe)
 
 **Type:** Scythe (relic), attuned  

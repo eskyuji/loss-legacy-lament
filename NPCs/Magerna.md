@@ -1,3 +1,7 @@
+---
+title: Magerna
+---
+
 # Magerna
 
 **Type:** Background Character  

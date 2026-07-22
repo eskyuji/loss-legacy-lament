@@ -1,3 +1,7 @@
+---
+title: Lehinar (Uriel)
+---
+
 # Lehinar (Uriel)
 
 **Type:** Major NPC / Moa (deceased)

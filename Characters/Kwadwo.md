@@ -1,3 +1,7 @@
+---
+title: Kwadwo
+---
+
 # Kwadwo
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: Wesley Valentine
+---
+
 # Wesley Valentine
 
 **Type:** Background Character  

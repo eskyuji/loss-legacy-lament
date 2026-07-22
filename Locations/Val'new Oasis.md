@@ -1,3 +1,7 @@
+---
+title: Val'new Oasis
+---
+
 # Val'new Oasis
 
 **Type:** Location (Underdark)

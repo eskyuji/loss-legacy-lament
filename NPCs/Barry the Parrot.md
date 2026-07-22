@@ -1,3 +1,7 @@
+---
+title: Barry the Parrot (the Pirate)
+---
+
 # Barry the Parrot (the Pirate)
 
 **Type:** Background NPC

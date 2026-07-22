@@ -1,3 +1,7 @@
+---
+title: Star
+---
+
 # Star
 
 **Type:** Background Character  

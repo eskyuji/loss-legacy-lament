@@ -1,3 +1,7 @@
+---
+title: One-Eyed Jack
+---
+
 # One-Eyed Jack
 
 **Type:** Major Character  

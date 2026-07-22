@@ -1,3 +1,7 @@
+---
+title: Russo
+---
+
 # Russo
 
 **Type:** Background Character  

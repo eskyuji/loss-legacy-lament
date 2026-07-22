@@ -1,3 +1,7 @@
+---
+title: Billy
+---
+
 # Billy
 
 **Type:** Background NPC

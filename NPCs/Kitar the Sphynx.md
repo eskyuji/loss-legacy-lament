@@ -1,3 +1,7 @@
+---
+title: Kitar the Sphynx
+---
+
 # Kitar the Sphynx
 
 **Type:** Major NPC / Moa

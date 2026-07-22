@@ -1,3 +1,7 @@
+---
+title: Master Tinkerer Morrin
+---
+
 # Master Tinkerer Morrin
 
 **Type:** Background Character  

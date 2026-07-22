@@ -1,3 +1,7 @@
+---
+title: Tilted Flagon
+---
+
 # Tilted Flagon
 
 **Type:** Inn

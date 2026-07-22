@@ -1,3 +1,7 @@
+---
+title: 702 Purpose and Intent
+---
+
 # 702 Purpose and Intent
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: Lost Hope
+---
+
 # Lost Hope
 
 **Type:** City  

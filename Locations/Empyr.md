@@ -1,3 +1,7 @@
+---
+title: Empyr
+---
+
 # Empyr
 
 **Type:** City

@@ -1,3 +1,7 @@
+---
+title: Seraph
+---
+
 # Seraph
 
 **Type:** Major Character  

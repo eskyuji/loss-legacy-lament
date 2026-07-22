@@ -1,3 +1,7 @@
+---
+title: Kythrazi
+---
+
 # Kythrazi
 
 **Type:** Major NPC / God

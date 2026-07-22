@@ -1,3 +1,7 @@
+---
+title: Shithead (Goblin Survivor)
+---
+
 # Shithead (Goblin Survivor)
 
 **Type:** Background Character

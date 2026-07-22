@@ -1,3 +1,7 @@
+---
+title: Tiny Tim
+---
+
 # Tiny Tim
 
 **Type:** Background Character  

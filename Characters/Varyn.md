@@ -1,3 +1,7 @@
+---
+title: Varyn
+---
+
 # Varyn
 
 **Type:** Major Character  

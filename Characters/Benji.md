@@ -1,3 +1,7 @@
+---
+title: Benji
+---
+
 # Benji
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: Myka
+---
+
 # Myka
 
 *(The Silver Rose / Vengeance Incarnate)*

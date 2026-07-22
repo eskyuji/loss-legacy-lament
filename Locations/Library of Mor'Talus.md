@@ -1,3 +1,7 @@
+---
+title: Library of Mor'Talus
+---
+
 # Library of Mor'Talus
 
 **Type:** Domain / library  

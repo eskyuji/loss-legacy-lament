@@ -1,3 +1,7 @@
+---
+title: Laylah
+---
+
 # Laylah
 
 **Type:** Background Character  

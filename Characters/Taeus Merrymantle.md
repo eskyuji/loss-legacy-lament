@@ -1,3 +1,7 @@
+---
+title: Taeus Merrymantle
+---
+
 # Taeus Merrymantle
 
 **Type:** Major Character  

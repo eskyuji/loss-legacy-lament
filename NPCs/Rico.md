@@ -1,3 +1,7 @@
+---
+title: Rico
+---
+
 # Rico
 
 **Type:** Background Character  

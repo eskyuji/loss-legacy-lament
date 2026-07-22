@@ -1,3 +1,7 @@
+---
+title: Veranath
+---
+
 # Veranath
 
 **Type:** City (ruin)

@@ -1,3 +1,7 @@
+---
+title: Yeziah, the Sentient Platemail
+---
+
 # Yeziah, the Sentient Platemail
 
 **Type:** Sentient armor (artifact-tier), attuned  

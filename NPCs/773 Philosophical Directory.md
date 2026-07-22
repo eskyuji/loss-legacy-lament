@@ -1,3 +1,7 @@
+---
+title: 773 Philosophical Directory
+---
+
 # 773 Philosophical Directory
 
 **Type:** Background Character  

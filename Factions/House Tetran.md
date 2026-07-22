@@ -1,3 +1,7 @@
+---
+title: House Tetran
+---
+
 # House Tetran
 
 **Type:** Noble House / Bloodline  

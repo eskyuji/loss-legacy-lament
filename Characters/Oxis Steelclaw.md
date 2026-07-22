@@ -1,3 +1,7 @@
+---
+title: Oxis Steelclaw
+---
+
 # Oxis Steelclaw
 
 **Type:** Major Character  

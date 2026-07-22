@@ -1,3 +1,7 @@
+---
+title: Moa Coin
+---
+
 # Moa Coin
 
 **Type:** Artifact / status token

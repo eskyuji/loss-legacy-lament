@@ -1,3 +1,7 @@
+---
+title: Zeth Nogoth
+---
+
 # Zeth Nogoth
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: Mort (Human of North Arill) — RETRACTED, see Mortalus (Mort)
+---
+
 # Mort (Human of North Arill) — RETRACTED, see Mortalus (Mort)
 
 **Type:** Correction record

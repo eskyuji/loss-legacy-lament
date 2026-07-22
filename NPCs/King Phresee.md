@@ -1,3 +1,7 @@
+---
+title: King Phresee
+---
+
 # King Phresee
 
 **Type:** Background NPC

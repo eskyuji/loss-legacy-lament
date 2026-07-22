@@ -1,3 +1,7 @@
+---
+title: Vice Conroy
+---
+
 # Vice Conroy
 
 **Type:** Background NPC

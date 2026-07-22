@@ -1,3 +1,7 @@
+---
+title: 'Campaign 5: Loss, Legacy, and Lament — Overall Summary'
+---
+
 # Campaign 5: Loss, Legacy, and Lament — Overall Summary
 
 **Party (so far):** Bas Tetran XXIV, Magerna (Starblood), Meeka — joined in-fiction by Tycho, Thelonius, and Nakki as recurring immortal allies

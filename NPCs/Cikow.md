@@ -1,3 +1,7 @@
+---
+title: Cikow
+---
+
 # Cikow
 
 **Type:** Background Character  

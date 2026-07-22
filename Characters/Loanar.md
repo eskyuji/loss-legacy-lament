@@ -1,3 +1,7 @@
+---
+title: Loanar
+---
+
 # Loanar
 
 **Type:** Major Character  

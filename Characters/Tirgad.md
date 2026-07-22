@@ -1,3 +1,7 @@
+---
+title: Tirgad
+---
+
 # Tirgad
 
 **Type:** Major Character  

@@ -1,3 +1,7 @@
+---
+title: Ruby the Glass Eye
+---
+
 # Ruby the Glass Eye
 
 **Type:** Major NPC / Antagonist

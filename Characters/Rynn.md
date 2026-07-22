@@ -1,3 +1,7 @@
+---
+title: Rynn
+---
+
 # Rynn
 
 **Type:** Major Character  

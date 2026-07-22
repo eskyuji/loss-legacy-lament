@@ -1,3 +1,7 @@
+---
+title: Queen's Boots
+---
+
 # Queen's Boots
 
 **Type:** Wondrous item (footwear), attuned  

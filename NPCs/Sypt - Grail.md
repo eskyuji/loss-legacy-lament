@@ -1,3 +1,7 @@
+---
+title: Sypt / Grail
+---
+
 # Sypt / Grail
 
 **Type:** Background Character  

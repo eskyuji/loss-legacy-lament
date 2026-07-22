@@ -1,3 +1,7 @@
+---
+title: Abacus Black
+---
+
 # Abacus Black
 
 **Type:** Major Character  

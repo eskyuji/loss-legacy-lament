@@ -1,3 +1,7 @@
+---
+title: Yannick
+---
+
 # Yannick
 
 **Type:** Background Character  

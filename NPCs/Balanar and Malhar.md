@@ -1,3 +1,7 @@
+---
+title: Balanar and Malhar
+---
+
 # Balanar and Malhar
 
 **Type:** Background NPCs / Moa

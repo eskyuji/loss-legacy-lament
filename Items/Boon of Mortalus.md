@@ -1,3 +1,7 @@
+---
+title: Boon of Mortalus
+---
+
 # Boon of Mortalus
 
 **Type:** Divine blessing (not a physical item)  

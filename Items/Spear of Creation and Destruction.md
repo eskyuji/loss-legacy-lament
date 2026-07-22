@@ -1,3 +1,7 @@
+---
+title: Spear of Creation and Destruction
+---
+
 # Spear of Creation and Destruction
 
 **Type:** Weapon (legendary)

@@ -1,3 +1,7 @@
+---
+title: Tower of the Third Moon
+---
+
 # Tower of the Third Moon
 
 **Type:** Landmark / dungeon

@@ -1,3 +1,7 @@
+---
+title: Oathstones
+---
+
 # Oathstones
 
 **Type:** Artifact class / lore concept (not a single item)  

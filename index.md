@@ -32,6 +32,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 | [Tyn](Characters/Tyn) | [Tyra](Characters/Tyra) |
 | [Un'Malo](Characters/Un'Malo) | [Varyn](Characters/Varyn) |
 | [Yelena Moller](Characters/Yelena%20Moller) | [Zeth Nogoth](Characters/Zeth%20Nogoth) |
+{: .link-grid}
 
 ---
 
@@ -47,6 +48,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 | [Reno](Items/Reno) | [Spear of Creation and Destruction](Items/Spear%20of%20Creation%20and%20Destruction) |
 | [The Earth Plate](Items/The%20Earth%20Plate) | [The Grand Magics](Items/The%20Grand%20Magics) |
 | [The Shard](Items/The%20Shard) | [Yeziah, the Sentient Platemail](Items/Yeziah,%20the%20Sentient%20Platemail) |
+{: .link-grid}
 
 ---
 
@@ -65,6 +67,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 | [Tilted Flagon](Locations/Tilted%20Flagon) | [Tower of the Third Moon](Locations/Tower%20of%20the%20Third%20Moon) |
 | [Typhlo (Town)](Locations/Typhlo%20(Town)) | [Val'new Oasis](Locations/Val'new%20Oasis) |
 | [Varaneth](Locations/Varaneth) | [Veranath](Locations/Veranath) |
+{: .link-grid}
 
 ---
 
@@ -73,6 +76,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 | | |
 |---|---|
 | [House Richardson](Factions/House%20Richardson) | [House Tetran](Factions/House%20Tetran) |
+{: .link-grid}
 
 ---
 
@@ -89,6 +93,7 @@ See [full NPC list](NPCs/) for the complete roster.
 | [Campaign 1 — Guilds in the Dark](Sessions/Campaign%201%20-%20Guilds%20in%20the%20Dark%20-%20Overall%20Summary) | [Campaign 2 — The Eternal Empire](Sessions/Campaign%202%20-%20The%20Eternal%20Empire%20-%20Overall%20Summary) |
 | [Campaign 3 — Remnants of a Broken World](Sessions/Campaign%203%20-%20Remnants%20of%20a%20Broken%20World%20-%20Overall%20Summary) | [Campaign 4 — Past and Future, Dusk and Dawn](Sessions/Campaign%204%20-%20Past%20and%20Future,%20Dusk%20and%20Dawn%20-%20Overall%20Summary) |
 | [Campaign 5 — Loss, Legacy, and Lament](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) | [Overall History Executive Summary](Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary) |
+{: .link-grid}
 
 ---
 

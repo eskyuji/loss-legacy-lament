@@ -1,3 +1,7 @@
+---
+title: The Pridemaster (Campaign 4)
+---
+
 # The Pridemaster (Campaign 4)
 
 **Type:** Background Character / Antagonist

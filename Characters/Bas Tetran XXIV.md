@@ -1,3 +1,7 @@
+---
+title: Bas Tetran XXIV
+---
+
 # Bas Tetran XXIV
 
 **Type:** Major Character

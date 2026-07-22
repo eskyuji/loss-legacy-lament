@@ -1,3 +1,7 @@
+---
+title: The Magus
+---
+
 # The Magus
 
 **Type:** Major Character  

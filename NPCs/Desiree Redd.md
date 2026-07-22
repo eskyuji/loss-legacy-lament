@@ -1,3 +1,7 @@
+---
+title: Desiree Redd
+---
+
 # Desiree Redd
 
 **Type:** Background Character  

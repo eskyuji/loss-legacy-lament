@@ -1,3 +1,7 @@
+---
+title: The Owl (Campaign 1)
+---
+
 # The Owl (Campaign 1)
 
 **Type:** Major NPC

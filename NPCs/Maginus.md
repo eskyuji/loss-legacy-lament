@@ -1,3 +1,7 @@
+---
+title: Maginus
+---
+
 # Maginus
 
 **Type:** Background Character  

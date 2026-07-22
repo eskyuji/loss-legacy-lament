@@ -1,3 +1,7 @@
+---
+title: The Grand Magics
+---
+
 # The Grand Magics
 
 **Type:** Lore / artifact-class entry — world-changing spells

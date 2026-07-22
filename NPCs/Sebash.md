@@ -1,3 +1,7 @@
+---
+title: Sebash
+---
+
 # Sebash
 
 **Type:** Background Character  

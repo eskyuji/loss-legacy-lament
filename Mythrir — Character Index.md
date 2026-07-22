@@ -1,3 +1,7 @@
+---
+title: Mythrir — Character Index
+---
+
 # Mythrir — Character Index
 
 Lightweight cross-reference for every named character and NPC across all four campaigns. Each entry links to its full file under `Characters/`, `NPCs/`, `Locations/`, or `Items/`.

@@ -1,3 +1,7 @@
+---
+title: Un'Malo
+---
+
 # Un'Malo
 
 **Type:** Major Character  

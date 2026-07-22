@@ -1,3 +1,7 @@
+---
+title: Mortalus (Mort)
+---
+
 # Mortalus (Mort)
 
 **Type:** Major Character  

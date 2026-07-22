@@ -1,3 +1,7 @@
+---
+title: Patricia
+---
+
 # Patricia
 
 **Type:** Background Character  

@@ -1,3 +1,7 @@
+---
+title: Logan
+---
+
 # Logan
 
 **Type:** Major Character  

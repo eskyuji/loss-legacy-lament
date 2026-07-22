@@ -1,3 +1,7 @@
+---
+title: Geno Atul
+---
+
 # Geno Atul
 
 **Type:** Background Character  

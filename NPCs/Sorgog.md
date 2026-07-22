@@ -1,3 +1,7 @@
+---
+title: Sorgog
+---
+
 # Sorgog
 
 **Type:** Background NPC

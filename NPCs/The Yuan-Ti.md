@@ -1,3 +1,7 @@
+---
+title: The Yuan-Ti
+---
+
 # The Yuan-Ti
 
 *(of Ryxspine Lake)*

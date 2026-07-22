@@ -1,3 +1,7 @@
+---
+title: Black Blood of Yag'saruf
+---
+
 # Black Blood of Yag'saruf
 
 **Type:** Entity / possible Beyond-aligned god

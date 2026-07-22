@@ -1,3 +1,7 @@
+---
+title: Paavu
+---
+
 # Paavu
 
 **Type:** Background Character  

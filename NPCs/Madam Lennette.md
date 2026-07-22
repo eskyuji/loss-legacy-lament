@@ -1,3 +1,7 @@
+---
+title: Madam Lennette
+---
+
 # Madam Lennette
 
 **Type:** Background Character  

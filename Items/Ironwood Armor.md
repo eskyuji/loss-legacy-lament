@@ -1,3 +1,7 @@
+---
+title: Ironwood Armor
+---
+
 # Ironwood Armor
 
 **Type:** Armor (unique), attuned  

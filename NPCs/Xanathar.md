@@ -1,3 +1,7 @@
+---
+title: Xanathar
+---
+
 # Xanathar
 
 **Type:** Major NPC / Moa

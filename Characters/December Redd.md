@@ -1,3 +1,7 @@
+---
+title: December Redd
+---
+
 # December Redd
 
 **Type:** Major Character  

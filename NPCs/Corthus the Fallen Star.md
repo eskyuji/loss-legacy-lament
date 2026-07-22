@@ -1,3 +1,7 @@
+---
+title: Corthus the Fallen Star
+---
+
 # Corthus the Fallen Star
 
 **Type:** Major NPC / Moa (deceased)

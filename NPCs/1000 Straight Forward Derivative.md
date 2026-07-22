@@ -1,3 +1,7 @@
+---
+title: 1000 Straight Forward Derivative
+---
+
 # 1000 Straight Forward Derivative
 
 **Type:** Background Character  

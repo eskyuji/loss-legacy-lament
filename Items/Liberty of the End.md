@@ -1,3 +1,7 @@
+---
+title: Liberty of the End
+---
+
 # Liberty of the End
 
 **Type:** Artifact — inactive, drawable via Divine Intervention

@@ -1,3 +1,7 @@
+---
+title: The Emperor (Za'a-ni)
+---
+
 # The Emperor (Za'a-ni)
 
 **Type:** Major Character  

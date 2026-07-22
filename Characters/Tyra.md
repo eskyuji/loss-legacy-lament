@@ -1,3 +1,7 @@
+---
+title: Tyra
+---
+
 # Tyra
 
 *(The Sword of Typhlo)*

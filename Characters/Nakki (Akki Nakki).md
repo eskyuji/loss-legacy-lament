@@ -1,3 +1,7 @@
+---
+title: Nakki (Akki Nakki)
+---
+
 # Nakki (Akki Nakki)
 
 **Type:** Major Character  
