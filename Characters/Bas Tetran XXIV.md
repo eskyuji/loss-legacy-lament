@@ -53,7 +53,7 @@ The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like 
 
 Receives the sword Reno — worn down to almost nothing but forged of pure Tychonium — as a freely-given gift from Tyn, the Oathstone of Tenacity, in Lost Hope, just before the city goes dark around them. Strikes a deal with the Yuan-Ti near Ryxspine Lake, trading years of his own life for the dagger that becomes the Coiled Viper. Present for Aleer's death aboard the Heracles and the Tower of the Third Moon arc; touches Aleer's divine blood in the aftermath and is transformed into "the Godblooded" — immortal, marked with metallic-gold eyes and luminous blue lips, the first of his line to become more than mortal.
 
-*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../Items/Yeziah, the Sentient Platemail.md), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
+*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../archive/Items/Yeziah, the Sentient Platemail.md), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
 
 ---
 

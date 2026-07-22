@@ -19,7 +19,7 @@ Protector of shadows. An apprentice of Benji's apprentice (Logan) who mastered s
 
 ## Campaign 4 Session Detail
 
-Killed roughly 2,000 years later by a new figure who rises to power in Shaidar's Rest calling himself "the Pridemaster," amid a Tiefling-vs-Leonin caste conflict following the city's flooding and the resurgence of blood magic. See the title-conflict flag on [Tycho's file](../Characters/Tycho.md), since Tycho also carries the title "the Pridemaster" from Campaigns 1–2.
+Killed roughly 2,000 years later by a new figure who rises to power in Shaidar's Rest calling himself "the Pridemaster," amid a Tiefling-vs-Leonin caste conflict following the city's flooding and the resurgence of blood magic. See the title-conflict flag on [Tycho's file](../../Characters/Tycho.md), since Tycho also carries the title "the Pridemaster" from Campaigns 1–2.
 
 ---
 

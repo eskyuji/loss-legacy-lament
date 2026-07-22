@@ -35,7 +35,7 @@ Takes over squad leadership after Taeus's promotion. Son of Maginus; his mother 
 
 **Magic items:** Buys a Cloak of Deflect Missiles. During the fight against the Dark Bringer, while mind-controlled, finds himself unworthy of the Greatsword of the Pridemaster and instead takes up Mortalus's scythe after Mort's sacrifice. After the Dark Bringer falls, he struggles to lift the Greatsword again — and this time proves himself worthy, ending the campaign with both weapons in hand. Receives Yeziah, a sentient suit of platemail.
 
-*⚠️ Naming note: the session notes call Mort's scythe "Death's Scythe" once Tycho takes it up. An earlier compendium pass on this file used "Death's Walking Stick." Both names are preserved in [[Items/Death's Walking Stick]] pending clarification — flagging rather than silently picking one.*
+*⚠️ Naming note: the session notes call Mort's scythe "Death's Scythe" once Tycho takes it up. An earlier compendium pass on this file used "Death's Walking Stick." Both names are preserved in [[archive/Items/Death's Walking Stick]] pending clarification — flagging rather than silently picking one.*
 
 *Update from the Campaign 3 notes: usage there consistently calls the weapon "Death's Walking Stick" ("Tycho swings Death's Walking Stick and beheads the Rakshasa"), suggesting the name settled by that point. Leaving the Campaign 2 flag in place rather than retroactively editing it, since it may simply reflect informal naming before the title crystallized.*
 

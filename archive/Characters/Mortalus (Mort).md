@@ -13,7 +13,7 @@ title: Mortalus (Mort)
 
 Tall, dark-haired, and regal in black robes. A scholar, death god, and keeper of the Library of Mor'Talus. Son of Un'Malo. Presents as a composed intellectual but drops his illusion at the death of his father, revealing a skeleton with dark feathered wings. Sacrifices himself during the fight against the Dark Bringer to restore the party to full strength. His scythe falls to the ground and is later taken up by Tycho.
 
-*⚠️ Naming note: the session notes refer to this scythe as "Death's Scythe" once Tycho claims it; an earlier compendium pass on this file called it "Death's Walking Stick." See [[Items/Death's Walking Stick]] — both names kept on file pending clarification rather than silently resolved.*
+*⚠️ Naming note: the session notes refer to this scythe as "Death's Scythe" once Tycho claims it; an earlier compendium pass on this file called it "Death's Walking Stick." See [[archive/Items/Death's Walking Stick]] — both names kept on file pending clarification rather than silently resolved.*
 
 ---
 

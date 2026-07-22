@@ -19,7 +19,7 @@ Ancient beyond reckoning, cursed into the form of a sphynx cat by The Watcher fo
 
 The Oathstone of Remembrance reveal pays off fully here: now ruling over a dead, abandoned Veranath as a cat hive-mind, Thelonius leads the party through four labors as part of his "Oathstone of Remembrance" arc before they cross the Gates of the Afterlife.
 
-*⚠️ Possible naming overlap: the Campaign 4 raw notes spell this ruined cat-city "Veranath," while the existing [Locations/Varaneth.md](../Locations/Varaneth.md) entry (capital of the Eternal Empire, home of the Cat's Pajamas, from Campaign 2) is spelled "Varaneth." Given Thelonius's strong ties to both — he holds court at the Cat's Pajamas in the Campaign 2 city and rules the cat hive-mind in the Campaign 4 city — these may be the same city fallen to ruin 2,000 years later, or two distinctly named places. Flagging rather than merging the Locations entries.*
+*⚠️ Possible naming overlap: the Campaign 4 raw notes spell this ruined cat-city "Veranath," while the existing [Locations/Varaneth.md](../archive/Locations/Varaneth.md) entry (capital of the Eternal Empire, home of the Cat's Pajamas, from Campaign 2) is spelled "Varaneth." Given Thelonius's strong ties to both — he holds court at the Cat's Pajamas in the Campaign 2 city and rules the cat hive-mind in the Campaign 4 city — these may be the same city fallen to ruin 2,000 years later, or two distinctly named places. Flagging rather than merging the Locations entries.*
 
 ---
 
