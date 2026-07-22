@@ -9,7 +9,17 @@
 
 ## Overview
 
-Leader of Lost Hope. Has a steel arm, a Tychonium sword, and armor of Mykanonium. Makes deals with an Oathpact that forces truth from others in exchange for their freedom. Powerful, measured, and politically savvy. Implied to be the next Oathstone.
+Leader of Lost Hope. Has a steel arm, a Tychonium sword, and armor of Mykanonium. Makes deals with an Oathpact that forces truth from others in exchange for their freedom. Powerful, measured, and politically savvy. Implied to be the next Oathstone — confirmed in Campaign 5 as the Oathstone of Tenacity.
+
+*⚠️ Naming note: this file and [[Items/Oathstones]] spell the name "Tin"; the Campaign 5 session transcripts consistently render it "Tyn" in dialogue (Bas himself hesitates over the pronunciation in Session 2 — "Am I remembering that name right? Rin?" — referring to the blade Reno/Rynn, see [[Items/Reno]]). Both spellings are treated as the same individual here — flagging the variant rather than silently standardizing it.*
+
+---
+
+## Campaign 5 Session Detail
+
+**Session 2 (secondhand, via Thelonius):** Does not appear in person. Confirmed — beyond mere implication — to have become an Oathstone: Thelonius reveals that upon Tyn's ascension, his own sentient friend was transformed into a weapon, the Tychonium blade later known as Reno/Rynn, gifted to Bas roughly 2,000 years ago (see [[Items/Reno]]). Also confirmed as the namesake of Tychonium itself, the Vulcan-forged metal — Thelonius personally witnessed him, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds, "the reason the metal bears his name."
+
+See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
 
 ---
 

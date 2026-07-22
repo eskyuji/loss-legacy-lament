@@ -11,4 +11,6 @@ Organization:
 
 When generating new content (NPCs, lore, recaps, homebrew items, art prompts), match the tone and aesthetic already established: dark, gritty, tech-noir fantasy — not generic medieval high fantasy.
 
+For character art prompts specifically, use the named visual style defined in [Mythrir - Gilded Lament Art Style Guide.md](Mythrir%20-%20Gilded%20Lament%20Art%20Style%20Guide.md) as the base layer (painterly portrait, gold-leaf banner background, shard/faceted fabric texture, muted indigo/gold/accent palette), then layer character-specific pose/outfit/weapon details on top, matching the pattern already used in each character's own "Final Image Generation Prompt" section.
+
 If something I ask for conflicts with established lore or an existing file, flag the conflict rather than silently overwriting it.

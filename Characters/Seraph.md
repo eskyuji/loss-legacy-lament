@@ -27,6 +27,14 @@ A major antagonist arc this time: bound once again by a Geas, this iteration of 
 
 ---
 
+## Campaign 5 Session Detail
+
+Not present in Campaign 5, but his fate is addressed: confirmed (Session 1) to have been present at the Frost Shepherds' final confrontation with Feit, and his current status is **lost** — the same unresolved category as Netiri and Za'ani. No evidence of death across the intervening 2,000 years, but no confirmation of survival either. See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+
+**Metal namesake:** Seraphium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Myconium/Netiri) — is named for Seraph. It has become vanishingly rare since his disappearance, per Session 1.
+
+---
+
 ## Campaign 3 Session Detail
 
 Reveals a past as a member of the Cloaked Hand, the Order of Iphitus's shadow-assassination arm targeting tyrants and evildoers. Casts Legend Lore to help The Magus research the Oathstones. Disguises himself as a vulture-folk to move through The Crash unnoticed, hiding his innate light behind a held torch. Mind-controls the Rakshasa Sebash after Sebash tries the same on Tycho, forcing him to reveal Goroshi's secret. Confirms that ordinary restoration magic cannot undo what Benji's spell does to Thelonius's missing arm — it's not damage, but a true erasure.

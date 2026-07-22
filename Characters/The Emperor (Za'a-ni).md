@@ -17,6 +17,16 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 
 ---
 
+## Campaign 5 Session Detail
+
+Confirmed (Session 1, secondhand — Emp does not appear in person) to have received [[Items/Reno]], Bas's old Tychonium blade from Tyn, at some point after Campaign 4 — melted down and reforged into a bismuth breastplate he now wears.
+
+**Session 2 (secondhand, via 702 Purpose and Intent):** Named, alongside Bas and Netiri, as one of the three the fallen city of Shaidar's Rest was decreed "lost to the influence of" by Feit — the justification Feit gave 702 for ordering the killing of an infant during that city's fall. Za'ani himself was not present and the connection is otherwise unexplained.
+
+See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
+
+---
+
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*

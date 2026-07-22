@@ -2,11 +2,18 @@
 
 Lightweight cross-reference for every named character and NPC across all four campaigns. Each entry links to its full file under `Characters/`, `NPCs/`, `Locations/`, or `Items/`.
 
-**Session recaps:** [Campaign 1 — Guilds in the Dark: Overall Summary](Sessions/Campaign 1 - Guilds in the Dark - Overall Summary.md) · [Campaign 2 — The Eternal Empire: Overall Summary](Sessions/Campaign 2 - The Eternal Empire - Overall Summary.md) · [Campaign 3 — Remnants of a Broken World: Overall Summary](Sessions/Campaign 3 - Remnants of a Broken World - Overall Summary.md) · [Campaign 4 — Past and Future, Dusk and Dawn: Overall Summary](Sessions/Campaign 4 - Past and Future, Dusk and Dawn - Overall Summary.md) · [Overall History — Executive Summary](Sessions/Mythrir — Overall History Executive Summary.md)
+**Session recaps:** [Campaign 1 — Guilds in the Dark: Overall Summary](Sessions/Campaign 1 - Guilds in the Dark - Overall Summary.md) · [Campaign 2 — The Eternal Empire: Overall Summary](Sessions/Campaign 2 - The Eternal Empire - Overall Summary.md) · [Campaign 3 — Remnants of a Broken World: Overall Summary](Sessions/Campaign 3 - Remnants of a Broken World - Overall Summary.md) · [Campaign 4 — Past and Future, Dusk and Dawn: Overall Summary](Sessions/Campaign 4 - Past and Future, Dusk and Dawn - Overall Summary.md) · [Campaign 5 — Loss, Legacy, and Lament: Overall Summary](Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary.md) · [Overall History — Executive Summary](Sessions/Mythrir — Overall History Executive Summary.md)
+
+*⚠️ Campaign 5 is in progress — its section below will grow session by session, unlike the retrospective Campaign 1–4 sections.*
 
 *⚠️ Structural note: the section formerly labeled "CAMPAIGN 1 — Past and Future, Dusk and Dawn" was renamed to "CAMPAIGN 4" and moved to the end of this index in an earlier pass. "Past and Future, Dusk and Dawn" is Campaign 4's actual title (confirmed against the uploaded Campaign 4 raw notes); the original "Campaign 1" label was a leftover artifact from the very first whole-compendium parse, done before per-campaign chronology had been established. No content was removed — only relabeled and reordered. Four entries originally filed under "Campaign 3" (Oxis Steelclaw, Teyou Zhiang, Geno Atul, Rotguardian Ixtar) were likewise moved into the Campaign 4 section, each with an in-file correction flag rather than a silent edit. See each file for details.*
 
 *A genuine Campaign 1 — "Guilds in the Dark" — has since been added below, built from a separate, newly uploaded raw-notes file unrelated to the earlier mislabeling. It appears to predate Campaign 2 chronologically (it reads as the founding/recruitment era of the Moa, who recur as ancient legends by Campaign 2), but the raw notes never state this explicitly — treat the ordering as inferred, not confirmed.*
+
+## Factions
+
+- [House Tetran](Factions/House%20Tetran.md) — One of Mythrir's oldest noble houses; motto "The Moon Remembers." The hereditary title "Bas" has passed through successive Lords and Ladies for millennia, originating with Bas Tetran XXIV. He serves as First Advisor to every new head of house rather than reclaiming the title. *(Crest image: save to `Factions/House Tetran - Crest.png`)*
+- [House Richardson](Factions/House%20Richardson.md) — A favor-based great house of the Maw with no currency or standing military; founded by musician Bruce Richardson and his raccoon companion Milton. Hosts the annual Milton's Feast. *(Campaign 5.)*
 
 ## CAMPAIGN 1 — Guilds in the Dark
 
@@ -188,25 +195,24 @@ Lightweight cross-reference for every named character and NPC across all four ca
 
 ### Characters
 
-- [702 Purpose and Intent](Characters/702 Purpose and Intent.md) — A Steel Wrought (Warforged) commander.
-- [Bas Tetran XXIV](Characters/Bas Tetran XXIV.md) — The twenty-fourth in a long line of Tabaxi bearing the same name.
-- [December Redd](Characters/December Redd.md) — A shifter whose eyes glow.
+- [702 Purpose and Intent](Characters/702 Purpose and Intent.md) — A Steel Wrought (Warforged) commander. *(Also Campaign 5 — confesses to killing a child under Feit's control.)*
+- [Bas Tetran XXIV](Characters/Bas Tetran XXIV.md) — The twenty-fourth in a long line of Tabaxi bearing the same name. *(Also Campaign 5 — now a demigod, Champion of the Tetrans.)*
+- [December Redd](Characters/December Redd.md) — A shifter whose eyes glow. *(Also Campaign 5 — referenced secondhand only.)*
 - [Feit](Characters/Feit.md) — Ancient, ageless, and deeply wrong; revealed as "the Dark Door," shed order of Yogg-Sothoth. *(Also Campaign 3.)*
 - [Galv](Characters/Galv.md) — A bald Truthspeaker with burnt skin and splotchy coloring.
 - [Loanar](Characters/Loanar.md) — An ancient goddess of silver roses.
-- [Meeka](Characters/Meeka.md) — God of All Lost Things.
+- [Meeka](Characters/Meeka.md) — God of All Lost Things. *(Also Campaign 5.)*
 - [Myka](Characters/Myka.md) — Dies and is remade as Vengeance Incarnate in Loanar's realm. *(Also Campaigns 2 and 3.)*
 - [Naebor](Characters/Naebor.md) — A male myconid and old friend of Netiri's.
-- [Netiri](Characters/Netiri.md) — A Satyr Circle of Spores druid and guardian of the Rot Farms.
+- [Netiri](Characters/Netiri.md) — A Satyr Circle of Spores druid and guardian of the Rot Farms. *(Also Campaign 5 — confirmed lost.)*
 - [One-Eyed Jack](Characters/One-Eyed Jack.md) — A civilian driver who loses his eye to a helicopter pilot's stray cigarette.
 - [Oxis Steelclaw](Characters/Oxis Steelclaw.md) — A seven-foot-ten Dragonborn fighter from one of the three great Dragonborn houses. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
 - [Seraph](Characters/Seraph.md) — A tall, pale Aasimar with completely black eyes save for metallic silver irises; bound by a new Geas, redeemed a second time by Meeka. *(Also Campaigns 2 and 3.)*
-- [Teyou Zhiang](Characters/Teyou Zhiang.md) — The God with a capital G; delivers the campaign's central cosmological lore-dump. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
-- [The Emperor (Za'a-ni)](Characters/The Emperor (Za'a-ni).md) — An arrogant, scrawny, armless Leonin armorer artificer, only eighteen years old.
+- [Teyou Zhiang](Characters/Teyou Zhiang.md) — The God with a capital G; delivers the campaign's central cosmological lore-dump. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file. Dies in Campaign 5.)*
+- [The Emperor (Za'a-ni)](Characters/The Emperor (Za'a-ni).md) — An arrogant, scrawny, armless Leonin armorer artificer, only eighteen years old. *(Also Campaign 5 — referenced secondhand only.)*
 - [Thelonius](Characters/Thelonius.md) — Leads the party through four labors in Veranath; ruler of the cat hive-mind there. *(Also Campaigns 2 and 3.)*
-- [Tin](Characters/Tin.md) — Leader of Lost Hope; charges Varyn with refounding the Moa. *(Also Campaign 3.)*
-- [Tycho](Characters/Tycho.md) — A scarred Leonin who began as a soldier and became a legend; dies and is confirmed as the God of Death in Loanar's realm. *(Also Campaigns 2 and 3. ⚠️ title conflict with the new "Pridemaster" flagged in-file.)*
-- [Tyn](Characters/Tyn.md) — The Oathstone of Tenacity; gives his sword Reno to Bas Tetran XXIV before Lost Hope goes dark around him.
+- [Tin](Characters/Tin.md) — Leader of Lost Hope; charges Varyn with refounding the Moa; gives his sword Reno to Bas Tetran XXIV before Lost Hope goes dark around him. ⚠️ Also appears in earlier index passes as "Tyn," an apparent spelling variant used consistently in the Campaign 5 session transcripts — same individual, see naming flag in-file. *(Also Campaign 3; also Campaign 5 — confirmed as the Oathstone of Tenacity.)*
+- [Tycho](Characters/Tycho.md) — A scarred Leonin who began as a soldier and became a legend; dies and is confirmed as the God of Death in Loanar's realm. *(Also Campaigns 2, 3, and 5. ⚠️ title conflict with the new "Pridemaster" flagged in-file.)*
 - [Varyn](Characters/Varyn.md) — A stitchwork fighter assembled from the limbs of multiple races; introduces the reformed Moa party.
 
 ### NPCs
@@ -244,3 +250,45 @@ Lightweight cross-reference for every named character and NPC across all four ca
 - [Moa Pendants](Items/Moa%20Pendants.md) — Four pendants distributed by Meeka at her bazaar, tied to Loanar's lore.
 - [Reno](Items/Reno.md) — Tyn's Tychonium sword, given to Bas Tetran XXIV in Lost Hope.
 - [Spear of Creation and Destruction](Items/Spear%20of%20Creation%20and%20Destruction.md) — Legendary spear found in Magerna's bag.
+
+## CAMPAIGN 5 — Loss, Legacy, and Lament
+
+*In progress — see [Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary](Sessions/Campaign%205%20-%20Loss%2C%20Legacy%2C%20and%20Lament%20-%20Overall%20Summary.md) for full detail. Title inferred from in-session Discord category chatter, not yet confirmed outright by the GM.*
+
+### Characters
+
+- [Bas Tetran XXIV](Characters/Bas%20Tetran%20XXIV.md) — Now a demigod and Champion of the Tetrans, two thousand years into immortality and increasingly jaded. *(Also Campaign 4.)*
+- [Magerna](Characters/Magerna.md) — A scarecrow given consciousness, now the Aspect of Lament. ⚠️ Shares a name and concept with an unrelated, non-Mythrir character of the same name from a different campaign ("Tyranny") — flagged, not merged.
+- [Meeka](Characters/Meeka.md) — God of All Lost Things; revealed to have held Bas Tetran XXIV in 500 years of servitude after Campaign 4's finale. *(Also Campaign 4.)*
+- [Teyou Zhiang](Characters/Teyou%20Zhiang.md) — The Worldcrafter; dies suddenly and without ceremony at the campaign's opening, leaving a will and testament behind. *(Also Campaign 4.)*
+- [Tycho](Characters/Tycho.md) — God of Death; keeps a standing century-mark reunion with Bas Tetran XXIV at the Cat's Pajamas. *(Also Campaigns 2 and 3.)*
+- [Seraph](Characters/Seraph.md) — Not present in person; confirmed (Session 1) **lost**, in the same unresolved category as Netiri and Za'ani, since the Frost Shepherds' final battle with Feit. *(Also Campaigns 2, 3, and 4.)*
+- [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent.md) — First Campaign 5 appearance (Session 2); confesses to breaking an infant's neck under Feit's direct control during the fall of Shaidar's Rest, and reveals the origin of Bas's divine blood. *(Also Campaign 4.)*
+- [Tin](Characters/Tin.md) — Does not appear in person; confirmed (Session 2, secondhand via Thelonius) as the Oathstone of Tenacity. *(Also Campaigns 3 and 4. ⚠️ naming flag re: "Tin"/"Tyn" in-file.)*
+- [Netiri](Characters/Netiri.md) — Does not appear; confirmed (Session 1) lost, and named secondhand (Session 2, via 702) as one of three blamed by Feit for Shaidar's Rest's fall. *(Also Campaign 4.)*
+- [The Emperor (Za'a-ni)](Characters/The%20Emperor%20(Za'a-ni).md) — Does not appear; confirmed (Session 1) to have received and melted down Reno into a bismuth breastplate, and named secondhand (Session 2, via 702) alongside Bas and Netiri. *(Also Campaign 4.)*
+- [December Redd](Characters/December%20Redd.md) — Does not appear; implicated secondhand (Session 2, via 702) in an affair connected to the killed infant's father. *(Also Campaign 4.)*
+
+### NPCs
+
+- [Thelonius](Characters/Thelonius.md) — Oathstone of Remembrance; has kept Veranath unchanged for four thousand years, currently presenting in rarer human form as a bard at the Cat's Pajamas. *(Also Campaigns 2, 3, and 4.)*
+- Nakki (Akki Nakki) — Crashes the Session 0.5 reunion to steal a drink and offer a one-line greeting before being chased out; letter from Teyou's will addressed to her remains undelivered. *(Also Campaign 2 — see [Characters/Nakki (Akki Nakki).md](Characters/Nakki%20(Akki%20Nakki).md).)*
+- [The Beggar](NPCs/The%20Beggar.md) — Apparently mundane human in his 50s-60s who delivers the seven-worlds prophecy in Session 0.5; revealed in Session 1 to have been reliving the same day on a loop, freed but left mentally broken, and last seen walking north toward the Hall of the Owls.
+- The Owl — A robed, pewter-owl-masked figure seen chronicling events on a Veranath rooftop in Session 1, the first Owl sighting in 2,000 years. Impervious to every attack tried against it. See [Locations/Hall of the Owls](Locations/Hall%20of%20the%20Owls.md#campaign-5-update-session-1).
+- [Shithead (Goblin Survivor)](NPCs/Shithead%20(Goblin%20Survivor).md) — Sole survivor of a goblin-camp massacre under Verenath's Western Bridge (Session 2); adopted and personally escorted to a House Modril orphanage at the Maw by the party.
+
+### Locations
+
+- [Veranath](Locations/Veranath.md) — Unchanged for four thousand years under Thelonius's watch; the Cat's Pajamas tavern is the site of the immortals' once-a-century reunion. *(Also Campaign 4.)*
+- [Hall of the Owls](Locations/Hall%20of%20the%20Owls.md) — Confirmed (Session 1) as the site of the Frost Shepherds' final battle with Feit; the Owls' 2,000-year dormancy began there and just ended. *(Also Campaign 2.)*
+- [Maw of Arrath](Locations/Maw%20of%20Arrath.md) — Destination for Milton's Feast (Session 2), hosted by [[Factions/House Richardson]]; also home to a House Modril orphanage. Party arrives just outside the city as Session 2 ends. *(Also Campaign 1.)*
+
+### Items
+
+- A six-inch wagon-wheel splinter — given to Bas Tetran XXIV in Teyou's will; identified as a fragment from a mule-cart journey taken with fellow Frost Shepherds Netiri and "Emp" (the Emperor, Za'a-ni).
+- A handful of ancestral farm soil — given to Magerna in Teyou's will.
+- A plain wooden button — given to Meeka in Teyou's will; the missing eye from her original doll form.
+- A cat collar — given to Thelonius in Teyou's will.
+- [The Shard](Items/The%20Shard.md) — A broken, Volcan-marked Tychonium fragment that animated and controlled a goblin attacker in Session 1; speaks to Bas alone and is confirmed by Meeka to carry Feit's voice. In Session 2, the goblin it possessed is named (Grit) and confirmed to have slaughtered his own camp with it. Now held in Meeka's domain.
+- [Reno](Items/Reno.md) — Bas's old Tychonium sword from Campaign 4; confirmed (Session 1) melted down at some point since and reforged into a bismuth breastplate for Emp. Revealed (Session 2) to have originally been Tin/Tyn's own sentient friend before his ascension to Oathstone.
+- [Liberty of the End](Items/Liberty%20of%20the%20End.md) — Seraph's old hourglass artifact (Session 2); drawn from Meeka's domain via her reworked Divine Intervention and used to relocate the party 22 miles south of the Maw.

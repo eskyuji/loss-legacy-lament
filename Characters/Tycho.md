@@ -3,7 +3,7 @@
 *(The Pridemaster / God of Death)*
 
 **Type:** Major Character  
-**Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire
+**Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire, CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---
 
@@ -44,6 +44,14 @@ Gains a deep facial scar (left eye to chin, with shards of glass embedded from s
 Trades his cloak and gold to Meeka for the Armor of the Oni. Tests Death's Walking Stick on a returned-dead creature and discovers it can tear open portals to other realms (in this case, to The Crash).
 
 Present for Star's death during the blood magic riot in Shaidar's Rest — his grief curdles into rage: he bites the jugular of a captured blood mage and lets the blood run down his face, then swears to gain enough power to never let this happen again. Later, by request, executes Goroshi once Goroshi is revealed to be the lich Nebbuzar's phylactery.
+
+---
+
+## Campaign 5 Session Detail
+
+By his own accounting, roughly twice two thousand years have passed since he last held the Frost Shepherds' title himself — placing Campaign 5 at roughly 4,000 years after the Eternal Empire of Campaign 2. **Metal namesake:** Tychonium — silver-gray metal that transmutes ordinary iron wherever Tycho's influence runs strong — is confirmed (Session 1) to be one of three Vulcan-forged metals directly named for and tied to a specific individual, alongside Seraphium (Seraph) and Myconium (Netiri). Keeps a standing, once-a-century appointment with Bas Tetran XXIV and other long-lived survivors at the Cat's Pajamas in Veranath — a town unchanged in the four thousand years of Thelonius's stewardship as the Oathstone of Remembrance. Arrives at the Session 0.5 reunion with snowflakes in his mane in the height of summer — an omen he and Bas both recognize as unwelcome and unseen since the last Frost Shepherds' era. Present for Teyou Zhiang's death at the table; confirms to the others that Barry, the original keeper of the Cat's Pajamas, was murdered in cold blood during Tycho's own mortal life, with the killer executed shortly before Tycho's ascension.
+
+See [[Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary]] for full scene detail.
 
 ## Notes
 

@@ -16,7 +16,7 @@ When a person becomes an Oathstone, their body and spirit separate. Known and su
 | Oathstone of Eternity | Benji | Spirit recovered from the mausoleum beneath Shaidar's Rest; his body had been desecrated by Logan to create the first blood magic. |
 | Oathstone of Remembrance | Thelonius | Already established prior to Campaign 3 — his curse (forgetting his duty, despite his nature being Remembrance) is the founding paradox behind Meeka's existence. |
 | Possible Oathstone | Goroshi | Strongly implied (Seraph notices it; neither Queen Nin nor The Magus had). Goroshi turns out instead to be Nebbuzar's phylactery — whether he is also an Oathstone is left ambiguous. |
-| Possible Oathstone | Tin (the Merchant King) | Strongly implied by his own words and his metal arm; not yet confirmed. |
+| Oathstone of Tenacity | Tin (the Merchant King) | Confirmed in Campaign 5, Session 2 (secondhand, via Thelonius): his own sentient friend was transformed into a weapon — the Tychonium blade Reno/Rynn, see [[Items/Reno]] — upon his becoming an Oathstone. Also the namesake of Tychonium itself, per Thelonius's account of his mortal life. See [[Characters/Tin]]. |
 | Suspected location | Varaneth | The Magus believes it holds the Oathstone of Death, tied to its gate to the afterlife. |
 
 The Magus believes the Oathstones may double as gates to other versions of Mythrir — possibly including a "Mythrir Prime," the original blueprint the World Crafter built before producing roughly ten parallel experimental versions of the world.
