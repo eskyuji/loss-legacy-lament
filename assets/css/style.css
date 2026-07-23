@@ -543,6 +543,11 @@ table.link-grid td a {
   color: var(--gold-bright);
 }
 
+.footer-copyright {
+  margin-top: 8px;
+  font-size: 0.8rem;
+}
+
 @media (max-width: 640px) {
   table, tbody, tr, td { display: block; width: 100%; }
   table { border-spacing: 0; }
