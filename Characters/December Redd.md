@@ -23,9 +23,16 @@ Leaves Don Carlo Iro a training regime before departing Shaidar's Rest to search
 
 ## Campaign 5 Session Detail
 
-**Session 2 (secondhand, via [702 Purpose and Intent](702 Purpose and Intent)):** Does not appear in person. Implicated, without further detail, in an affair with the father of an infant killed during the fall of Shaidar's Rest — 702 states the father "had been seen cavorting about with" December Redd six years before the child's death, citing this immediately before revealing that he himself broke the infant's neck under Feit's direct control.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, in connection with an affair six years before an infant's death during Shaidar's Rest's fall.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+**Secondhand, via [702 Purpose and Intent](702 Purpose and Intent).** Does not appear in person. Implicated, without further detail, in an affair with the father of an infant killed during the fall of Shaidar's Rest — 702 states the father "had been seen cavorting about with" December Redd six years before the child's death, citing this immediately before revealing that he himself broke the infant's neck under Feit's direct control.
 
 *⚠️ Note: the nature of the connection between this affair and the infant's death is not clarified in session — flagging rather than assuming causation.*
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 

@@ -78,7 +78,9 @@ When Bas returned after his 500 years of servitude to Meeka, he found that House
 
 See [House Tetran](../Factions/House Tetran) for full house history.
 
-### Session 0.5 — The Reunion at the Cat's Pajamas
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Visibly aged for the first time in centuries; recognizes the summer snow as a bad omen and receives Teyou's letter naming his central unresolved wound.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
@@ -88,7 +90,12 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 - Receives Teyou's posthumous letter naming his central unresolved wound directly: that he still believes he survived because someone else died, and that he was not chosen because he deserved to live but because someone had to remember — closing with "the dead do not need you, the living still do." Enclosed is a six-inch wooden splinter Bas identifies, via investigation, as a fragment of a wagon-wheel spoke broken and hand-repaired during a mule-cart journey he once took with two other Frost Shepherds: Netiri and "Emp" — the Emperor (Za'a-ni), confirmed as a nickname rather than a new name.
 - The letter visibly cracks his jadedness for a moment — a reminder that mortals around him are spending finite, fragile time he's no longer at risk of running out of — though he settles back into composure by scene's end.
 
-### Session 1 — The Broken Blade
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Searches Teyou's body, tails the beggar, engages the untouchable Owl, and ends the goblin's attack — hearing the shard speak to him alone.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
@@ -98,7 +105,12 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 - Ends the goblin's attack on the beggar by severing its bladed hand with Yesiah; the goblin turns to dust on the spot. Investigating the resulting shard (a broken, Volcan-marked piece of Tychonium reading "Remember"), Bas alone hears it speak: *"You are nothing without me."* Held near his own Tychonium sliver from Teyou's pocket, the two repel each other like same-pole magnets.
 - Present when Meeka confirms Feit's return, and when she reappears afterward in a newly self-constructed humanoid body for the first time since he's known her.
 
-### Session 2 — Before Me Is Death
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Confirms Reno's fate with Thelonius, reads 702's confession as truthful, and takes personal responsibility for the rescued goblin child.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
 
@@ -108,3 +120,6 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 - Comforts and effectively adopts the sole goblin survivor, "Shithead," refusing to hand him off to intermediaries and personally escorting him to House Modril's orphanage at the Maw. Uses Inspiring Leader (26 temporary hit points) on the way out of Veranath.
 - Sends 702 a span-read message about the massacre; receives a hand-drawn illustration of 702 giving him the finger in reply.
 - Learns from 702 the origin of his own divine blood — see Divine Marks, above.
+
+</div>
+</details>

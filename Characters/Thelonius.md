@@ -41,8 +41,31 @@ Turns a Scarlet Peaks aggressor who blamed him for the world's end into a sentie
 
 ## Campaign 5 Session Detail
 
-Present throughout the once-a-century reunion at the Cat's Pajamas, including his own late-arriving cat collar from Teyou's will. When asked by Magerna where to put a dead god's body, deadpans an offer of the tavern freezer, then mentions in passing that "the gates" open "about three months before the march" — a specific-sounding timeframe not otherwise explained as of Session 1.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Present throughout the reunion, receiving his own late-arriving cat collar from Teyou's will.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
-**Session 2:** Maintains a hidden 10-by-10 demiplane behind the bar (booth, keg, camp stove, closet), accessed by hitting a switch that rotates the booth into the wall. Personally witnessed Tycho, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds — the reason, per Thelonius, the metal Tychonium bears his name. Identifies the party's shard as House Vulcan work and reveals that Reno/Rynn, the Tychonium blade Tyn gave Bas in Campaign 4 (see [Reno](../Items/Reno)), was originally Tyn's own sentient friend, transformed into a weapon when Tyn became an Oathstone. Advises against approaching the Vulcans directly over the shard (pride would keep them from admitting a broken Tychonium blade exists) and instead sends the party to Milton's Feast at the Maw as Veranath's representatives — see [House Richardson](../Factions/House Richardson). Gives the party a Veranath banner bearing his own face and a "span read" (a matched-pair magical telegraph, unlimited use) for contact on the road. Explains Synchronization Malformata's origin and mechanism: the phenomenon is literally where "Frost Shepherds" got their name (it only snows when they're needed), and the rarer "Type B" variant the party witnessed happens when too few Owls are present to record events cleanly, smearing one event across multiple witnesses. Handles the party's shard with his prosthetic metal arm rather than his flesh hand — a deliberate, barely-noticed precaution. Threatens, without hesitation, to kill 702 Purpose and Intent himself at the first sign of Feit's renewed influence, while visibly flipping coins in his metal hand the entire conversation — a combat-readiness tell per Meeka.
+Present throughout the once-a-century reunion at the Cat's Pajamas, including his own late-arriving cat collar from Teyou's will.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Offers the tavern freezer for a dead god's body, then drops an unexplained mention of “the gates” opening before some kind of march.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+When asked by Magerna where to put a dead god's body, deadpans an offer of the tavern freezer, then mentions in passing that "the gates" open "about three months before the march" — a specific-sounding timeframe not otherwise explained as of Session 1.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Identifies the shard as House Vulcan work, reveals Reno's origin as Tyn's own sentient friend, and sends the party to Milton's Feast.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Maintains a hidden 10-by-10 demiplane behind the bar (booth, keg, camp stove, closet), accessed by hitting a switch that rotates the booth into the wall. Personally witnessed Tycho, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds — the reason, per Thelonius, the metal Tychonium bears his name. Identifies the party's shard as House Vulcan work and reveals that Reno/Rynn, the Tychonium blade Tyn gave Bas in Campaign 4 (see [Reno](../Items/Reno)), was originally Tyn's own sentient friend, transformed into a weapon when Tyn became an Oathstone. Advises against approaching the Vulcans directly over the shard (pride would keep them from admitting a broken Tychonium blade exists) and instead sends the party to Milton's Feast at the Maw as Veranath's representatives — see [House Richardson](../Factions/House Richardson). Gives the party a Veranath banner bearing his own face and a "span read" (a matched-pair magical telegraph, unlimited use) for contact on the road. Explains Synchronization Malformata's origin and mechanism: the phenomenon is literally where "Frost Shepherds" got their name (it only snows when they're needed), and the rarer "Type B" variant the party witnessed happens when too few Owls are present to record events cleanly, smearing one event across multiple witnesses. Handles the party's shard with his prosthetic metal arm rather than his flesh hand — a deliberate, barely-noticed precaution. Threatens, without hesitation, to kill 702 Purpose and Intent himself at the first sign of Feit's renewed influence, while visibly flipping coins in his metal hand the entire conversation — a combat-readiness tell per Meeka.
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.

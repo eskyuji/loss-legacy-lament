@@ -35,6 +35,10 @@ Originally manifested as a spirit of vengeance, channeling Un'Malo's aspect dire
 
 ## Campaign 5 Session Detail
 
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Attempts to revive Teyou with Mass Heal, reads his will aloud, and receives his own letter about vengeance never being a home.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
 Present at the once-a-century reunion of immortals at the Cat's Pajamas in Veranath. Greets Thelonius and asks after Barry, brewer of the tavern's house ale — learning that the original Barry was a mortal barkeep murdered in cold blood during Tycho's own mortal lifetime, with the killer executed shortly before Tycho's ascension. Present for Teyou Zhiang's death at the table; attempts to revive him immediately with a 9th-level Mass Heal, which fizzles outright, confirming the World Crafter's essence is genuinely gone rather than merely lost. Reads aloud from Teyou's recovered will and testament, delivering letters to the other recipients present.
 
 Receives his own letter from Teyou's will: *"Vengeance was never meant to be a home, only a road. You reached the destination centuries ago. Nobody told you. I'm sorry. But you should plant something."* Enclosed is a handful of black, loamy topsoil, confirmed as soil from his own family's long-lost ancestral farm — generations of his line are buried in it. Reacts with visible sorrow (his straw form weeping a moisture he otherwise can't produce as tears) and reflects on the burial of his father and the looming burial of Teyou.
@@ -43,11 +47,28 @@ Personally delivers Thelonius's letter from the same will — *"You never stoppe
 
 Touches the mysterious beggar who remarks on Teyou's death, prompting an unsolicited, formal prophecy about seven worlds each fearing something different, interrupting Magerna's own attempt to cast Death Ward.
 
-**Session 1:** Asks Thelonius directly where to put a dead god's body ("Would you like to keep a god of all things in your basement?"). Follows Bas in tailing the beggar, declaring he senses no vengeance or justice owed here — only questions of his own. Casts Moonbeam on a robed, owl-masked figure spotted on a rooftop; it singes the figure's robe and nothing more, consistent with his own knowledge of the Owls from before Feit's corruption of them. When a goblin attacks the beggar, lays Death Ward, then his Empathy ability (redirecting the beggar's damage onto himself) and Sanctuary — none of it stops a cursed, self-healing shiv from repeatedly wounding the beggar until Bas ends the fight. Fully heals the beggar's body with Cure Wounds, but Break Enchantment finds nothing to break — the man was never charmed or possessed; his mind is broken by something else entirely, a day lived over and over. Magerna's parting words as the beggar walks off toward the Hall of the Owls: *"I will remember you and I will mourn you."* Present when Meeka confirms Feit's return and reappears in her newly self-made body.
+</div>
+</details>
 
-**Session 2:** Addresses Thelonius as "Rememberer" and, gripping his scythe tight enough that it radiates visible cold at the mention of Feit, asks whether he could go back to being an aspect of vengeance rather than lament — Thelonius demurs ("that is not for me to decide"), and Magerna's own answer is uncertain: *"With the maker gone, anything's possible, or nothing's possible."* Insists on personally delivering news of the goblin-camp massacre rather than leaving it undone, and is the one to name what's needed afterward — not vengeance, but flowers (poppies, lilies) and a name for the sole survivor. Casts Zone of Truth around (not on) 702 Purpose and Intent, inviting rather than forcing his cooperation; 702 accepts and intentionally fails his save. Leaves 702 with an unsettling parting line: *"How many times does someone get to have vengeance twice?"* Takes the rescued goblin child in on House Modril's behalf without hesitation.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Tails the beggar, moonbeams the untouchable Owl, and heals the beggar's body — but not his broken mind.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Asks Thelonius directly where to put a dead god's body ("Would you like to keep a god of all things in your basement?"). Follows Bas in tailing the beggar, declaring he senses no vengeance or justice owed here — only questions of his own. Casts Moonbeam on a robed, owl-masked figure spotted on a rooftop; it singes the figure's robe and nothing more, consistent with his own knowledge of the Owls from before Feit's corruption of them. When a goblin attacks the beggar, lays Death Ward, then his Empathy ability (redirecting the beggar's damage onto himself) and Sanctuary — none of it stops a cursed, self-healing shiv from repeatedly wounding the beggar until Bas ends the fight. Fully heals the beggar's body with Cure Wounds, but Break Enchantment finds nothing to break — the man was never charmed or possessed; his mind is broken by something else entirely, a day lived over and over. Magerna's parting words as the beggar walks off toward the Hall of the Owls: *"I will remember you and I will mourn you."* Present when Meeka confirms Feit's return and reappears in her newly self-made body.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Questions whether he's still an aspect of lament, invites 702 into Zone of Truth, and takes in the rescued goblin child on House Modril's behalf.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Addresses Thelonius as "Rememberer" and, gripping his scythe tight enough that it radiates visible cold at the mention of Feit, asks whether he could go back to being an aspect of vengeance rather than lament — Thelonius demurs ("that is not for me to decide"), and Magerna's own answer is uncertain: *"With the maker gone, anything's possible, or nothing's possible."* Insists on personally delivering news of the goblin-camp massacre rather than leaving it undone, and is the one to name what's needed afterward — not vengeance, but flowers (poppies, lilies) and a name for the sole survivor. Casts Zone of Truth around (not on) 702 Purpose and Intent, inviting rather than forcing his cooperation; 702 accepts and intentionally fails his save. Leaves 702 with an unsettling parting line: *"How many times does someone get to have vengeance twice?"* Takes the rescued goblin child in on House Modril's behalf without hesitation.
 
 *⚠️ Possible family connection: House Modril — the noble charitable house whose orphanage network takes in the rescued goblin child in Session 2 — shares its name with Magerna Modril, the farmer whose death is the origin of this Magerna's consciousness (see Origin, above), and Magerna's own origin story establishes that farmer as "the last of his line." Whether House Modril is a separate branch of the same family, a house that later adopted the name, or something else, is unaddressed in session — flagging rather than assuming a connection.*
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 

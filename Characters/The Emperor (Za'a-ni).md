@@ -23,9 +23,23 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 
 ## Campaign 5 Session Detail
 
-Confirmed (Session 1, secondhand — Emp does not appear in person) to have received [Reno](../Items/Reno), Bas's old Tychonium blade from Tyn, at some point after Campaign 4 — melted down and reforged into a bismuth breastplate he now wears.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Secondhand: confirmed to have received Reno, later melted down and reforged into the bismuth breastplate he now wears.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
-**Session 2 (secondhand, via 702 Purpose and Intent):** Named, alongside Bas and Netiri, as one of the three the fallen city of Shaidar's Rest was decreed "lost to the influence of" by Feit — the justification Feit gave 702 for ordering the killing of an infant during that city's fall. Za'ani himself was not present and the connection is otherwise unexplained.
+**Secondhand — Emp does not appear in person.** Confirmed to have received [Reno](../Items/Reno), Bas's old Tychonium blade from Tyn, at some point after Campaign 4 — melted down and reforged into a bismuth breastplate he now wears.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, as one of three people Feit blamed Shaidar's Rest's fall on — he was not present.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+**Secondhand, via 702 Purpose and Intent.** Named, alongside Bas and Netiri, as one of the three the fallen city of Shaidar's Rest was decreed "lost to the influence of" by Feit — the justification Feit gave 702 for ordering the killing of an infant during that city's fall. Za'ani himself was not present and the connection is otherwise unexplained.
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 

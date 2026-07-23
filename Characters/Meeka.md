@@ -27,11 +27,32 @@ Hosts the party at her bazaar in a scene centered on Madam Lennette's screaming 
 
 ## Campaign 5 Session Detail
 
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Held Bas in her employ for 500 years; watches Teyou die from hiding and confirms his essence is gone, not merely lost.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
 Confirmed: held Bas Tetran XXIV in her employ for 500 years as the price of rescuing him when the last Frost Shepherds were scattered at the end of Campaign 4. Present, hidden, at the century-mark reunion at the Cat's Pajamas in Veranath when Teyou Zhiang dies at the table; her grief at his death is involuntary and unstated but visible — the room erodes and the table's food rots around her before she reveals herself from a coalesced mass of dust and discarded objects in the tavern's darkest corner. Confirms, from her own perspective as the god of lost (not gone) things, that Teyou's essence is not lost — it is gone outright, a distinction that visibly unsettles her. Receives a short letter from Teyou's will: "I found this. I thought you might want it back. You owe me one favor. — Teyou," along with a plain wooden button — the missing eye from her original doll form.
 
-**Session 1:** Takes Teyou's body into her own mass and sinks away with it — he "doesn't belong in this world at all." Answers Bas's shorthand summons (a deliberately lost gold coin) mid-investigation and, on arrival, tries Banishment on the returned Owl; it works only long enough to knock the Owl's scroll case loose before it rises back out of its own dropped scroll, unbothered. Wraps the broken, voice-bearing Tychonium shard in her own refuse rather than leave it in the street and carries it back to her domain herself. Returns wearing an entirely new form for the first time anyone at the table has seen: a deliberately constructed humanoid body stitched from snakeskin and the discolored hide of many different creatures, black void visible in the gaps between the stitching. Confirms outright whose voice the shard carried — *"He's back. Who else would have said those words?"* — and connects Feit's return to the "cracks" left by the Worldcrafter's death.
+</div>
+</details>
 
-**Session 2:** Her new constructed body is confirmed permanent, not a one-scene transformation. The table formalizes how Divine Intervention works for a player character who is also her own god: at 20th level her calls succeed automatically, letting her draw any single inactive artifact — one previously wielded by an earlier player character — out of her own domain for one use, on a one-week cooldown. Her first pull is [Liberty of the End](../Items/Liberty of the End), Seraph's old hourglass artifact. Initially balks at joining the trip to the goblin camp ("I'm more just confused as to where I said I was joining you") until she hears Teyou's voice in her own head — *"Don't forget you owe me"* — and immediately reverses herself. Reveals, without elaborating, that she holds an unspecified "piece" of 702 Purpose and Intent (his word: "peace"), taken at some unspecified point, and refuses to return it: *"How he is now is what's needed."* Activates Liberty of the End's Stars Without Number ability to close out the session, rolling 22 miles and a southward heading to land the party just outside the Maw of Arrath.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Takes Teyou's body into her own domain, tries Banishment on the Owl, and returns wrapping the cursed shard in an entirely new, self-constructed body.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Takes Teyou's body into her own mass and sinks away with it — he "doesn't belong in this world at all." Answers Bas's shorthand summons (a deliberately lost gold coin) mid-investigation and, on arrival, tries Banishment on the returned Owl; it works only long enough to knock the Owl's scroll case loose before it rises back out of its own dropped scroll, unbothered. Wraps the broken, voice-bearing Tychonium shard in her own refuse rather than leave it in the street and carries it back to her domain herself. Returns wearing an entirely new form for the first time anyone at the table has seen: a deliberately constructed humanoid body stitched from snakeskin and the discolored hide of many different creatures, black void visible in the gaps between the stitching. Confirms outright whose voice the shard carried — *"He's back. Who else would have said those words?"* — and connects Feit's return to the "cracks" left by the Worldcrafter's death.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Her new body is confirmed permanent; Divine Intervention is formalized, and she pulls Liberty of the End as her first artifact.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Her new constructed body is confirmed permanent, not a one-scene transformation. The table formalizes how Divine Intervention works for a player character who is also her own god: at 20th level her calls succeed automatically, letting her draw any single inactive artifact — one previously wielded by an earlier player character — out of her own domain for one use, on a one-week cooldown. Her first pull is [Liberty of the End](../Items/Liberty of the End), Seraph's old hourglass artifact. Initially balks at joining the trip to the goblin camp ("I'm more just confused as to where I said I was joining you") until she hears Teyou's voice in her own head — *"Don't forget you owe me"* — and immediately reverses herself. Reveals, without elaborating, that she holds an unspecified "piece" of 702 Purpose and Intent (his word: "peace"), taken at some unspecified point, and refuses to return it: *"How he is now is what's needed."* Activates Liberty of the End's Stars Without Number ability to close out the session, rolling 22 miles and a southward heading to land the party just outside the Maw of Arrath.
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 

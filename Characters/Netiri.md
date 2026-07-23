@@ -29,7 +29,14 @@ Not present in Campaign 5, but her fate is addressed: confirmed (Session 1) to b
 
 **Metal namesake:** Myconium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Seraphium/Seraph) — is tied to Netiri via her myconid and fungal-hive-mind domain rather than a direct name-match. It has become vanishingly rare since her disappearance, per Session 1.
 
-**Session 2 (secondhand, via 702 Purpose and Intent):** Named, alongside Bas and Za'ani, as one of the three the fallen city of Shaidar's Rest was decreed "lost to the influence of" by Feit — the justification Feit gave 702 for ordering the killing of an infant during that city's fall. Netiri herself was not present and the connection is otherwise unexplained.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, as one of three people Feit blamed Shaidar's Rest's fall on — she was not present.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+**Secondhand, via 702 Purpose and Intent.** Named, alongside Bas and Za'ani, as one of the three the fallen city of Shaidar's Rest was decreed "lost to the influence of" by Feit — the justification Feit gave 702 for ordering the killing of an infant during that city's fall. Netiri herself was not present and the connection is otherwise unexplained.
+
+</div>
+</details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 

@@ -33,9 +33,18 @@ A major antagonist arc this time: bound once again by a Geas, this iteration of 
 
 ## Campaign 5 Session Detail
 
-Not present in Campaign 5, but his fate is addressed: confirmed (Session 1) to have been present at the Frost Shepherds' final confrontation with Feit, and his current status is **lost** — the same unresolved category as Netiri and Za'ani. No evidence of death across the intervening 2,000 years, but no confirmation of survival either. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Not present — confirmed lost since the Frost Shepherds' final confrontation with Feit, the namesake of the now-rare metal Seraphium.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
-**Metal namesake:** Seraphium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Myconium/Netiri) — is named for Seraph. It has become vanishingly rare since his disappearance, per Session 1.
+Not present in Campaign 5, but his fate is addressed: confirmed to have been present at the Frost Shepherds' final confrontation with Feit, and his current status is **lost** — the same unresolved category as Netiri and Za'ani. No evidence of death across the intervening 2,000 years, but no confirmation of survival either.
+
+**Metal namesake:** Seraphium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Myconium/Netiri) — is named for Seraph. It has become vanishingly rare since his disappearance.
+
+</div>
+</details>
+
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
 

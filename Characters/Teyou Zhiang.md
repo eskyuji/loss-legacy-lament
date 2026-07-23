@@ -25,15 +25,27 @@ Delivers the campaign's central cosmological lore-dump: he is the World Crafter,
 
 ---
 
-## Death (Campaign 5)
+## Campaign 5 Session Detail
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Walks into the Cat's Pajamas, buys five drinks, takes one sip, and dies without a word — his prosthetic arm missing entirely.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
 Roughly 4,000 years after the Eternal Empire, walks alone into the Cat's Pajamas in Veranath during the immortals' once-a-century reunion, buys five drinks, sets them in front of Bas, Tycho, Magerna, an empty seat, and himself, takes a single drink, and dies without a word. His magical wooden prosthetic arm is missing from the body entirely. A 9th-level Mass Heal cast on him immediately afterward fizzles outright; Meeka, drawn out by the disturbance, confirms his essence is not lost (her usual domain) but gone — a meaningful distinction to her specifically. Leaves behind a plainly-written will and testament with letters for Bas Tetran XXIV, Magerna, Meeka, Thelonius, Nakki, Tin, and Feit — see [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full letter contents. Confirmed in this scene: created all 73 worlds, with Mythrir Prime as the original and all others (including, per in-character banter, Faerûn) as later imitations; his great enemy was Yogg-Sothoth, who sired Feit.
 
 A mundane-seeming human beggar, present in the tavern as Teyou's body is discovered, remarks "Huh. He's never died before" before delivering an unprompted prophecy and leaving — implying Teyou's death is unprecedented even among the setting's oldest and most knowledgeable figures.
 
-### Aftermath (Session 1)
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Bas finds only electrum and a Tychonium sliver on the body; the beggar's account reveals today was the first time Teyou ever died.</span></summary>
+<div class="recap-entry-body" markdown="1">
 
 Bas searches the body directly: 37 electrum (an obsolete currency Teyou had tried, and failed, to pay for the group's drinks with) and a three-inch Tychonium sliver, all that's left in his pockets besides the letters. The prosthetic arm remains unaccounted for. Separately, the beggar's own account — under questioning, once healed and lucid — reveals he'd been reliving the same day on a loop for an unknown span of time, and that today, for the first time in that loop, Teyou actually died: *"He's never died before."* Whether the loop and Teyou's death are cause, effect, or coincidence is unconfirmed, but Meeka connects Feit's apparent return directly to "cracks" left by Teyou's death — see [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for Session 1 in full.
+
+</div>
+</details>
 
 ---
 
