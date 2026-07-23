@@ -174,47 +174,47 @@ body {
 }
 
 /* Sidebar navigation — a fixed drawer pinned to the left edge of the
-   viewport, independent of the centered content column. The permanently
-   visible tab is the <summary>; opening the <details> slides the tree
-   panel out to its right as an overlay. */
+   viewport, independent of the centered content column. The toggle is a
+   permanently visible vertical tab; JS (assets/js/sidebar.js) drives the
+   open/expanded state, persists it in localStorage, and animates the slide. */
 
-.site-nav {
+.site-nav-toggle {
   position: fixed;
   top: 0;
   left: 0;
   height: 100vh;
-  z-index: 50;
-  display: flex;
-  align-items: stretch;
-}
-
-.site-nav > summary {
-  list-style: none;
-  cursor: pointer;
-  writing-mode: vertical-rl;
-  transform: rotate(180deg);
+  width: 32px;
+  z-index: 51;
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
-  width: 32px;
+  margin: 0;
+  padding: 0;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
   background: var(--bg-elevated);
+  border: none;
   border-right: 1px solid var(--border);
   color: var(--gold-dim);
+  font-family: inherit;
   font-weight: 500;
   font-size: 0.75rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
+  cursor: pointer;
   transition: color 0.15s ease;
 }
-.site-nav > summary::-webkit-details-marker { display: none; }
-.site-nav > summary:hover {
+.site-nav-toggle:hover {
   color: var(--gold-bright);
 }
 
 .site-nav-tree {
+  position: fixed;
+  top: 0;
+  left: 32px;
   width: min(300px, 85vw);
   height: 100vh;
+  z-index: 50;
   overflow-y: auto;
   background: var(--bg-elevated);
   border-right: 1px solid var(--border);
@@ -223,6 +223,11 @@ body {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  transform: translateX(-100%);
+  transition: transform 0.25s ease;
+}
+.site-nav.is-open .site-nav-tree {
+  transform: translateX(0);
 }
 
 .site-nav-link {
@@ -236,16 +241,21 @@ body {
   color: var(--gold-bright);
 }
 
-.site-nav-group summary {
-  list-style: none;
-  cursor: pointer;
+.site-nav-group-toggle {
+  display: block;
+  width: 100%;
   position: relative;
+  margin: 0;
   padding: 4px 0 4px 16px;
+  background: none;
+  border: none;
   color: var(--text-muted);
+  font-family: inherit;
   font-size: 0.85rem;
+  text-align: left;
+  cursor: pointer;
 }
-.site-nav-group summary::-webkit-details-marker { display: none; }
-.site-nav-group summary::before {
+.site-nav-group-toggle::before {
   content: "▸";
   position: absolute;
   left: 0;
@@ -254,14 +264,14 @@ body {
   font-size: 0.75em;
   transition: transform 0.15s ease;
 }
-.site-nav-group[open] > summary::before {
+.site-nav-group.is-expanded > .site-nav-group-toggle::before {
   transform: rotate(90deg);
 }
-.site-nav-group summary:hover {
+.site-nav-group-toggle:hover {
   color: var(--gold-bright);
 }
 
-.site-nav-group ul {
+.site-nav-group-list {
   list-style: none;
   margin: 2px 0 6px;
   padding-left: 16px;
@@ -269,15 +279,18 @@ body {
   flex-direction: column;
   gap: 2px;
 }
+.site-nav-group-list[hidden] {
+  display: none;
+}
 
-.site-nav-group a {
+.site-nav-group-list a {
   display: block;
   padding: 3px 0;
   color: var(--text-muted);
   font-size: 0.8rem;
   border-bottom: none;
 }
-.site-nav-group a:hover {
+.site-nav-group-list a:hover {
   color: var(--gold-bright);
 }
 

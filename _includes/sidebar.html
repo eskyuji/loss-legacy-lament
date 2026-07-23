@@ -1,19 +1,19 @@
-<details class="site-nav">
-  <summary>Navigation</summary>
-  <div class="site-nav-tree">
+<div class="site-nav" data-nav>
+  <button type="button" class="site-nav-toggle" aria-expanded="false" aria-controls="site-nav-tree">Navigation</button>
+  <nav class="site-nav-tree" id="site-nav-tree" aria-label="Section navigation">
     {% for section in site.data.nav %}
       {% if section.items %}
-      <details class="site-nav-group">
-        <summary>{{ section.label }}</summary>
-        <ul>
+      <div class="site-nav-group" data-nav-group="{{ section.label | slugify }}">
+        <button type="button" class="site-nav-group-toggle" aria-expanded="false">{{ section.label }}</button>
+        <ul class="site-nav-group-list" hidden>
           {% for item in section.items %}
           <li><a href="{{ item.url | relative_url }}">{{ item.label }}</a></li>
           {% endfor %}
         </ul>
-      </details>
+      </div>
       {% else %}
       <a class="site-nav-link" href="{{ section.url | relative_url }}">{{ section.label }}</a>
       {% endif %}
     {% endfor %}
-  </div>
-</details>
+  </nav>
+</div>
