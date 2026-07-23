@@ -34,3 +34,13 @@ See [The Shard](../Items/The%20Shard) and the [Campaign 5 Overall Summary](../Se
 ## Notes
 
 *Origin scene added from a standalone GM lore dump outside session play, giving the party's-eye account (Session 1's fight, Session 2's naming) its missing first half. Whether the shard specifically sought out Grit's hunger and isolation, or would have taken anyone who found it, is unaddressed — flagging rather than assuming either way.*
+
+---
+
+## Appendix: Concept Art
+
+![The party in combat against the shard-possessed Grit](../assets/images/frost-shepherds/06-combat.png)
+*The fight under the Western Bridge, Session 1.*
+
+![Bas severing Grit's bladed hand with Yesiah](../assets/images/frost-shepherds/11-oops.png)
+*Grit withers to dust the instant the shard is severed from him.*

@@ -136,3 +136,31 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
 ---
 
 See the [full campaign summary](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) for party info, setting, and open threads. [Back to the current campaign wiki](../).
+
+---
+
+## Appendix: Concept Art
+
+### Session 0.5 — The Reunion at the Cat's Pajamas
+
+![Teyou Zhiang's death at the Cat's Pajamas](../assets/images/frost-shepherds/05-teyou.png)
+
+![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
+
+### Session 1 — The Broken Blade
+
+![The party in combat against the shard-possessed Grit](../assets/images/frost-shepherds/06-combat.png)
+
+![Bas severing Grit's bladed hand with Yesiah](../assets/images/frost-shepherds/11-oops.png)
+
+### Session 2 — Before Me Is Death
+
+![Bas, Magerna, and Meeka kneeling around the rescued goblin child](../assets/images/frost-shepherds/04-shithead.png)
+
+### General
+
+![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
+
+![Three cloaked figures walking through unseasonal snow at night](../assets/images/frost-shepherds/07-snowtrek.png)
+
+![Bas, Magerna, and Meeka sharing a meal by the fire](../assets/images/frost-shepherds/08-campfire.png)

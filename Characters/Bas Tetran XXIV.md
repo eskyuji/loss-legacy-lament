@@ -123,3 +123,16 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 
 </div>
 </details>
+
+---
+
+## Appendix: Concept Art
+
+![Bas Tetran XXIV, a snow leopard Tabaxi, dual-wielding Yesiah and Rea](../assets/images/frost-shepherds/00-bas.png)
+*Bas Tetran XXIV.*
+
+![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
+*With Magerna and Meeka.*
+
+![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
+*With Tycho, continuing their once-a-century appointment at the Cat's Pajamas.*

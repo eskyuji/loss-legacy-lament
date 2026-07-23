@@ -28,3 +28,10 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Notes
 
 *Whether the party or House Modril ultimately settles on a new name for him is not resolved as of Session 2's end.*
+
+---
+
+## Appendix: Concept Art
+
+![Bas, Magerna, and Meeka kneeling around the rescued goblin child amid the massacre](../assets/images/frost-shepherds/04-shithead.png)
+*The rescue at the goblin camp, Session 2.*

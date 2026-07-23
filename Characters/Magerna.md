@@ -77,3 +77,13 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*
+
+---
+
+## Appendix: Concept Art
+
+![Magerna, a scarecrow given consciousness, carrying a basket of wheat before a full moon](../assets/images/frost-shepherds/01-magerna.png)
+*Magerna.*
+
+![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
+*With Bas and Meeka.*

@@ -47,3 +47,13 @@ Whether these are the same physical item as the party's shard, fragments of one 
 ## Notes
 
 *Full extent of the shard's power, its exact relationship to Feit, and why it chose Grit are all unconfirmed as of Session 2 — flagging rather than speculating further. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.*
+
+---
+
+## Appendix: Concept Art
+
+![The party in combat against the shard-possessed goblin](../assets/images/frost-shepherds/06-combat.png)
+*The fight against Grit, Session 1.*
+
+![Bas severing Grit's bladed hand with Yesiah](../assets/images/frost-shepherds/11-oops.png)
+*The killing blow that ends the fight — and the shard's hold on Grit.*

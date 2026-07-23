@@ -61,3 +61,13 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*
+
+---
+
+## Appendix: Concept Art
+
+![Meeka, veiled in tattered cloth over stitched, patchwork skin](../assets/images/frost-shepherds/02-meeka.png)
+*Meeka.*
+
+![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
+*With Bas and Magerna.*

@@ -67,3 +67,13 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*
+
+---
+
+## Appendix: Concept Art
+
+![Tycho, a golden-maned lion in ceremonial black-and-gold robes, the God of Death](../assets/images/frost-shepherds/13-tycho.png)
+*Tycho, in his aspect as the God of Death.*
+
+![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
+*With Bas Tetran XXIV, continuing their once-a-century appointment.*

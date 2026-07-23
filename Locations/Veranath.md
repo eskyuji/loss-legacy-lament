@@ -22,3 +22,10 @@ A dead, abandoned city now ruled by a cat hive-mind under Thelonius, the Oathsto
 *Geography beyond the Gates of the Afterlife and the four labors not yet established in session — expand as more is established.*
 
 *See also: [Mythrir Calendar and Festivals](../Lore/Mythrir%20Calendar%20and%20Festivals) — the Long Shadow 31 festival ("The March of Souls") describes the Gates of Death opening in Veranath to let souls depart Mythrir Prime, likely the same Gates as above though not explicitly confirmed in session.*
+
+---
+
+## Appendix: Concept Art
+
+![Three cloaked figures walking through unseasonal snow at night](../assets/images/frost-shepherds/07-snowtrek.png)
+*Snow over Veranath in summer — an omen unseen since the last Frost Shepherds' era.*

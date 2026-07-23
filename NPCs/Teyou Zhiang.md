@@ -52,3 +52,10 @@ Bas searches the body directly: 37 electrum (an obsolete currency Teyou had trie
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*
+
+---
+
+## Appendix: Concept Art
+
+![Teyou Zhiang's death at the Cat's Pajamas, witnessed by Bas, Magerna, Tycho, and Meeka](../assets/images/frost-shepherds/05-teyou.png)
+*Teyou Zhiang's death at the Session 0.5 reunion.*
