@@ -6,7 +6,7 @@ title: "Session Recaps"
 
 Every session of the current campaign, [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary). Click a session to expand its full recap.
 
-<button id="recap-sort-toggle" class="recap-sort-toggle" type="button" aria-label="Toggle recap order">Oldest first ↓</button>
+<button id="recap-sort-toggle" class="recap-sort-toggle" type="button" aria-label="Toggle recap order">Most recent first ↑</button>
 
 <div id="recap-list">
 
@@ -138,11 +138,19 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
   var btn = document.getElementById('recap-sort-toggle');
   var list = document.getElementById('recap-list');
   if (!btn || !list) return;
-  var ascending = true;
-  btn.addEventListener('click', function () {
+
+  function reverseList() {
     var entries = Array.prototype.slice.call(list.children);
     entries.reverse();
     entries.forEach(function (entry) { list.appendChild(entry); });
+  }
+
+  // Source order is oldest-first; reverse once so most-recent-first is the default view.
+  reverseList();
+  var ascending = false;
+
+  btn.addEventListener('click', function () {
+    reverseList();
     ascending = !ascending;
     btn.textContent = ascending ? 'Oldest first ↓' : 'Most recent first ↑';
   });
