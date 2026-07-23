@@ -9,6 +9,8 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech
 > "The future is here, the tower will claim us. Before me is death, and behind me non-existence. We knew what was to come and did nothing to stop it. Hubris is our downfall."
 >
 > — [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent)
+>
+> [Session 2 — Before Me Is Death](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary#session-2--before-me-is-death)
 {: .pull-quote}
 
 ---
