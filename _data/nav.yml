@@ -3,6 +3,8 @@
 # entries with only a `url` render as a plain top-level link.
 - label: Home
   url: "/"
+- label: Session Recaps
+  url: "/Sessions/Recaps"
 - label: Characters
   items:
     - label: Bas Tetran XXIV
@@ -85,8 +87,6 @@
       url: "/Lore/Mythrir%20Calendar%20and%20Festivals"
 - label: Sessions
   items:
-    - label: Session Recaps
-      url: "/Sessions/Recaps"
     - label: "Campaign 5 — Loss, Legacy, and Lament"
       url: "/Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary"
     - label: Overall History Executive Summary
