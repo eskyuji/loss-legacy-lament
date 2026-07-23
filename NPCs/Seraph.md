@@ -51,3 +51,9 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Campaign 3 Session Detail
 
 Reveals a past as a member of the Cloaked Hand, the Order of Iphitus's shadow-assassination arm targeting tyrants and evildoers. Casts Legend Lore to help The Magus research the Oathstones. Disguises himself as a vulture-folk to move through The Crash unnoticed, hiding his innate light behind a held torch. Mind-controls the Rakshasa Sebash after Sebash tries the same on Tycho, forcing him to reveal Goroshi's secret. Confirms that ordinary restoration magic cannot undo what Benji's spell does to Thelonius's missing arm — it's not damage, but a true erasure.
+
+---
+
+## Appendix: Concept Art
+
+![Seraph, celestial tattoos glowing, holding an open starlit tome beneath a crescent moon](../assets/images/frost-shepherds/15-seraph.png)
