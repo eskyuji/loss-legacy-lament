@@ -136,3 +136,6 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 
 ![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
 *With Tycho, continuing their once-a-century appointment at the Cat's Pajamas.*
+
+![702 confesses to Bas at the Cat's Pajamas, Thelonius listening from behind the bar](../assets/images/frost-shepherds/14-702.png)
+*With 702, hearing his confession, Session 2.*

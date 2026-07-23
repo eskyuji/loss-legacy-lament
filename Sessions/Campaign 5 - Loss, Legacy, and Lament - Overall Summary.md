@@ -168,6 +168,8 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
 
 ### Session 2
 
+![702 confesses to Bas at the Cat's Pajamas, Thelonius listening from behind the bar](../assets/images/frost-shepherds/14-702.png)
+
 ![Bas, Magerna, and Meeka kneeling around the rescued goblin child](../assets/images/frost-shepherds/04-shithead.png)
 
 ### General

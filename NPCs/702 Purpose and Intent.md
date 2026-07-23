@@ -43,3 +43,10 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 ## Notes
 
 *Class, race, stats, weapons, and magic items to be added here as they're established in session.*
+
+---
+
+## Appendix: Concept Art
+
+![702 confesses to Bas at the Cat's Pajamas, Thelonius listening from behind the bar](../assets/images/frost-shepherds/14-702.png)
+*702's confession, Session 2.*

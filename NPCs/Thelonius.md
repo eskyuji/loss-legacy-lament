@@ -69,3 +69,10 @@ Maintains a hidden 10-by-10 demiplane behind the bar (booth, keg, camp stove, cl
 </details>
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+
+---
+
+## Appendix: Concept Art
+
+![Thelonius behind the bar at the Cat's Pajamas, listening to 702's confession](../assets/images/frost-shepherds/14-702.png)
+*Thelonius, tending bar during 702's confession, Session 2.*
