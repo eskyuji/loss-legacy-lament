@@ -46,6 +46,8 @@ When Magerna reaches out and touches him, the beggar delivers an unprompted, for
 
 The session ends with Bas turning back to Tycho: *"It's that time again, isn't it?"* — and Tycho's quiet confirmation that it is.
 
+[Full session page →](Session%200.5%20-%20The%20Reunion%20at%20the%20Cat's%20Pajamas)
+
 </div>
 </details>
 
@@ -84,6 +86,8 @@ Magerna heals the beggar fully with Cure Wounds, but his mind is broken beyond a
 Wary of touching the shard again, Meeka wraps it in her own refuse and sends it back to her domain rather than let it stay on the street. When she returns, it's in an entirely new, deliberately constructed body — no longer a drifting mass of trash with a floating face, but a stitched, patchwork humanoid form: skin pieced together from snakeskin and the discolored hide of many different creatures, with black void visible in the gaps between the stitching. She confirms what the shard's voice already implied: *"He's back."* Feit — sealed away, by Bas's own accounting, in that final confrontation two thousand years ago — is the only one who could have said those words.
 
 The session ends with the three of them heading back to the Cat's Pajamas to bring Thelonius up to speed.
+
+[Full session page →](Session%201%20-%20The%20Broken%20Blade)
 
 </div>
 </details>
@@ -128,6 +132,8 @@ Bas and Magerna both refuse to hand the child off to a local guard or another in
 
 Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22 miles), 1d8 for direction (south) — the party, Meeka, and the sleeping child arrive 22 miles south of the Maw of Arrath, conveniently on the road along the peninsula, with the city's lights visible on the horizon. Session ends there.
 
+[Full session page →](Session%202%20-%20Before%20Me%20Is%20Death)
+
 </div>
 </details>
 
@@ -140,24 +146,6 @@ See the [full campaign summary](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lamen
 ---
 
 ## Appendix: Concept Art
-
-### Session 0.5 — The Reunion at the Cat's Pajamas
-
-![Teyou Zhiang's death at the Cat's Pajamas](../assets/images/frost-shepherds/05-teyou.png)
-
-![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
-
-### Session 1 — The Broken Blade
-
-![The party in combat against the shard-possessed Grit](../assets/images/frost-shepherds/06-combat.png)
-
-![Bas severing Grit's bladed hand with Yesiah](../assets/images/frost-shepherds/11-oops.png)
-
-### Session 2 — Before Me Is Death
-
-![Bas, Magerna, and Meeka kneeling around the rescued goblin child](../assets/images/frost-shepherds/04-shithead.png)
-
-### General
 
 ![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
 

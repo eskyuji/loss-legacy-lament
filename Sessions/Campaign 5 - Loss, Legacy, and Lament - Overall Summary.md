@@ -148,4 +148,32 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
 
 ## Notes
 
-*This file should be extended as subsequent sessions are played. See [Bas Tetran XXIV](../Characters/Bas Tetran XXIV), [Magerna](../Characters/Magerna), [Meeka](../Characters/Meeka), [Tycho](../NPCs/Tycho), [Thelonius](../NPCs/Thelonius), [Seraph](../NPCs/Seraph), [Teyou Zhiang](../NPCs/Teyou Zhiang), and [Hall of the Owls](../Locations/Hall of the Owls) for character- and location-specific detail folded in from this session.*
+*This file should be extended as subsequent sessions are played. See [Bas Tetran XXIV](../Characters/Bas Tetran XXIV), [Magerna](../Characters/Magerna), [Meeka](../Characters/Meeka), [Tycho](../NPCs/Tycho), [Thelonius](../NPCs/Thelonius), [Seraph](../NPCs/Seraph), [Teyou Zhiang](../NPCs/Teyou Zhiang), and [Hall of the Owls](../Locations/Hall%20of%20the%20Owls) for character- and location-specific detail folded in from this session.*
+
+---
+
+## Appendix: Concept Art
+
+### Session 0.5
+
+![Teyou Zhiang's death at the Cat's Pajamas](../assets/images/frost-shepherds/05-teyou.png)
+
+![Bas and Tycho sharing a drink at the Cat's Pajamas](../assets/images/frost-shepherds/10-catfolk.png)
+
+### Session 1
+
+![The party in combat against the shard-possessed Grit](../assets/images/frost-shepherds/06-combat.png)
+
+![Bas severing Grit's bladed hand with Yesiah](../assets/images/frost-shepherds/11-oops.png)
+
+### Session 2
+
+![Bas, Magerna, and Meeka kneeling around the rescued goblin child](../assets/images/frost-shepherds/04-shithead.png)
+
+### General
+
+![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)
+
+![Three cloaked figures walking through unseasonal snow at night](../assets/images/frost-shepherds/07-snowtrek.png)
+
+![Bas, Magerna, and Meeka sharing a meal by the fire](../assets/images/frost-shepherds/08-campfire.png)

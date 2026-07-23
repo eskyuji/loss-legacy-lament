@@ -91,6 +91,12 @@
       url: "/Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary"
     - label: Overall History Executive Summary
       url: "/Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary"
+    - label: "Session 0.5 — The Reunion at the Cat's Pajamas"
+      url: "/Sessions/Session%200.5%20-%20The%20Reunion%20at%20the%20Cat's%20Pajamas"
+    - label: "Session 1 — The Broken Blade"
+      url: "/Sessions/Session%201%20-%20The%20Broken%20Blade"
+    - label: "Session 2 — Before Me Is Death"
+      url: "/Sessions/Session%202%20-%20Before%20Me%20Is%20Death"
 - label: Archive
   url: "/archive/"
 - label: Character Index

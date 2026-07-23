@@ -38,7 +38,9 @@
     }
   }
 
-  if (entries.length > 1) {
+  // Skip on Recaps.md (identified by #recap-list) — each entry links out to
+  // its own full session page there instead, so "expand all" isn't useful.
+  if (entries.length > 1 && !document.getElementById('recap-list')) {
     expandToggle = document.createElement('button');
     expandToggle.type = 'button';
     expandToggle.className = 'recap-expand-toggle';
