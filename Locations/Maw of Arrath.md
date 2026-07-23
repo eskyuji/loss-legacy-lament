@@ -30,6 +30,8 @@ The city after North Arill. The party finds a note here describing people being 
 
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
+*See also: [Mythrir Calendar and Festivals](../Lore/Mythrir%20Calendar%20and%20Festivals) places Milton's Feast on High Summer 25 — the actual calendar month; "Junathar" was an offhand table joke riffing on "June," not a real month name.*
+
 ---
 
 ## Notes

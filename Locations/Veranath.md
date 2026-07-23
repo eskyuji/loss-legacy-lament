@@ -20,3 +20,5 @@ A dead, abandoned city now ruled by a cat hive-mind under Thelonius, the Oathsto
 ## Notes
 
 *Geography beyond the Gates of the Afterlife and the four labors not yet established in session — expand as more is established.*
+
+*See also: [Mythrir Calendar and Festivals](../Lore/Mythrir%20Calendar%20and%20Festivals) — the Long Shadow 31 festival ("The March of Souls") describes the Gates of Death opening in Veranath to let souls depart Mythrir Prime, likely the same Gates as above though not explicitly confirmed in session.*

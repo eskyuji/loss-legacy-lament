@@ -80,6 +80,15 @@ Thelonius identifies the party's broken shard as impossible Vulcan-forged Tychon
 
 ---
 
+## Lore
+
+| | |
+|---|---|
+| [Mythrir Calendar and Festivals](Lore/Mythrir%20Calendar%20and%20Festivals) | |
+{: .link-grid}
+
+---
+
 ## Sessions
 
 | | |
