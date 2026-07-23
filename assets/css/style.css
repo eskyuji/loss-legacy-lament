@@ -34,6 +34,7 @@ html {
 
 body {
   margin: 0;
+  padding-left: 32px;
   background:
     radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(201, 162, 39, 0.10), transparent 60%),
     radial-gradient(ellipse 900px 500px at 100% 0%, rgba(201, 162, 39, 0.06), transparent 60%),
@@ -172,54 +173,53 @@ body {
   max-width: 46ch;
 }
 
-/* Sidebar navigation */
-
-.site-body {
-  display: grid;
-  grid-template-columns: 230px 1fr;
-  gap: 40px;
-  align-items: start;
-}
+/* Sidebar navigation — a fixed drawer pinned to the left edge of the
+   viewport, independent of the centered content column. The permanently
+   visible tab is the <summary>; opening the <details> slides the tree
+   panel out to its right as an overlay. */
 
 .site-nav {
-  position: sticky;
-  top: 24px;
-  max-height: calc(100vh - 48px);
-  overflow-y: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 50;
+  display: flex;
+  align-items: stretch;
 }
 
 .site-nav > summary {
   list-style: none;
   cursor: pointer;
-  position: relative;
-  padding: 4px 0 12px 20px;
-  margin-bottom: 4px;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  background: var(--bg-elevated);
+  border-right: 1px solid var(--border);
+  color: var(--gold-dim);
   font-weight: 500;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--gold-dim);
-  border-bottom: 1px solid var(--border);
+  transition: color 0.15s ease;
 }
 .site-nav > summary::-webkit-details-marker { display: none; }
-.site-nav > summary::before {
-  content: "▸";
-  position: absolute;
-  left: 0;
-  top: 3px;
-  color: var(--gold-dim);
-  font-size: 0.85em;
-  transition: transform 0.15s ease;
-}
-.site-nav[open] > summary::before {
-  transform: rotate(90deg);
-}
 .site-nav > summary:hover {
   color: var(--gold-bright);
 }
 
 .site-nav-tree {
-  padding-top: 12px;
+  width: min(300px, 85vw);
+  height: 100vh;
+  overflow-y: auto;
+  background: var(--bg-elevated);
+  border-right: 1px solid var(--border);
+  box-shadow: 16px 0 40px rgba(0, 0, 0, 0.5);
+  padding: 24px 20px;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -281,21 +281,10 @@ body {
   color: var(--gold-bright);
 }
 
-@media (max-width: 860px) {
-  .site-body {
-    display: block;
-  }
-  .site-nav {
-    position: static;
-    max-height: none;
-    margin-bottom: 28px;
-  }
-}
-
 /* Main content */
 
 main.page {
-  padding: 40px 0 64px;
+  padding: 40px 24px 64px;
 }
 
 main.page > h1:first-child {
