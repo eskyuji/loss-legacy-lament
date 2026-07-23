@@ -6,7 +6,7 @@ title: House Tetran
 
 **Type:** Noble House / Bloodline  
 **Motto:** "The Moon Remembers."  
-**Crest:** A snow leopard's profile set within a crescent moon, overlaid on a vertical spear/compass rose, framed by laurel branches and eight-pointed stars — all rendered in aged gold on deep navy. *(Crest image: save to this folder as `House Tetran - Crest.png`)*
+**Crest:** A snow leopard's profile set within a crescent moon, overlaid on a vertical spear/compass rose, framed by laurel branches and eight-pointed stars — all rendered in aged gold on deep navy.
 
 ---
 
@@ -52,3 +52,10 @@ That distinction matters for his arc. He already demonstrated, when he returned 
 
 - [Bas Tetran XXIV](../Characters/Bas Tetran XXIV) — the founding figure and current First Advisor
 - [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) — campaign in which Bas's arc centers on this tension
+
+---
+
+## Appendix: Concept Art
+
+![House Tetran's crest: a snow leopard's profile within a crescent moon, overlaid on a compass rose, framed by laurel and eight-pointed stars](../assets/images/crests/tetran.png)
+*House Tetran's crest.*

@@ -48,3 +48,10 @@ Thelonius identifies the party's broken Tychonium shard as House Volkan work in 
 ## Notes
 
 *Introduced as standalone background lore by the GM outside of session play. See [Items/The Shard](../Items/The%20Shard) and [NPCs/Thelonius](../NPCs/Thelonius) for the in-fiction Campaign 5 thread this connects to.*
+
+---
+
+## Appendix: Concept Art
+
+![House Volkan's crest: a cracked sword flanked by twin anvils](../assets/images/crests/volkan.png)
+*House Volkan's crest.*

@@ -54,3 +54,10 @@ Visitors occasionally remark that the food on Milton's table is often gone by mo
 ## Notes
 
 *Whether Bruce Richardson or Milton are still alive as of Campaign 5, and who currently heads the house if not, is not addressed in session — flagging rather than assuming either way. Founding details, sigil, colors, and formal motto added from a standalone GM background-lore dump, not session play.*
+
+---
+
+## Appendix: Concept Art
+
+![House Richardson's crest: a raccoon seated proudly behind a drum, with a mandolin, goblet, and jester's crown](../assets/images/crests/richardson.png)
+*House Richardson's crest.*

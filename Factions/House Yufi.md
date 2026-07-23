@@ -44,3 +44,10 @@ Among architects there is an old saying: *"Stone remembers the mason. Wood remem
 ## Notes
 
 *Introduced as standalone background lore by the GM outside of session play — not yet tied to any in-fiction Campaign 5 event. Expand as it surfaces in session.*
+
+---
+
+## Appendix: Concept Art
+
+![House Yufi's crest: a white crane standing beneath a blooming cherry tree, reflected upon still water](../assets/images/crests/yufi.png)
+*House Yufi's crest.*

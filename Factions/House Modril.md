@@ -55,3 +55,10 @@ House Modril operates orphanages across most of the western world — including 
 ## Notes
 
 *Introduced as standalone background lore by the GM outside of session play, directly resolving a previously-flagged tension between Magerna's origin story and House Modril's status as an active noble house. See the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary)'s "Threads left open" section, updated accordingly.*
+
+---
+
+## Appendix: Concept Art
+
+![House Modril's crest: a weathered scarecrow standing beneath a harvest moon, framed by wheat](../assets/images/crests/modril.png)
+*House Modril's crest.*
