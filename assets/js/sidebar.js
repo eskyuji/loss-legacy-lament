@@ -29,6 +29,18 @@
     }
   });
 
+  // If the open drawer currently overlaps the main content column (narrow
+  // viewports), close it on navigation so the next page load isn't hidden
+  // behind it. On wide viewports, where the drawer only ever covers empty
+  // margin, leave it open — it persists across pages as usual.
+  tree.addEventListener('click', function (e) {
+    if (!e.target.closest('a')) return;
+    var main = document.querySelector('main.page');
+    if (main && tree.getBoundingClientRect().right > main.getBoundingClientRect().left) {
+      setOpen(false);
+    }
+  });
+
   nav.querySelectorAll('[data-nav-group]').forEach(function (group) {
     var key = 'nav-group-' + group.getAttribute('data-nav-group');
     var groupToggle = group.querySelector('.site-nav-group-toggle');
