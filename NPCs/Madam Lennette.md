@@ -4,7 +4,7 @@ title: Madam Lennette
 
 # Madam Lennette
 
-**Type:** Background Character  
+**Type:** Minor NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn
 
 ---

@@ -4,7 +4,7 @@ title: Thelonius
 
 # Thelonius
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire
 
 ---

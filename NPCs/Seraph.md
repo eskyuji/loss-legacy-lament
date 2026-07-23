@@ -4,7 +4,7 @@ title: Seraph
 
 # Seraph
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire
 
 *⚠️ Note: this file previously listed an additional "Campaign 1 — Past and Future, Dusk and Dawn" appearance alongside the Campaign 4 one — these are the same campaign under two labels ("Campaign 1" was a leftover artifact from the first whole-compendium parse). Deduplicated; there is no separate Campaign 1 material on file.*

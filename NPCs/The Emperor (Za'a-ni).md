@@ -4,7 +4,7 @@ title: The Emperor (Za'a-ni)
 
 # The Emperor (Za'a-ni)
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn
 
 ---

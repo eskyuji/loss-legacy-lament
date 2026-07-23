@@ -6,7 +6,7 @@ title: Tycho
 
 *(The Pridemaster / God of Death)*
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire, CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---

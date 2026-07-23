@@ -4,7 +4,7 @@ title: Meeka
 
 # Meeka
 
-**Type:** Major Character  
+**Type:** Player Character  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---

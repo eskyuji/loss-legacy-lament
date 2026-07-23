@@ -4,7 +4,7 @@ title: The Beggar
 
 # The Beggar
 
-**Type:** Recurring NPC — unnamed
+**Type:** Minor NPC — unnamed, recurring
 **Campaign Appearances:** CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---

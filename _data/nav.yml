@@ -5,35 +5,37 @@
   url: "/"
 - label: Characters
   items:
-    - label: 702 Purpose and Intent
-      url: "/Characters/702%20Purpose%20and%20Intent"
     - label: Bas Tetran XXIV
       url: "/Characters/Bas%20Tetran%20XXIV"
-    - label: December Redd
-      url: "/Characters/December%20Redd"
-    - label: Feit
-      url: "/Characters/Feit"
     - label: Magerna
       url: "/Characters/Magerna"
     - label: Meeka
       url: "/Characters/Meeka"
+- label: Major NPCs
+  items:
+    - label: 702 Purpose and Intent
+      url: "/NPCs/702%20Purpose%20and%20Intent"
+    - label: December Redd
+      url: "/NPCs/December%20Redd"
+    - label: Feit
+      url: "/NPCs/Feit"
     - label: Nakki (Akki Nakki)
-      url: "/Characters/Nakki%20(Akki%20Nakki)"
+      url: "/NPCs/Nakki%20(Akki%20Nakki)"
     - label: Netiri
-      url: "/Characters/Netiri"
+      url: "/NPCs/Netiri"
     - label: Seraph
-      url: "/Characters/Seraph"
+      url: "/NPCs/Seraph"
     - label: Teyou Zhiang
-      url: "/Characters/Teyou%20Zhiang"
+      url: "/NPCs/Teyou%20Zhiang"
     - label: The Emperor (Za'a-ni)
-      url: "/Characters/The%20Emperor%20(Za'a-ni)"
+      url: "/NPCs/The%20Emperor%20(Za'a-ni)"
     - label: Thelonius
-      url: "/Characters/Thelonius"
+      url: "/NPCs/Thelonius"
     - label: Tycho
-      url: "/Characters/Tycho"
+      url: "/NPCs/Tycho"
     - label: Tyn
-      url: "/Characters/Tyn"
-- label: NPCs
+      url: "/NPCs/Tyn"
+- label: Minor NPCs
   items:
     - label: Aleer
       url: "/NPCs/Aleer"

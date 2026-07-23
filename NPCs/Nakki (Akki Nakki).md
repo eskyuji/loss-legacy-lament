@@ -4,7 +4,7 @@ title: Nakki (Akki Nakki)
 
 # Nakki (Akki Nakki)
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 2 — The Eternal Empire
 
 ---

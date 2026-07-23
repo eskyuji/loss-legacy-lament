@@ -6,7 +6,7 @@ title: Teyou Zhiang
 
 *(The Worldcrafter)*
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 5 — Loss, Legacy, and Lament
 
 *⚠️ Campaign-label correction: this file was originally filed under Campaign 3 during the initial compendium parse. The detail below — drawn directly from the Campaign 4 raw session notes ("Past and Future, Dusk and Dawn") — confirms his major appearance belongs to Campaign 4, not Campaign 3. Relabeled accordingly; flagging the correction rather than silently erasing the original tag.*

@@ -4,7 +4,7 @@ title: Feit
 
 # Feit
 
-**Type:** Major Character  
+**Type:** Major NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 3 — Remnants of a Broken World
 
 ---

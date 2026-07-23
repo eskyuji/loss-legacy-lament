@@ -4,7 +4,7 @@ title: Aleer
 
 # Aleer
 
-**Type:** Background Character  
+**Type:** Minor NPC  
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn, CAMPAIGN 2 — The Eternal Empire
 
 ---

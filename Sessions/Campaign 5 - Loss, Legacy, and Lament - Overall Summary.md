@@ -141,11 +141,11 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
 - **New thread:** per an out-of-session note from Magerna's player, "Oscar is working for Feit." Who Oscar is, and how this was learned, is entirely unestablished — flagging rather than speculating.
 - Meeka holds an unspecified "piece" of 702 Purpose and Intent — described by her as necessary to keep withheld — and Magerna's parting words to 702 ("How many times does someone get to have vengeance twice?") are both unexplained.
 - The goblin child, formerly known only as "Shithead," is traveling with the party toward House Modril's orphanage at the Maw; a proper name for him was floated ("Lil Shysti") but not settled.
-- Letters to Nakki and Feit are still undelivered (the letter addressed to Tin/Tyn may now be moot, given his status as an Oathstone — see [Tyn](../Characters/Tyn)).
+- Letters to Nakki and Feit are still undelivered (the letter addressed to Tin/Tyn may now be moot, given his status as an Oathstone — see [Tyn](../NPCs/Tyn)).
 - Snow over Veranath in summer has returned for the first time since the last Frost Shepherds' era — its meaning is, per Tycho, "not good," but otherwise unknown. Thelonius adds (Session 2) that this snow is itself the founding Synchronization Malformata the Frost Shepherds were named for.
 
 ---
 
 ## Notes
 
-*This file should be extended as subsequent sessions are played. See [Bas Tetran XXIV](../Characters/Bas Tetran XXIV), [Magerna](../Characters/Magerna), [Meeka](../Characters/Meeka), [Tycho](../Characters/Tycho), [Thelonius](../Characters/Thelonius), [Seraph](../Characters/Seraph), [Teyou Zhiang](../Characters/Teyou Zhiang), and [Hall of the Owls](../Locations/Hall of the Owls) for character- and location-specific detail folded in from this session.*
+*This file should be extended as subsequent sessions are played. See [Bas Tetran XXIV](../Characters/Bas Tetran XXIV), [Magerna](../Characters/Magerna), [Meeka](../Characters/Meeka), [Tycho](../NPCs/Tycho), [Thelonius](../NPCs/Thelonius), [Seraph](../NPCs/Seraph), [Teyou Zhiang](../NPCs/Teyou Zhiang), and [Hall of the Owls](../Locations/Hall of the Owls) for character- and location-specific detail folded in from this session.*

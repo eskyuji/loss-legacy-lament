@@ -4,7 +4,7 @@ title: Grit
 
 # Grit
 
-**Type:** NPC (deceased)
+**Type:** Minor NPC (deceased)
 **Campaign Appearances:** CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---

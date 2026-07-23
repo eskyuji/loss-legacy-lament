@@ -6,7 +6,7 @@ title: Magerna
 
 *(Magerna Starblood)*
 
-**Type:** Major Character
+**Type:** Player Character
 **Campaign Appearances:** CAMPAIGN 4 — Past and Future, Dusk and Dawn (referenced), CAMPAIGN 5 — Loss, Legacy, and Lament
 
 *⚠️ Naming note: goes by "Magerna Starblood" as of Campaign 5 specifically to distinguish this incarnation from the version of the character previously played in an unrelated, non-Mythrir campaign ("Tyranny"). Both share the name and broad concept but are explicitly different individuals — flagging the connection rather than merging them.*

@@ -48,7 +48,7 @@ Lightweight cross-reference for every named character and NPC across all four ca
 - [Aerynath](archive/NPCs/Aerynath) — A nine-headed dragon god, confirmed Patron of Life who often takes beggar form. ⚠️ Possible naming overlap with "Aerynth," a hero who fell in Campaign 2 — flagged, not merged.
 - [The Owl (Campaign 1)](archive/NPCs/The%20Owl%20(Campaign%201)) — Affiliated with the Owls guild, "insane scribes of the supernatural." ⚠️ Possible connection to the established "Owls" lore from Campaigns 2 and 4 — flagged, not asserted.
 - [Mort (Human of North Arill)](archive/NPCs/Mort%20(Human%20of%20North%20Arill)) — **RETRACTED.** Was incorrectly treated as distinct from Mortalus; corrected and merged into [Mortalus (Mort)](archive/Characters/Mortalus (Mort)).
-- [The Watcher](archive/NPCs/The%20Watcher) — Patron of protectors, power behind the Church of the Helm; protected early Underdark life from the Typhlo/Urath battle. *(Also referenced Campaign 2 — see [Thelonius](Characters/Thelonius).)*
+- [The Watcher](archive/NPCs/The%20Watcher) — Patron of protectors, power behind the Church of the Helm; protected early Underdark life from the Typhlo/Urath battle. *(Also referenced Campaign 2 — see [Thelonius](NPCs/Thelonius).)*
 - [Xixxern](archive/NPCs/Xixxern) — A dragon gifted to the party by Xanathar so Ryx could claim vengeance. ⚠️ Possible origin of Ryx's later transformation into a dragon — flagged, not confirmed.
 - [King Phresee](archive/NPCs/King%20Phresee) — King of the humans above the Underdark.
 - [Mackleroy](archive/NPCs/Mackleroy) — A dwarf from North Arill.
@@ -93,11 +93,11 @@ Lightweight cross-reference for every named character and NPC across all four ca
 - [Logan](archive/Characters/Logan) — Benji's apprentice turned betrayer.
 - [Mortalus (Mort)](archive/Characters/Mortalus (Mort)) — Tall, dark-haired, and regal in black robes.
 - [Myka](archive/Characters/Myka) — Plays a major role in this campaign as well — see [Myka](archive/Characters/Myka)'s Campaign Appearances note for clarification on how Campaign 2 fits before her Campaign 1 resurrection.
-- [Nakki (Akki Nakki)](Characters/Nakki (Akki Nakki)) — A red goblin cursed with the Curse of Truth — she cannot lie, even when she doesn't know the answer.
+- [Nakki (Akki Nakki)](NPCs/Nakki (Akki Nakki)) — A red goblin cursed with the Curse of Truth — she cannot lie, even when she doesn't know the answer.
 - [Rynn](archive/Characters/Rynn) — A centaur with a long white beard who has watched over Myka's Keep for three hundred years.
-- [Seraph](Characters/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises.
+- [Seraph](NPCs/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises.
 - [Taeus Merrymantle](archive/Characters/Taeus Merrymantle) — A Leonin soldier promoted to Second Lieutenant early in the campaign.
-- [Thelonius](Characters/Thelonius) — Ancient beyond reckoning, cursed into the form of a sphynx cat by The Watcher for forgetting his duty — a paradox, since his curse is Remembrance.
+- [Thelonius](NPCs/Thelonius) — Ancient beyond reckoning, cursed into the form of a sphynx cat by The Watcher for forgetting his duty — a paradox, since his curse is Remembrance.
 - [Tirgad](archive/Characters/Tirgad) — An undead dragon who rose to dominance after Goroshi's death freed him.
 - [Tyra](archive/Characters/Tyra) — A tall blonde woman encountered deep in the Hall of the Owls.
 - [Un'Malo](archive/Characters/Un'Malo) — The Fourth Aspect of the World Crafter — the Aspect of Vengeance.
@@ -153,18 +153,18 @@ Lightweight cross-reference for every named character and NPC across all four ca
 
 - [Benji](archive/Characters/Benji) — Founder of Shaidar's Rest, recovered in this campaign as the Oathstone of Eternity. *(Also Campaign 2.)*
 - [Carp](archive/Characters/Carp) — Killed in the blood magic riot in Shaidar's Rest. *(Also Campaign 2.)*
-- [Feit](Characters/Feit) — Ancient, ageless, and deeply wrong. *(Also Campaign 4.)*
+- [Feit](NPCs/Feit) — Ancient, ageless, and deeply wrong. *(Also Campaign 4.)*
 - [Goroshi](archive/Characters/Goroshi) — An ancient Oni who guides the party through The Crash and is revealed to be Nebbuzar's phylactery. *(Also Campaign 2.)*
 - [Kwadwo](archive/Characters/Kwadwo) — A Rhox infected with the Rot who breaks his people's code by leaving The Crash to seek help.
 - [Logan](archive/Characters/Logan) — Benji's apprentice turned betrayer, resurfacing here possessing Benji's recovered body. *(Also Campaign 2.)*
 - [Myka](archive/Characters/Myka) — Now ruling Shaidar's Rest. *(Also Campaigns 2 and 4.)*
 - [Queen Nin](archive/Characters/Queen Nin) — The ruler of The Crash, who views the Frost Shepherds as interlopers.
-- [Seraph](Characters/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises. *(Also Campaigns 2 and 4.)*
+- [Seraph](NPCs/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises. *(Also Campaigns 2 and 4.)*
 - [The Magus](archive/Characters/The Magus) — Ancient.
-- [Thelonius](Characters/Thelonius) — Master of all sixteen Metal Magics; loses an arm during the blood magic riot. *(Also Campaigns 2 and 4.)*
-- [Tyn](Characters/Tyn) — Leader of Lost Hope. *(Also Campaign 4.)*
+- [Thelonius](NPCs/Thelonius) — Master of all sixteen Metal Magics; loses an arm during the blood magic riot. *(Also Campaigns 2 and 4.)*
+- [Tyn](NPCs/Tyn) — Leader of Lost Hope. *(Also Campaign 4.)*
 - [Tirgad](archive/Characters/Tirgad) — An undead dragon who rose to dominance after Goroshi's death freed him.
-- [Tycho](Characters/Tycho) — A scarred Leonin who began as a soldier and became a legend. *(Also Campaigns 2 and 4.)*
+- [Tycho](NPCs/Tycho) — A scarred Leonin who began as a soldier and became a legend. *(Also Campaigns 2 and 4.)*
 - [Yelena Moller](archive/Characters/Yelena Moller) — Six-foot-two, 186 pounds.
 - [Zeth Nogoth](archive/Characters/Zeth Nogoth) — Defends Shaidar's Rest from the blood magic riot in his shadow-monstrosity form. *(Also Campaign 2; killed ~2,000 years later in Campaign 4 by the new "Pridemaster" — see [The Pridemaster (Campaign 4)](archive/NPCs/The Pridemaster (Campaign 4)).)*
 
@@ -199,24 +199,24 @@ Lightweight cross-reference for every named character and NPC across all four ca
 
 ### Characters
 
-- [702 Purpose and Intent](Characters/702 Purpose and Intent) — A Steel Wrought (Warforged) commander. *(Also Campaign 5 — confesses to killing a child under Feit's control.)*
+- [702 Purpose and Intent](NPCs/702 Purpose and Intent) — A Steel Wrought (Warforged) commander. *(Also Campaign 5 — confesses to killing a child under Feit's control.)*
 - [Bas Tetran XXIV](Characters/Bas Tetran XXIV) — The twenty-fourth in a long line of Tabaxi bearing the same name. *(Also Campaign 5 — now a demigod, Champion of the Tetrans.)*
-- [December Redd](Characters/December Redd) — A shifter whose eyes glow. *(Also Campaign 5 — referenced secondhand only.)*
-- [Feit](Characters/Feit) — Ancient, ageless, and deeply wrong; revealed as "the Dark Door," shed order of Yogg-Sothoth. *(Also Campaign 3.)*
+- [December Redd](NPCs/December Redd) — A shifter whose eyes glow. *(Also Campaign 5 — referenced secondhand only.)*
+- [Feit](NPCs/Feit) — Ancient, ageless, and deeply wrong; revealed as "the Dark Door," shed order of Yogg-Sothoth. *(Also Campaign 3.)*
 - [Galv](archive/Characters/Galv) — A bald Truthspeaker with burnt skin and splotchy coloring.
 - [Loanar](archive/Characters/Loanar) — An ancient goddess of silver roses.
 - [Meeka](Characters/Meeka) — God of All Lost Things. *(Also Campaign 5.)*
 - [Myka](archive/Characters/Myka) — Dies and is remade as Vengeance Incarnate in Loanar's realm. *(Also Campaigns 2 and 3.)*
 - [Naebor](archive/Characters/Naebor) — A male myconid and old friend of Netiri's.
-- [Netiri](Characters/Netiri) — A Satyr Circle of Spores druid and guardian of the Rot Farms. *(Also Campaign 5 — confirmed lost.)*
+- [Netiri](NPCs/Netiri) — A Satyr Circle of Spores druid and guardian of the Rot Farms. *(Also Campaign 5 — confirmed lost.)*
 - [One-Eyed Jack](archive/Characters/One-Eyed Jack) — A civilian driver who loses his eye to a helicopter pilot's stray cigarette.
 - [Oxis Steelclaw](archive/Characters/Oxis Steelclaw) — A seven-foot-ten Dragonborn fighter from one of the three great Dragonborn houses. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file.)*
-- [Seraph](Characters/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises; bound by a new Geas, redeemed a second time by Meeka. *(Also Campaigns 2 and 3.)*
-- [Teyou Zhiang](Characters/Teyou Zhiang) — The God with a capital G; delivers the campaign's central cosmological lore-dump. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file. Dies in Campaign 5.)*
-- [The Emperor (Za'a-ni)](Characters/The Emperor (Za'a-ni)) — An arrogant, scrawny, armless Leonin armorer artificer, only eighteen years old. *(Also Campaign 5 — referenced secondhand only.)*
-- [Thelonius](Characters/Thelonius) — Leads the party through four labors in Veranath; ruler of the cat hive-mind there. *(Also Campaigns 2 and 3.)*
-- [Tyn](Characters/Tyn) — Leader of Lost Hope; charges Varyn with refounding the Moa; gives his sword Reno to Bas Tetran XXIV before Lost Hope goes dark around him. ⚠️ Also appears in earlier index passes as "Tin" — an earlier compendium spelling; "Tyn" is confirmed correct and used consistently in the Campaign 5 session transcripts — same individual, see naming flag in-file. *(Also Campaign 3; also Campaign 5 — confirmed as the Oathstone of Tenacity.)*
-- [Tycho](Characters/Tycho) — A scarred Leonin who began as a soldier and became a legend; dies and is confirmed as the God of Death in Loanar's realm. *(Also Campaigns 2, 3, and 5. ⚠️ title conflict with the new "Pridemaster" flagged in-file.)*
+- [Seraph](NPCs/Seraph) — A tall, pale Aasimar with completely black eyes save for metallic silver irises; bound by a new Geas, redeemed a second time by Meeka. *(Also Campaigns 2 and 3.)*
+- [Teyou Zhiang](NPCs/Teyou Zhiang) — The God with a capital G; delivers the campaign's central cosmological lore-dump. *(Originally filed under Campaign 3 — relabeled; see correction flag in-file. Dies in Campaign 5.)*
+- [The Emperor (Za'a-ni)](NPCs/The Emperor (Za'a-ni)) — An arrogant, scrawny, armless Leonin armorer artificer, only eighteen years old. *(Also Campaign 5 — referenced secondhand only.)*
+- [Thelonius](NPCs/Thelonius) — Leads the party through four labors in Veranath; ruler of the cat hive-mind there. *(Also Campaigns 2 and 3.)*
+- [Tyn](NPCs/Tyn) — Leader of Lost Hope; charges Varyn with refounding the Moa; gives his sword Reno to Bas Tetran XXIV before Lost Hope goes dark around him. ⚠️ Also appears in earlier index passes as "Tin" — an earlier compendium spelling; "Tyn" is confirmed correct and used consistently in the Campaign 5 session transcripts — same individual, see naming flag in-file. *(Also Campaign 3; also Campaign 5 — confirmed as the Oathstone of Tenacity.)*
+- [Tycho](NPCs/Tycho) — A scarred Leonin who began as a soldier and became a legend; dies and is confirmed as the God of Death in Loanar's realm. *(Also Campaigns 2, 3, and 5. ⚠️ title conflict with the new "Pridemaster" flagged in-file.)*
 - [Varyn](archive/Characters/Varyn) — A stitchwork fighter assembled from the limbs of multiple races; introduces the reformed Moa party.
 
 ### NPCs
@@ -264,19 +264,19 @@ Lightweight cross-reference for every named character and NPC across all four ca
 - [Bas Tetran XXIV](Characters/Bas%20Tetran%20XXIV) — Now a demigod and Champion of the Tetrans, two thousand years into immortality and increasingly jaded. *(Also Campaign 4.)*
 - [Magerna](Characters/Magerna) — A scarecrow given consciousness, now the Aspect of Lament. ⚠️ Shares a name and concept with an unrelated, non-Mythrir character of the same name from a different campaign ("Tyranny") — flagged, not merged.
 - [Meeka](Characters/Meeka) — God of All Lost Things; revealed to have held Bas Tetran XXIV in 500 years of servitude after Campaign 4's finale. *(Also Campaign 4.)*
-- [Teyou Zhiang](Characters/Teyou%20Zhiang) — The Worldcrafter; dies suddenly and without ceremony at the campaign's opening, leaving a will and testament behind. *(Also Campaign 4.)*
-- [Tycho](Characters/Tycho) — God of Death; keeps a standing century-mark reunion with Bas Tetran XXIV at the Cat's Pajamas. *(Also Campaigns 2 and 3.)*
-- [Seraph](Characters/Seraph) — Not present in person; confirmed (Session 1) **lost**, in the same unresolved category as Netiri and Za'ani, since the Frost Shepherds' final battle with Feit. *(Also Campaigns 2, 3, and 4.)*
-- [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent) — First Campaign 5 appearance (Session 2); confesses to breaking an infant's neck under Feit's direct control during the fall of Shaidar's Rest, and reveals the origin of Bas's divine blood. *(Also Campaign 4.)*
-- [Tyn](Characters/Tyn) — Does not appear in person; confirmed (Session 2, secondhand via Thelonius) as the Oathstone of Tenacity. *(Also Campaigns 3 and 4. ⚠️ naming flag re: "Tin"/"Tyn" in-file.)*
-- [Netiri](Characters/Netiri) — Does not appear; confirmed (Session 1) lost, and named secondhand (Session 2, via 702) as one of three blamed by Feit for Shaidar's Rest's fall. *(Also Campaign 4.)*
-- [The Emperor (Za'a-ni)](Characters/The%20Emperor%20(Za'a-ni)) — Does not appear; confirmed (Session 1) to have received and melted down Reno into a bismuth breastplate, and named secondhand (Session 2, via 702) alongside Bas and Netiri. *(Also Campaign 4.)*
-- [December Redd](Characters/December%20Redd) — Does not appear; implicated secondhand (Session 2, via 702) in an affair connected to the killed infant's father. *(Also Campaign 4.)*
+- [Teyou Zhiang](NPCs/Teyou%20Zhiang) — The Worldcrafter; dies suddenly and without ceremony at the campaign's opening, leaving a will and testament behind. *(Also Campaign 4.)*
+- [Tycho](NPCs/Tycho) — God of Death; keeps a standing century-mark reunion with Bas Tetran XXIV at the Cat's Pajamas. *(Also Campaigns 2 and 3.)*
+- [Seraph](NPCs/Seraph) — Not present in person; confirmed (Session 1) **lost**, in the same unresolved category as Netiri and Za'ani, since the Frost Shepherds' final battle with Feit. *(Also Campaigns 2, 3, and 4.)*
+- [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent) — First Campaign 5 appearance (Session 2); confesses to breaking an infant's neck under Feit's direct control during the fall of Shaidar's Rest, and reveals the origin of Bas's divine blood. *(Also Campaign 4.)*
+- [Tyn](NPCs/Tyn) — Does not appear in person; confirmed (Session 2, secondhand via Thelonius) as the Oathstone of Tenacity. *(Also Campaigns 3 and 4. ⚠️ naming flag re: "Tin"/"Tyn" in-file.)*
+- [Netiri](NPCs/Netiri) — Does not appear; confirmed (Session 1) lost, and named secondhand (Session 2, via 702) as one of three blamed by Feit for Shaidar's Rest's fall. *(Also Campaign 4.)*
+- [The Emperor (Za'a-ni)](NPCs/The%20Emperor%20(Za'a-ni)) — Does not appear; confirmed (Session 1) to have received and melted down Reno into a bismuth breastplate, and named secondhand (Session 2, via 702) alongside Bas and Netiri. *(Also Campaign 4.)*
+- [December Redd](NPCs/December%20Redd) — Does not appear; implicated secondhand (Session 2, via 702) in an affair connected to the killed infant's father. *(Also Campaign 4.)*
 
 ### NPCs
 
-- [Thelonius](Characters/Thelonius) — Oathstone of Remembrance; has kept Veranath unchanged for four thousand years, currently presenting in rarer human form as a bard at the Cat's Pajamas. *(Also Campaigns 2, 3, and 4.)*
-- Nakki (Akki Nakki) — Crashes the Session 0.5 reunion to steal a drink and offer a one-line greeting before being chased out; letter from Teyou's will addressed to her remains undelivered. *(Also Campaign 2 — see [Characters/Nakki (Akki Nakki).md](Characters/Nakki%20(Akki%20Nakki)).)*
+- [Thelonius](NPCs/Thelonius) — Oathstone of Remembrance; has kept Veranath unchanged for four thousand years, currently presenting in rarer human form as a bard at the Cat's Pajamas. *(Also Campaigns 2, 3, and 4.)*
+- Nakki (Akki Nakki) — Crashes the Session 0.5 reunion to steal a drink and offer a one-line greeting before being chased out; letter from Teyou's will addressed to her remains undelivered. *(Also Campaign 2 — see [NPCs/Nakki (Akki Nakki).md](NPCs/Nakki%20(Akki%20Nakki)).)*
 - [The Beggar](NPCs/The%20Beggar) — Apparently mundane human in his 50s-60s who delivers the seven-worlds prophecy in Session 0.5; revealed in Session 1 to have been reliving the same day on a loop, freed but left mentally broken, and last seen walking north toward the Hall of the Owls.
 - The Owl — A robed, pewter-owl-masked figure seen chronicling events on a Veranath rooftop in Session 1, the first Owl sighting in 2,000 years. Impervious to every attack tried against it. See [Locations/Hall of the Owls](Locations/Hall%20of%20the%20Owls#campaign-5-update-session-1).
 - [Shithead (Goblin Survivor)](NPCs/Shithead%20(Goblin%20Survivor)) — Sole survivor of a goblin-camp massacre under Verenath's Western Bridge (Session 2); adopted and personally escorted to a House Modril orphanage at the Maw by the party.

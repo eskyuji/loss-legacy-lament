@@ -4,7 +4,7 @@ title: Shithead (Goblin Survivor)
 
 # Shithead (Goblin Survivor)
 
-**Type:** Background Character
+**Type:** Minor NPC
 **Campaign Appearances:** CAMPAIGN 5 — Loss, Legacy, and Lament
 
 ---

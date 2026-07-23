@@ -8,7 +8,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the l
 
 > "The future is here, the tower will claim us. Before me is death, and behind me non-existence. We knew what was to come and did nothing to stop it. Hubris is our downfall."
 >
-> — [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent)
+> — [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent)
 >
 > [Session 2 — Before Me Is Death](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary#session-2--before-me-is-death)
 {: .pull-quote}
@@ -27,20 +27,31 @@ Thelonius identifies the party's broken shard as impossible Volkan-forged Tychon
 
 ## Characters
 
+Player characters only. Recurring allies, immortals, and other significant figures are listed under [NPCs](#npcs).
+
 | | |
 |---|---|
-| [702 Purpose and Intent](Characters/702%20Purpose%20and%20Intent) | [Bas Tetran XXIV](Characters/Bas%20Tetran%20XXIV) |
-| [December Redd](Characters/December%20Redd) | [Feit](Characters/Feit) |
-| [Magerna](Characters/Magerna) | [Meeka](Characters/Meeka) |
-| [Nakki (Akki Nakki)](Characters/Nakki%20(Akki%20Nakki)) | [Netiri](Characters/Netiri) |
-| [Seraph](Characters/Seraph) | [Teyou Zhiang](Characters/Teyou%20Zhiang) |
-| [The Emperor (Za'a-ni)](Characters/The%20Emperor%20(Za'a-ni)) | [Thelonius](Characters/Thelonius) |
-| [Tycho](Characters/Tycho) | [Tyn](Characters/Tyn) |
+| [Bas Tetran XXIV](Characters/Bas%20Tetran%20XXIV) | [Magerna](Characters/Magerna) |
+| [Meeka](Characters/Meeka) | |
 {: .link-grid}
 
 ---
 
 ## NPCs
+
+### Major NPCs
+
+| | |
+|---|---|
+| [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent) | [December Redd](NPCs/December%20Redd) |
+| [Feit](NPCs/Feit) | [Nakki (Akki Nakki)](NPCs/Nakki%20(Akki%20Nakki)) |
+| [Netiri](NPCs/Netiri) | [Seraph](NPCs/Seraph) |
+| [Teyou Zhiang](NPCs/Teyou%20Zhiang) | [The Emperor (Za'a-ni)](NPCs/The%20Emperor%20(Za'a-ni)) |
+| [Thelonius](NPCs/Thelonius) | [Tycho](NPCs/Tycho) |
+| [Tyn](NPCs/Tyn) | |
+{: .link-grid}
+
+### Minor NPCs
 
 | | |
 |---|---|
