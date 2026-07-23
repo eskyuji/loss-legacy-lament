@@ -23,6 +23,15 @@ html {
   color-scheme: dark;
 }
 
+::selection {
+  background: var(--gold);
+  color: var(--bg);
+}
+::-moz-selection {
+  background: var(--gold);
+  color: var(--bg);
+}
+
 body {
   margin: 0;
   background:
