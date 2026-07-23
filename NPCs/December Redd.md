@@ -23,7 +23,7 @@ Leaves Don Carlo Iro a training regime before departing Shaidar's Rest to search
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, in connection with an affair six years before an infant's death during Shaidar's Rest's fall.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

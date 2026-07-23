@@ -10,7 +10,7 @@ Every session of the current campaign, [Campaign 5: Loss, Legacy, and Lament](Ca
 
 <div id="recap-list">
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">The Worldcrafter Teyou Zhiang dies mid-drink at a century-old reunion, leaving behind a will, a prophecy, and the first sign of a new era.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -49,7 +49,7 @@ The session ends with Bas turning back to Tycho: *"It's that time again, isn't i
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">A goblin possessed by a shattered Tychonium shard attacks a beggar trapped in a time loop — and Feit's name resurfaces for the first time in two thousand years.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -88,7 +88,7 @@ The session ends with the three of them heading back to the Cat's Pajamas to bri
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">702 confesses two thousand years of guilt just before the party finds a goblin camp slaughtered to the last — save one orphaned survivor they refuse to leave behind.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -132,30 +132,6 @@ Meeka activates Liberty of the End's Stars Without Number: 1d50 for distance (22
 </details>
 
 </div>
-
-<script>
-(function () {
-  var btn = document.getElementById('recap-sort-toggle');
-  var list = document.getElementById('recap-list');
-  if (!btn || !list) return;
-
-  function reverseList() {
-    var entries = Array.prototype.slice.call(list.children);
-    entries.reverse();
-    entries.forEach(function (entry) { list.appendChild(entry); });
-  }
-
-  // Source order is oldest-first; reverse once so most-recent-first is the default view.
-  reverseList();
-  var ascending = false;
-
-  btn.addEventListener('click', function () {
-    reverseList();
-    ascending = !ascending;
-    btn.textContent = ascending ? 'Oldest first ↓' : 'Most recent first ↑';
-  });
-})();
-</script>
 
 ---
 

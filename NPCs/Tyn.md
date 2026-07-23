@@ -21,7 +21,7 @@ Leader of Lost Hope. An ancient, medieval-looking warrior whose metallic skin is
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Secondhand, from a scene in Lost Hope: feels Teyou's death from across the world, and for one instant, seems afraid.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -32,7 +32,7 @@ Tyn lowers his head — not in prayer, but "like a man listening for footsteps t
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Secondhand, via Thelonius: confirmed as an Oathstone, and as the namesake of Tychonium itself.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

@@ -35,7 +35,7 @@ Originally manifested as a spirit of vengeance, channeling Un'Malo's aspect dire
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Attempts to revive Teyou with Mass Heal, reads his will aloud, and receives his own letter about vengeance never being a home.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -50,7 +50,7 @@ Touches the mysterious beggar who remarks on Teyou's death, prompting an unsolic
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Tails the beggar, moonbeams the untouchable Owl, and heals the beggar's body — but not his broken mind.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -59,7 +59,7 @@ Asks Thelonius directly where to put a dead god's body ("Would you like to keep 
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Questions whether he's still an aspect of lament, invites 702 into Zone of Truth, and takes in the rescued goblin child on House Modril's behalf.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

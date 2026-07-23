@@ -41,7 +41,7 @@ Turns a Scarlet Peaks aggressor who blamed him for the world's end into a sentie
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Present throughout the reunion, receiving his own late-arriving cat collar from Teyou's will.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -50,7 +50,7 @@ Present throughout the once-a-century reunion at the Cat's Pajamas, including hi
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Offers the tavern freezer for a dead god's body, then drops an unexplained mention of “the gates” opening before some kind of march.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -59,7 +59,7 @@ When asked by Magerna where to put a dead god's body, deadpans an offer of the t
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Identifies the shard as House Volkan work, reveals Reno's origin as Tyn's own sentient friend, and sends the party to Milton's Feast.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

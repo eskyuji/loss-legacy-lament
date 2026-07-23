@@ -27,7 +27,7 @@ Hosts the party at her bazaar in a scene centered on Madam Lennette's screaming 
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Held Bas in her employ for 500 years; watches Teyou die from hiding and confirms his essence is gone, not merely lost.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -36,7 +36,7 @@ Confirmed: held Bas Tetran XXIV in her employ for 500 years as the price of resc
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Takes Teyou's body into her own domain, tries Banishment on the Owl, and returns wrapping the cursed shard in an entirely new, self-constructed body.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -45,7 +45,7 @@ Takes Teyou's body into her own mass and sinks away with it — he "doesn't belo
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Her new body is confirmed permanent; Divine Intervention is formalized, and she pulls Liberty of the End as her first artifact.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

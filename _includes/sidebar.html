@@ -1,19 +1,23 @@
 <div class="site-nav" data-nav>
   <button type="button" class="site-nav-toggle" aria-expanded="false" aria-controls="site-nav-tree">Navigation</button>
   <nav class="site-nav-tree" id="site-nav-tree" aria-label="Section navigation">
-    {% for section in site.data.nav %}
-      {% if section.items %}
-      <div class="site-nav-group" data-nav-group="{{ section.label | slugify }}">
-        <button type="button" class="site-nav-group-toggle" aria-expanded="false">{{ section.label }}</button>
-        <ul class="site-nav-group-list" hidden>
-          {% for item in section.items %}
-          <li><a href="{{ item.url | relative_url }}">{{ item.label }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% else %}
-      <a class="site-nav-link" href="{{ section.url | relative_url }}">{{ section.label }}</a>
-      {% endif %}
-    {% endfor %}
+    <input type="search" class="site-nav-search" placeholder="Search the wiki…" aria-label="Search the wiki" autocomplete="off" data-index-url="{{ '/search-index.json' | relative_url }}">
+    <div class="site-nav-results" hidden></div>
+    <div class="site-nav-list">
+      {% for section in site.data.nav %}
+        {% if section.items %}
+        <div class="site-nav-group" data-nav-group="{{ section.label | slugify }}">
+          <button type="button" class="site-nav-group-toggle" aria-expanded="false">{{ section.label }}</button>
+          <ul class="site-nav-group-list" hidden>
+            {% for item in section.items %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.label }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% else %}
+        <a class="site-nav-link" href="{{ section.url | relative_url }}">{{ section.label }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </nav>
 </div>

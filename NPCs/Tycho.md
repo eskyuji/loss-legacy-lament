@@ -53,7 +53,7 @@ Present for Star's death during the blood magic riot in Shaidar's Rest — his g
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Arrives with snowflakes in his mane in the height of summer, keeping a four-thousand-year-old appointment, as Teyou dies at the table.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

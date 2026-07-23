@@ -33,7 +33,7 @@ A major antagonist arc this time: bound once again by a Geas, this iteration of 
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Not present — confirmed lost since the Frost Shepherds' final confrontation with Feit, the namesake of the now-rare metal Seraphium.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

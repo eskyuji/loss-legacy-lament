@@ -27,7 +27,7 @@ Delivers the campaign's central cosmological lore-dump: he is the World Crafter,
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Walks into the Cat's Pajamas, buys five drinks, takes one sip, and dies without a word — his prosthetic arm missing entirely.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -38,7 +38,7 @@ A mundane-seeming human beggar, present in the tavern as Teyou's body is discove
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Bas finds only electrum and a Tychonium sliver on the body; the beggar's account reveals today was the first time Teyou ever died.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

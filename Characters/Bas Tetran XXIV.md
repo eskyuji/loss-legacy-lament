@@ -78,7 +78,7 @@ When Bas returned after his 500 years of servitude to Meeka, he found that House
 
 See [House Tetran](../Factions/House Tetran) for full house history.
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Visibly aged for the first time in centuries; recognizes the summer snow as a bad omen and receives Teyou's letter naming his central unresolved wound.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -93,7 +93,7 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Searches Teyou's body, tails the beggar, engages the untouchable Owl, and ends the goblin's attack — hearing the shard speak to him alone.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -108,7 +108,7 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Confirms Reno's fate with Thelonius, reads 702's confession as truthful, and takes personal responsibility for the rescued goblin child.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

@@ -19,7 +19,7 @@ A Steel Wrought (Warforged) commander. Mahogany and granite body with red sparkl
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">First appearance in Campaign 5: confesses two thousand years of nightmares and a murdered infant, and tells Bas the origin of his divine blood.</span></summary>
 <div class="recap-entry-body" markdown="1">
 

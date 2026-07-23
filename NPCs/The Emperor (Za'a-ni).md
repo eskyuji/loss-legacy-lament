@@ -23,7 +23,7 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 
 ## Campaign 5 Session Detail
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-1--the-broken-blade">
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Secondhand: confirmed to have received Reno, later melted down and reforged into the bismuth breastplate he now wears.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
@@ -32,7 +32,7 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 </div>
 </details>
 
-<details class="recap-entry" markdown="1">
+<details class="recap-entry" markdown="1" id="session-2--before-me-is-death">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, as one of three people Feit blamed Shaidar's Rest's fall on — he was not present.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
