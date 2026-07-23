@@ -13,7 +13,7 @@ title: House Volkan
 **Motto:** *"What Is Forged Endures."*
 **Campaign Appearances:** CAMPAIGN 5 — Loss, Legacy, and Lament (referenced, not yet encountered directly)
 
-*⚠️ Naming note: this GM-provided lore dump spells the house "Volkan." All existing Campaign 5 session material — [Reno](../Items/Reno), [Oathstones](../Items/Oathstones), [Thelonius](../Characters/Thelonius), [The Shard](../Items/The%20Shard), [Tyn](../Characters/Tyn), [Tycho](../Characters/Tycho), [Netiri](../Characters/Netiri), [Seraph](../Characters/Seraph) — spells it "Vulcan." Treating both as the same house rather than assuming a distinction; flagging the variant rather than silently standardizing it.*
+*⚠️ Naming note: this GM-provided lore dump spells the house "Volkan," while earlier Campaign 5 session material — [Reno](../Items/Reno), [Oathstones](../Items/Oathstones), [Thelonius](../Characters/Thelonius), [The Shard](../Items/The%20Shard), [Tyn](../Characters/Tyn), [Tycho](../Characters/Tycho), [Netiri](../Characters/Netiri), [Seraph](../Characters/Seraph) — had spelled it "Vulcan." Resolved in favor of "Volkan" as the correct spelling; those files have been updated to match.*
 
 ---
 
@@ -41,7 +41,7 @@ Every apprentice smith learns the same lesson: *"Anyone can forge steel. A Volka
 
 ## Connection to Campaign 5
 
-Thelonius identifies the party's broken Tychonium shard as House Volkan/Vulcan work in Session 2, and sends the party to Milton's Feast hoping to earn enough favor to secure an audience with the Master of the Forges at the Scarlet Peaks — House Volkan's own seat, per this lore dump, confirming Hammerfalls as the destination Thelonius has in mind. Given the House's stated refusal to discuss which weapon became an Artifact, and its historical fear of deliberately-forged Artifacts, the shard's origin may prove a delicate subject if the party ever secures that audience.
+Thelonius identifies the party's broken Tychonium shard as House Volkan work in Session 2, and sends the party to Milton's Feast hoping to earn enough favor to secure an audience with the Master of the Forges at the Scarlet Peaks — House Volkan's own seat, per this lore dump, confirming Hammerfalls as the destination Thelonius has in mind. Given the House's stated refusal to discuss which weapon became an Artifact, and its historical fear of deliberately-forged Artifacts, the shard's origin may prove a delicate subject if the party ever secures that audience.
 
 ---
 

@@ -27,7 +27,7 @@ Identifying herself as a Rot Guardian instantly earns the deference of Rotguardi
 
 Not present in Campaign 5, but her fate is addressed: confirmed (Session 1) to be **lost**, in the same unresolved category as Seraph and Za'ani, since the Frost Shepherds were scattered at the end of Campaign 4. No evidence of death, but no confirmation of survival either — the same thin thread Bas has hung centuries of searching on.
 
-**Metal namesake:** Myconium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Seraphium/Seraph) — is tied to Netiri via her myconid and fungal-hive-mind domain rather than a direct name-match. It has become vanishingly rare since her disappearance, per Session 1.
+**Metal namesake:** Myconium — one of the three Volkan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Seraphium/Seraph) — is tied to Netiri via her myconid and fungal-hive-mind domain rather than a direct name-match. It has become vanishingly rare since her disappearance, per Session 1.
 
 <details class="recap-entry" markdown="1">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Named secondhand, via 702, as one of three people Feit blamed Shaidar's Rest's fall on — she was not present.</span></summary>

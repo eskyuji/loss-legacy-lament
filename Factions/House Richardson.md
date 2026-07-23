@@ -38,7 +38,7 @@ Visitors occasionally remark that the food on Milton's table is often gone by mo
 
 *See also: [Mythrir Calendar and Festivals](../Lore/Mythrir%20Calendar%20and%20Festivals) places Milton's Feast on High Summer 25 — the actual calendar month; "Junathar" was an offhand table joke riffing on "June," not a real month name.*
 
-**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Vulcan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Volkan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
 

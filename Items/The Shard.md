@@ -28,7 +28,7 @@ Investigated directly by Bas afterward: confirmed as a broken Volcan-forged piec
 
 Too dangerous to carry — Meeka wraps it in her own refuse and takes it back to her domain rather than let it stay on the street or be carried by the party. Immediately afterward, Meeka confirms that the voice belongs to Feit: *"He's back. Who else would have said those words?"*
 
-**Session 2 update:** The goblin who wielded the shard against the beggar is now named — **[Grit](../NPCs/Grit)**, per the sole survivor of his camp. Before that fight, the shard (as "a new piece of shiny") apparently came into Grit's possession and transformed him from small and chronically underfed to hobgoblin-sized and strong enough to single-handedly slaughter roughly twenty-five of his own campmates under the Western Bridge when they tried to take it from him. Thelonius confirms the shard as House Vulcan work and handles it exclusively with his prosthetic metal arm rather than flesh. See [Grit](../NPCs/Grit) for how he found it.
+**Session 2 update:** The goblin who wielded the shard against the beggar is now named — **[Grit](../NPCs/Grit)**, per the sole survivor of his camp. Before that fight, the shard (as "a new piece of shiny") apparently came into Grit's possession and transformed him from small and chronically underfed to hobgoblin-sized and strong enough to single-handedly slaughter roughly twenty-five of his own campmates under the Western Bridge when they tried to take it from him. Thelonius confirms the shard as House Volkan work and handles it exclusively with his prosthetic metal arm rather than flesh. See [Grit](../NPCs/Grit) for how he found it.
 
 ---
 

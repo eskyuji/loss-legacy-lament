@@ -36,7 +36,7 @@ Tyn lowers his head — not in prayer, but "like a man listening for footsteps t
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Secondhand, via Thelonius: confirmed as an Oathstone, and as the namesake of Tychonium itself.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-**Secondhand, via Thelonius.** Does not appear in person. Confirmed — beyond mere implication — to have become an Oathstone: Thelonius reveals that upon Tyn's ascension, his own sentient friend was transformed into a weapon, the Tychonium blade later known as Reno/Rynn, gifted to Bas roughly 2,000 years ago (see [Reno](../Items/Reno)). Also confirmed as the namesake of Tychonium itself, the Vulcan-forged metal — Thelonius personally witnessed him, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds, "the reason the metal bears his name."
+**Secondhand, via Thelonius.** Does not appear in person. Confirmed — beyond mere implication — to have become an Oathstone: Thelonius reveals that upon Tyn's ascension, his own sentient friend was transformed into a weapon, the Tychonium blade later known as Reno/Rynn, gifted to Bas roughly 2,000 years ago (see [Reno](../Items/Reno)). Also confirmed as the namesake of Tychonium itself, the Volkan-forged metal — Thelonius personally witnessed him, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds, "the reason the metal bears his name."
 
 </div>
 </details>

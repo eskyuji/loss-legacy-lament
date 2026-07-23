@@ -39,7 +39,7 @@ A major antagonist arc this time: bound once again by a Geas, this iteration of 
 
 Not present in Campaign 5, but his fate is addressed: confirmed to have been present at the Frost Shepherds' final confrontation with Feit, and his current status is **lost** — the same unresolved category as Netiri and Za'ani. No evidence of death across the intervening 2,000 years, but no confirmation of survival either.
 
-**Metal namesake:** Seraphium — one of the three Vulcan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Myconium/Netiri) — is named for Seraph. It has become vanishingly rare since his disappearance.
+**Metal namesake:** Seraphium — one of the three Volkan-forged metals named for and tied to a specific individual's influence (alongside Tychonium/Tycho and Myconium/Netiri) — is named for Seraph. It has become vanishingly rare since his disappearance.
 
 </div>
 </details>

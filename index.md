@@ -19,7 +19,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the l
 
 ### Session 2 — Before Me Is Death
 
-Thelonius identifies the party's broken shard as impossible Vulcan-forged Tychonium and sends them toward Milton's Feast at the Maw, hoping a favor earned there will open doors the proud Vulcan smiths would otherwise keep shut. On the way out, 702 Purpose and Intent — carrying two thousand years of guilt over what Feit once forced him to do — confesses directly to Bas. The party then reaches the goblin camp under the Western Bridge to find it slaughtered to the last, save one survivor: a young goblin child they refuse to leave behind, carrying him toward safety as the session ends.
+Thelonius identifies the party's broken shard as impossible Volkan-forged Tychonium and sends them toward Milton's Feast at the Maw, hoping a favor earned there will open doors the proud Volkan smiths would otherwise keep shut. On the way out, 702 Purpose and Intent — carrying two thousand years of guilt over what Feit once forced him to do — confesses directly to Bas. The party then reaches the goblin camp under the Western Bridge to find it slaughtered to the last, save one survivor: a young goblin child they refuse to leave behind, carrying him toward safety as the session ends.
 
 [Read the full recap →](Sessions/Recaps)
 
