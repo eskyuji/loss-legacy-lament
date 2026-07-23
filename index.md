@@ -4,7 +4,7 @@ title: "Mythrir: Loss, Legacy, and Lament"
 
 # Mythrir Campaign Wiki
 
-A living wiki for the Mythrir D&D 5e homebrew campaign — post-apocalyptic tech-noir fantasy. Focused on the current campaign; past campaigns are kept in the [archive](archive/).
+A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the long shadow of grief, as gods, immortals, and ancient houses reckon with a death that should have been impossible. Focused on the current campaign; past campaigns are kept in the [archive](archive/).
 
 > "The future is here, the tower will claim us. Before me is death, and behind me non-existence. We knew what was to come and did nothing to stop it. Hubris is our downfall."
 >
@@ -44,9 +44,9 @@ Thelonius identifies the party's broken shard as impossible Vulcan-forged Tychon
 
 | | |
 |---|---|
-| [Aleer](NPCs/Aleer) | [Madam Lennette](NPCs/Madam%20Lennette) |
-| [Magerna](NPCs/Magerna) | [Shithead (Goblin Survivor)](NPCs/Shithead%20(Goblin%20Survivor)) |
-| [The Beggar](NPCs/The%20Beggar) | |
+| [Aleer](NPCs/Aleer) | [Grit](NPCs/Grit) |
+| [Madam Lennette](NPCs/Madam%20Lennette) | [Magerna](NPCs/Magerna) |
+| [Shithead (Goblin Survivor)](NPCs/Shithead%20(Goblin%20Survivor)) | [The Beggar](NPCs/The%20Beggar) |
 {: .link-grid}
 
 ---
@@ -75,7 +75,9 @@ Thelonius identifies the party's broken shard as impossible Vulcan-forged Tychon
 
 | | |
 |---|---|
-| [House Richardson](Factions/House%20Richardson) | [House Tetran](Factions/House%20Tetran) |
+| [House Modril](Factions/House%20Modril) | [House Richardson](Factions/House%20Richardson) |
+| [House Tetran](Factions/House%20Tetran) | [House Volkan](Factions/House%20Volkan) |
+| [House Yufi](Factions/House%20Yufi) | |
 {: .link-grid}
 
 ---

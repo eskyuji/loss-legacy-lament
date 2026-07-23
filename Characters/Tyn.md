@@ -22,6 +22,17 @@ Leader of Lost Hope. An ancient, medieval-looking warrior whose metallic skin is
 ## Campaign 5 Session Detail
 
 <details class="recap-entry" markdown="1">
+<summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Secondhand, from a scene in Lost Hope: feels Teyou's death from across the world, and for one instant, seems afraid.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+**Secondhand — a scene in Lost Hope's market square, witnessed by a fruit-seller named Joren, not the party.** Tyn keeps no throne and no pedestal; he simply stands where the roads meet, accepting nodded greetings, climbing children, and harvest-festival fruit left by merchants who no longer remember why the tradition started. An ordinary market morning — fishing boats in early, a caravan in from Veranath, business as usual — until every bird in the square takes flight at once, silently, together. The breeze stops outright, not fades. Sound itself lags behind sight: a hammer strikes an anvil and the noise arrives a heartbeat late, a child's laugh sounds as if from very far away.
+
+Tyn lowers his head — not in prayer, but "like a man listening for footsteps that would never come" — one hand resting against the stone beneath his feet as hairline cracks spread outward through the cobbles around him. When Joren asks what's wrong, Tyn answers, almost too quiet to hear: *"...He's gone."* Asked who, he doesn't answer at first — then looks up, searching the horizon, and for just a moment shows something Joren had never imagined possible on him: fear. It vanishes almost as fast as it appeared. Tyn smiles his usual patient smile, the cracks stop spreading, the wind returns, and the market resumes as though nothing happened. Given the timing, this reads as Tyn sensing Teyou Zhiang's death from across the world, in the same instant it happens at the Cat's Pajamas.
+
+</div>
+</details>
+
+<details class="recap-entry" markdown="1">
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Secondhand, via Thelonius: confirmed as an Oathstone, and as the namesake of Tychonium itself.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
