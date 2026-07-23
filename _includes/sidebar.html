@@ -1,0 +1,19 @@
+<details class="site-nav">
+  <summary>Navigation</summary>
+  <div class="site-nav-tree">
+    {% for section in site.data.nav %}
+      {% if section.items %}
+      <details class="site-nav-group">
+        <summary>{{ section.label }}</summary>
+        <ul>
+          {% for item in section.items %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.label }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% else %}
+      <a class="site-nav-link" href="{{ section.url | relative_url }}">{{ section.label }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</details>

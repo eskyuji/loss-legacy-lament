@@ -57,9 +57,12 @@
     </div>
   </header>
 
-  <main class="wrap page">
-    {{ content }}
-  </main>
+  <div class="site-body wrap">
+    {% include sidebar.html %}
+    <main class="page">
+      {{ content }}
+    </main>
+  </div>
 
   <footer class="site-footer">
     <div class="wrap">

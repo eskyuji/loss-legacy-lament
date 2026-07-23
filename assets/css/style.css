@@ -172,10 +172,130 @@ body {
   max-width: 46ch;
 }
 
+/* Sidebar navigation */
+
+.site-body {
+  display: grid;
+  grid-template-columns: 230px 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.site-nav {
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+}
+
+.site-nav > summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 4px 0 12px 20px;
+  margin-bottom: 4px;
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  border-bottom: 1px solid var(--border);
+}
+.site-nav > summary::-webkit-details-marker { display: none; }
+.site-nav > summary::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  top: 3px;
+  color: var(--gold-dim);
+  font-size: 0.85em;
+  transition: transform 0.15s ease;
+}
+.site-nav[open] > summary::before {
+  transform: rotate(90deg);
+}
+.site-nav > summary:hover {
+  color: var(--gold-bright);
+}
+
+.site-nav-tree {
+  padding-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.site-nav-link {
+  display: block;
+  padding: 4px 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  border-bottom: none;
+}
+.site-nav-link:hover {
+  color: var(--gold-bright);
+}
+
+.site-nav-group summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 4px 0 4px 16px;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+.site-nav-group summary::-webkit-details-marker { display: none; }
+.site-nav-group summary::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  top: 5px;
+  color: var(--gold-dim);
+  font-size: 0.75em;
+  transition: transform 0.15s ease;
+}
+.site-nav-group[open] > summary::before {
+  transform: rotate(90deg);
+}
+.site-nav-group summary:hover {
+  color: var(--gold-bright);
+}
+
+.site-nav-group ul {
+  list-style: none;
+  margin: 2px 0 6px;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.site-nav-group a {
+  display: block;
+  padding: 3px 0;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  border-bottom: none;
+}
+.site-nav-group a:hover {
+  color: var(--gold-bright);
+}
+
+@media (max-width: 860px) {
+  .site-body {
+    display: block;
+  }
+  .site-nav {
+    position: static;
+    max-height: none;
+    margin-bottom: 28px;
+  }
+}
+
 /* Main content */
 
 main.page {
-  padding: 40px 24px 64px;
+  padding: 40px 0 64px;
 }
 
 main.page > h1:first-child {
