@@ -205,6 +205,8 @@ Shaken, and certain the encounter was too specifically aimed at the three of the
 
 ### Session 3
 
+![Bas, Magerna, and Meeka clashing with the Found, the Celebrant, and the Ephemeral on the road to the Maw](../assets/images/antagonists/initial-battle.png)
+
 ![The Found, a towering figure built from keys, gloves, and rusted relics from Meeka's Bazaar, its head made of open hands](../assets/images/antagonists/the-found.png)
 
 ![The Ephemeral, a pale, ghostly figure trailed by shadow, standing before ruins on a checkered floor](../assets/images/antagonists/the-ephemeral.png)
