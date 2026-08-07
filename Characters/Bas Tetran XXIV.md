@@ -124,6 +124,22 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 </div>
 </details>
 
+<details class="recap-entry" markdown="1" id="session-3--the-found-the-celebrant-and-the-ephemeral">
+<summary><span class="recap-entry-title">Session 3 — The Found, The Celebrant, and The Ephemeral</span><span class="recap-entry-hook">Loses Yesiah and Rea's magic mid-fight to the Ephemeral, nearly reveals how much his lost allies still weigh on him, and is confirmed as the Ephemeral's mirror opposite.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
+
+- Rigs a makeshift carrier for the sleeping goblin child so the party can press on through the night rather than stop and camp.
+- Is the first to be directly targeted by the Ephemeral, which coalesces from his own shadow, its face cycling through everyone he's known — including the allies he's spent two thousand years searching for. Nearly lets slip how much those faces matter to him before catching himself and burying the names among less important ones; Meeka reads through the deflection anyway.
+- Has Yesiah and Rea stripped of their magic mid-fight, and fights on effectively with plain steel and the separately-enchanted Coiled Viper attachment. Recovers full use of both weapons once the Ephemeral's attention shifts elsewhere.
+- Recognizes the Celebrant's demiplane as a duplicate of Milton's Feast itself, before the party has ever actually reached it, and is struck with uncontrollable laughter inside it.
+- Fells the Found outright once Meeka's Holy Weapon restores his blade's bite — only to watch the Celebrant raise it back up with a toast moments later.
+- Confirmed by the stereograph in Meeka's Bazaar as the Ephemeral's mirror opposite.
+
+</div>
+</details>
+
 ---
 
 ## Appendix: Concept Art

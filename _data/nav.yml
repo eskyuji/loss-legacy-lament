@@ -97,6 +97,8 @@
       url: "/Sessions/Session%201%20-%20The%20Broken%20Blade"
     - label: "Session 2 — Before Me Is Death"
       url: "/Sessions/Session%202%20-%20Before%20Me%20Is%20Death"
+    - label: "Session 3 — The Found, The Celebrant, and The Ephemeral"
+      url: "/Sessions/Session%203%20-%20The%20Found,%20The%20Celebrant,%20and%20The%20Ephemeral"
 - label: Archive
   url: "/archive/"
 - label: Character Index

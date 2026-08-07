@@ -54,6 +54,15 @@ Her new constructed body is confirmed permanent, not a one-scene transformation.
 </div>
 </details>
 
+<details class="recap-entry" markdown="1" id="session-3--the-found-the-celebrant-and-the-ephemeral">
+<summary><span class="recap-entry-title">Session 3 — The Found, The Celebrant, and The Ephemeral</span><span class="recap-entry-hook">Is contacted directly by a being wearing relics from her own Bazaar, then opens the Bazaar itself for the party — where a box confirms the Found is her own mirror opposite.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Is the first one addressed directly, telepathically, by the Found — a being whose entire body is built from cleanly-arranged items she recognizes on sight as stock from her own Bazaar of the Lost. Casts Holy Weapon on Bas's blade once his ancestral weapons are stripped of their magic, and attempts Blindness on the Found, only for it to burn one of its own legendary resistances to shrug it off. After the fight, opens a passage into her own Bazaar so the party can regroup somewhere defensible, and reads clean through Bas's deflection about the faces he saw in the Ephemeral without commenting on it. Inside the Bazaar, finds a box she didn't leave there herself, containing a stereograph that confirms the Found as her own mirror opposite — and hears a door close somewhere else in the Bazaar as the session ends.
+
+</div>
+</details>
+
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---

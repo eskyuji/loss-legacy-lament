@@ -17,9 +17,9 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the l
 
 ## Latest Session Recap
 
-### Session 2 — Before Me Is Death
+### Session 3 — The Found, The Celebrant, and The Ephemeral
 
-Thelonius identifies the party's broken shard as impossible Volkan-forged Tychonium and sends them toward Milton's Feast at the Maw, hoping a favor earned there will open doors the proud Volkan smiths would otherwise keep shut. On the way out, 702 Purpose and Intent — carrying two thousand years of guilt over what Feit once forced him to do — confesses directly to Bas. The party then reaches the goblin camp under the Western Bridge to find it slaughtered to the last, save one survivor: a young goblin child they refuse to leave behind, carrying him toward safety as the session ends.
+En route to the Maw with the rescued goblin child, the party is ambushed on the road by three strange beings: the Found, wearing relics from Meeka's own Bazaar of the Lost; the Celebrant, whose laughter dissolves fear and folds the road into a demiplane replica of Milton's Feast; and the Ephemeral, who steps out of Bas's own shadow and can strip a target's magic at will. All three vanish mid-fight the moment the party gains the upper hand. Regrouping in Meeka's Bazaar, a mysterious stereograph confirms the three are twisted opposites of Meeka, Magerna, and Bas themselves — and somewhere else in the Bazaar, a door closes.
 
 [Read the full recap →](Sessions/Recaps)
 

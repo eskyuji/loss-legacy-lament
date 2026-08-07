@@ -70,6 +70,15 @@ Addresses Thelonius as "Rememberer" and, gripping his scythe tight enough that i
 </div>
 </details>
 
+<details class="recap-entry" markdown="1" id="session-3--the-found-the-celebrant-and-the-ephemeral">
+<summary><span class="recap-entry-title">Session 3 — The Found, The Celebrant, and The Ephemeral</span><span class="recap-entry-hook">The Ring of the Father keeps him immune to the Celebrant's laughter and marks him as the only one to sense the threat before it strikes — until the Ephemeral strips the ring's protection outright.</span></summary>
+<div class="recap-entry-body" markdown="1">
+
+Spots the Found first while scouting ahead in flight. Unaffected by the Celebrant's laughter thanks to the Ring of the Father — everyone else's fear, grief, and anger melt away, but his own instincts scream that these three are a threat, and he's the one who reads the danger clearly enough to summon his father's spirit guardians before the fight even starts. Opens with the ghosts of his own fallen family circling him for passive necrotic damage, later adds a spectral spiritual weapon shaped like his own sickle — "the sign of Magerna" — and uses Twilight Sanctuary in anticipation of a long fight. Mid-encounter, the Ephemeral shifts its magic-stripping attention onto him specifically, and the Ring of the Father goes dark right as the Celebrant's incapacitating toast lands, leaving him laughing uncontrollably for the first time all fight. Confirmed by the stereograph in Meeka's Bazaar as the Celebrant's mirror opposite.
+
+</div>
+</details>
+
 See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
 
 ---
