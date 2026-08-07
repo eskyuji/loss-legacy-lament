@@ -29,8 +29,14 @@
       url: "/NPCs/Seraph"
     - label: Teyou Zhiang
       url: "/NPCs/Teyou%20Zhiang"
+    - label: The Celebrant
+      url: "/NPCs/The%20Celebrant"
     - label: The Emperor (Za'a-ni)
       url: "/NPCs/The%20Emperor%20(Za'a-ni)"
+    - label: The Ephemeral
+      url: "/NPCs/The%20Ephemeral"
+    - label: The Found
+      url: "/NPCs/The%20Found"
     - label: Thelonius
       url: "/NPCs/Thelonius"
     - label: Tycho

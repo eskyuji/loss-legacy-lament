@@ -46,9 +46,10 @@ Player characters only. Recurring allies, immortals, and other significant figur
 | [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent) | [December Redd](NPCs/December%20Redd) |
 | [Feit](NPCs/Feit) | [Nakki (Akki Nakki)](NPCs/Nakki%20(Akki%20Nakki)) |
 | [Netiri](NPCs/Netiri) | [Seraph](NPCs/Seraph) |
-| [Teyou Zhiang](NPCs/Teyou%20Zhiang) | [The Emperor (Za'a-ni)](NPCs/The%20Emperor%20(Za'a-ni)) |
-| [Thelonius](NPCs/Thelonius) | [Tycho](NPCs/Tycho) |
-| [Tyn](NPCs/Tyn) | |
+| [Teyou Zhiang](NPCs/Teyou%20Zhiang) | [The Celebrant](NPCs/The%20Celebrant) |
+| [The Emperor (Za'a-ni)](NPCs/The%20Emperor%20(Za'a-ni)) | [The Ephemeral](NPCs/The%20Ephemeral) |
+| [The Found](NPCs/The%20Found) | [Thelonius](NPCs/Thelonius) |
+| [Tycho](NPCs/Tycho) | [Tyn](NPCs/Tyn) |
 {: .link-grid}
 
 ### Minor NPCs

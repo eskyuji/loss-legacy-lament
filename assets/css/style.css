@@ -1,20 +1,77 @@
 /* Mythrir wiki — dark tech-noir theme */
 
 :root {
-  --bg: #050504;
-  --bg-elevated: #131210;
-  --bg-elevated-hover: #1d1b16;
-  --border: #2c2820;
-  --text: #ede6d6;
-  --text-muted: #96907e;
-  --gold: #c9a227;
-  --gold-bright: #eecb72;
-  --gold-dim: #8a6f2e;
+  --bg: #0a0d0d;
+  --bg-elevated: #16191a;
+  --bg-elevated-hover: #202425;
+  --border: #2b2f30;
+  --text: #e7e4dc;
+  --text-muted: #8d8b85;
+  --accent: #3a8f96;
+  --accent-bright: #8fe0da;
+  --accent-dim: #1d4a4f;
+  --accent-rgb: 58, 143, 150;
+  --accent-bright-rgb: 143, 224, 218;
+  --accent-underline-rgb: 90, 178, 182;
   --radius: 12px;
   --max-width: 1000px;
   --font-body: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-display: "Cinzel", Georgia, "Times New Roman", serif;
   --font-subhead: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+
+/* Per-character full theming — each player-character page gets its own
+   complete palette (background, surfaces, borders, and accent), matching
+   that character's own color from the party's session-tracker cards, rather
+   than just a tinted accent on top of the site default. Applied via a body
+   class the layout sets for Bas, Magerna, and Meeka (see
+   _layouts/default.html); every other page uses the teal default above.
+   Redefining the same custom properties here means the rest of the
+   stylesheet needs no page-specific selectors — it all just cascades. */
+
+body.theme-bas {
+  --bg: #0f0a07;
+  --bg-elevated: #1e150f;
+  --bg-elevated-hover: #291d14;
+  --border: #3a2c20;
+  --text: #ede6d6;
+  --text-muted: #96907e;
+  --accent: #c98a4b;
+  --accent-bright: #e8b97e;
+  --accent-dim: #7a4f2a;
+  --accent-rgb: 201, 138, 75;
+  --accent-bright-rgb: 232, 185, 126;
+  --accent-underline-rgb: 196, 150, 100;
+}
+
+body.theme-magerna {
+  --bg: #050a0c;
+  --bg-elevated: #0f1e26;
+  --bg-elevated-hover: #162a34;
+  --border: #1f3540;
+  --text: #ede6d6;
+  --text-muted: #96907e;
+  --accent: #4a90a8;
+  --accent-bright: #9fd4e8;
+  --accent-dim: #1f4552;
+  --accent-rgb: 74, 144, 168;
+  --accent-bright-rgb: 159, 212, 232;
+  --accent-underline-rgb: 110, 178, 196;
+}
+
+body.theme-meeka {
+  --bg: #0a0a0a;
+  --bg-elevated: #1c1c1e;
+  --bg-elevated-hover: #262628;
+  --border: #333335;
+  --text: #ede6d6;
+  --text-muted: #96907e;
+  --accent: #b5b0a8;
+  --accent-bright: #d9d5cc;
+  --accent-dim: #6e6a63;
+  --accent-rgb: 181, 176, 168;
+  --accent-bright-rgb: 217, 213, 204;
+  --accent-underline-rgb: 170, 165, 157;
 }
 
 * { box-sizing: border-box; }
@@ -24,11 +81,11 @@ html {
 }
 
 ::selection {
-  background: var(--gold);
+  background: var(--accent);
   color: var(--bg);
 }
 ::-moz-selection {
-  background: var(--gold);
+  background: var(--accent);
   color: var(--bg);
 }
 
@@ -36,8 +93,8 @@ body {
   margin: 0;
   padding-left: 32px;
   background:
-    radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(201, 162, 39, 0.10), transparent 60%),
-    radial-gradient(ellipse 900px 500px at 100% 0%, rgba(201, 162, 39, 0.06), transparent 60%),
+    radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(var(--accent-rgb), 0.10), transparent 60%),
+    radial-gradient(ellipse 900px 500px at 100% 0%, rgba(var(--accent-rgb), 0.06), transparent 60%),
     var(--bg);
   color: var(--text);
   font-family: var(--font-body);
@@ -52,7 +109,7 @@ body {
   padding: 0 24px;
 }
 
-/* Peripheral ornament — gold banners, astrolabe rings, and a distant spire
+/* Peripheral ornament — teal-tinted banners, astrolabe rings, and a distant spire
    silhouette sitting in the margins outside the content column. Fixed to the
    viewport so it reads as a frame around the page rather than scrolling content. */
 
@@ -68,10 +125,10 @@ body {
   position: absolute;
   border-radius: 50%;
   background:
-    radial-gradient(circle at center, transparent 54%, rgba(201, 162, 39, 0.09) 55%, transparent 57%),
-    radial-gradient(circle at center, transparent 68%, rgba(201, 162, 39, 0.06) 69%, transparent 71%),
-    radial-gradient(circle at center, transparent 82%, rgba(201, 162, 39, 0.04) 83%, transparent 85%),
-    radial-gradient(circle at 38% 38%, rgba(238, 203, 114, 0.10), transparent 40%);
+    radial-gradient(circle at center, transparent 54%, rgba(var(--accent-rgb), 0.09) 55%, transparent 57%),
+    radial-gradient(circle at center, transparent 68%, rgba(var(--accent-rgb), 0.06) 69%, transparent 71%),
+    radial-gradient(circle at center, transparent 82%, rgba(var(--accent-rgb), 0.04) 83%, transparent 85%),
+    radial-gradient(circle at 38% 38%, rgba(var(--accent-bright-rgb), 0.10), transparent 40%);
 }
 
 .ornament-rings-top {
@@ -108,7 +165,7 @@ body {
   left: 0;
   width: 66px;
   height: 66px;
-  background: rgba(201, 162, 39, 0.10);
+  background: rgba(var(--accent-rgb), 0.10);
   box-shadow: 16px -8px 0 0 var(--bg);
 }
 .ornament-moons::after {
@@ -116,7 +173,7 @@ body {
   left: 46px;
   width: 30px;
   height: 30px;
-  border: 1px solid rgba(238, 203, 114, 0.14);
+  border: 1px solid rgba(var(--accent-bright-rgb), 0.14);
 }
 
 .ornament-spires-svg {
@@ -125,7 +182,7 @@ body {
   left: 0;
   width: 100%;
   height: 110px;
-  fill: rgba(201, 162, 39, 0.07);
+  fill: rgba(var(--accent-rgb), 0.07);
 }
 
 @media (max-width: 700px) {
@@ -147,7 +204,7 @@ body {
   font-size: 0.8rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--gold-dim);
+  color: var(--accent-dim);
 }
 
 .site-title {
@@ -158,11 +215,11 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.2;
   text-decoration: none;
-  background: linear-gradient(120deg, var(--gold-bright), var(--gold) 55%, var(--gold-dim));
+  background: linear-gradient(120deg, var(--accent-bright), var(--accent) 55%, var(--accent-dim));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  filter: drop-shadow(0 0 24px rgba(201, 162, 39, 0.18));
+  filter: drop-shadow(0 0 24px rgba(var(--accent-rgb), 0.18));
 }
 
 .site-tagline {
@@ -195,7 +252,7 @@ body {
   background: var(--bg-elevated);
   border: none;
   border-right: 1px solid var(--border);
-  color: var(--gold-dim);
+  color: var(--accent-dim);
   font-family: inherit;
   font-weight: 500;
   font-size: 0.75rem;
@@ -205,7 +262,7 @@ body {
   transition: color 0.15s ease;
 }
 .site-nav-toggle:hover {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 .site-nav-tree {
@@ -238,7 +295,7 @@ body {
   border-bottom: none;
 }
 .site-nav-link:hover {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 .site-nav-search {
@@ -258,7 +315,7 @@ body {
 }
 .site-nav-search:focus {
   outline: none;
-  border-color: var(--gold);
+  border-color: var(--accent);
 }
 
 .site-nav-results {
@@ -275,11 +332,11 @@ body {
   border-bottom: 1px solid var(--border);
 }
 .site-nav-result-title {
-  color: var(--gold);
+  color: var(--accent);
   font-size: 0.85rem;
 }
 .site-nav-result:hover .site-nav-result-title {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 .site-nav-result-snippet {
   color: var(--text-muted);
@@ -312,7 +369,7 @@ body {
   position: absolute;
   left: 0;
   top: 5px;
-  color: var(--gold-dim);
+  color: var(--accent-dim);
   font-size: 0.75em;
   transition: transform 0.15s ease;
 }
@@ -320,7 +377,7 @@ body {
   transform: rotate(90deg);
 }
 .site-nav-group-toggle:hover {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 .site-nav-group-list {
@@ -343,7 +400,7 @@ body {
   border-bottom: none;
 }
 .site-nav-group-list a:hover {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 /* Main content */
@@ -380,37 +437,38 @@ h2 {
   margin-top: 2.5em;
   padding-bottom: 0.4em;
   border-bottom: 1px solid var(--border);
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 h3 {
   font-size: 1.4rem;
-  color: var(--gold-dim);
+  color: var(--accent-dim);
 }
 
 h4 {
   font-size: 1.15rem;
 }
 
+
 p {
   color: var(--text);
   font-weight: 200;
 }
 
-strong { color: var(--gold-bright); font-weight: 600; }
+strong { color: var(--accent-bright); font-weight: 600; }
 
 em { color: var(--text-muted); font-weight: 200; }
 
 a {
-  color: var(--gold);
+  color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(211, 174, 106, 0.35);
+  border-bottom: 1px solid rgba(var(--accent-underline-rgb), 0.35);
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
 a:hover {
-  color: var(--gold-bright);
-  border-bottom-color: var(--gold-bright);
+  color: var(--accent-bright);
+  border-bottom-color: var(--accent-bright);
 }
 
 hr {
@@ -429,7 +487,7 @@ hr::after {
   left: 50%;
   transform: translate(-50%, -50%);
   background: var(--bg);
-  color: var(--gold-dim);
+  color: var(--accent-dim);
   padding: 0 14px;
   font-size: 0.75rem;
   line-height: 1;
@@ -438,9 +496,9 @@ hr::after {
 blockquote {
   margin: 1.5em 0;
   padding: 0.2em 1.2em;
-  border-left: 3px solid var(--gold-dim);
+  border-left: 3px solid var(--accent-dim);
   color: var(--text-muted);
-  background: rgba(201, 162, 39, 0.06);
+  background: rgba(var(--accent-rgb), 0.06);
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
@@ -458,7 +516,7 @@ blockquote.pull-quote p {
   font-size: 1.6rem;
   font-weight: 600;
   font-style: italic;
-  color: var(--gold-bright);
+  color: var(--accent-bright);
   line-height: 1.4;
   margin: 0 0 0.8em;
 }
@@ -479,8 +537,8 @@ blockquote.pull-quote p:nth-child(2) a {
   border-bottom-color: var(--border);
 }
 blockquote.pull-quote p:nth-child(2) a:hover {
-  color: var(--gold-bright);
-  border-bottom-color: var(--gold-bright);
+  color: var(--accent-bright);
+  border-bottom-color: var(--accent-bright);
 }
 
 blockquote.pull-quote p:last-child {
@@ -500,8 +558,8 @@ blockquote.pull-quote p:last-child a {
   border-bottom-color: var(--border);
 }
 blockquote.pull-quote p:last-child a:hover {
-  color: var(--gold-bright);
-  border-bottom-color: var(--gold-bright);
+  color: var(--accent-bright);
+  border-bottom-color: var(--accent-bright);
   opacity: 1;
 }
 
@@ -511,7 +569,7 @@ code {
   border-radius: 4px;
   padding: 0.15em 0.4em;
   font-size: 0.9em;
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 pre {
@@ -531,7 +589,7 @@ pre code {
 
 ul, ol { padding-left: 1.4em; }
 li { margin: 0.3em 0; }
-li::marker { color: var(--gold-dim); }
+li::marker { color: var(--accent-dim); }
 
 img {
   max-width: 100%;
@@ -550,7 +608,7 @@ img {
   font-size: 0.8rem;
   font-weight: 500;
   letter-spacing: 0.03em;
-  color: var(--gold-bright);
+  color: var(--accent-bright);
   background: var(--bg-elevated);
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -560,11 +618,11 @@ img {
 .recap-sort-toggle:hover,
 .recap-expand-toggle:hover {
   background: var(--bg-elevated-hover);
-  border-color: var(--gold);
+  border-color: var(--accent);
 }
 .recap-sort-toggle:focus-visible,
 .recap-expand-toggle:focus-visible {
-  outline: 2px solid var(--gold);
+  outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
 
@@ -593,7 +651,7 @@ img {
   position: absolute;
   left: 18px;
   top: 18px;
-  color: var(--gold-dim);
+  color: var(--accent-dim);
   font-size: 0.85em;
   transition: transform 0.15s ease;
 }
@@ -610,7 +668,7 @@ img {
   font-family: var(--font-subhead);
   font-weight: 600;
   letter-spacing: 0.01em;
-  color: var(--gold-bright);
+  color: var(--accent-bright);
   font-size: 1.25rem;
 }
 
@@ -644,7 +702,7 @@ table {
 th {
   text-align: left;
   background: var(--bg-elevated);
-  color: var(--gold-bright);
+  color: var(--accent-bright);
   font-family: var(--font-body);
   font-weight: 500;
   font-size: 0.78rem;
@@ -691,9 +749,9 @@ table.link-grid tbody tr:hover { background: none; }
 
 table.link-grid td:hover {
   background: var(--bg-elevated-hover);
-  border-color: var(--gold);
+  border-color: var(--accent);
   transform: translateY(-1px);
-  box-shadow: 0 4px 16px rgba(201, 162, 39, 0.12), 0 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 16px rgba(var(--accent-rgb), 0.12), 0 1px 2px rgba(0, 0, 0, 0.4);
 }
 
 table.link-grid td a {
@@ -717,7 +775,7 @@ table.link-grid td a {
   border-bottom-color: var(--border);
 }
 .site-footer a:hover {
-  color: var(--gold-bright);
+  color: var(--accent-bright);
 }
 
 .footer-copyright {
