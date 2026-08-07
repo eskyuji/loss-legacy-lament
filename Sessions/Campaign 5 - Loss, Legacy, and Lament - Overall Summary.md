@@ -203,6 +203,14 @@ Shaken, and certain the encounter was too specifically aimed at the three of the
 
 ![Bas, Magerna, and Meeka kneeling around the rescued goblin child](../assets/images/frost-shepherds/04-shithead.png)
 
+### Session 3
+
+![The Found, a towering figure built from keys, gloves, and rusted relics from Meeka's Bazaar, its head made of open hands](../assets/images/antagonists/the-found.png)
+
+![The Ephemeral, a pale, ghostly figure trailed by shadow, standing before ruins on a checkered floor](../assets/images/antagonists/the-ephemeral.png)
+
+![The Celebrant, a smiling masked figure crowned with candles, raising a toast at a feast](../assets/images/antagonists/the-celebrant.png)
+
 ### General
 
 ![Bas, Magerna, and Meeka standing together](../assets/images/frost-shepherds/03-heroic.png)

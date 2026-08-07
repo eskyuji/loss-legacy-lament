@@ -34,3 +34,13 @@ Partway through the fight, the road itself gives way to a demiplane the Celebran
 
 Shaken, and certain the encounter was too specifically aimed at the three of them to be coincidence, Meeka opens a passage into her own Bazaar of the Lost so the group can regroup somewhere defensible. Bas, recounting what he saw in the Ephemeral, nearly lets slip exactly how much weight those faces carried — Netiri, the Emperor, the friends he's spent two thousand years searching for — before catching himself and folding the names in among less important ones instead; Meeka reads through it anyway. Inside the Bazaar, a box waits on a table that wasn't left there by anyone in the party: a stereograph viewer and three photographs, one per person. Meeka looks through hers and watches her own face shift into the Found's. Magerna's becomes the Celebrant's. Bas's becomes the Ephemeral's. Before anyone can say much more than *"two sides of the same coin,"* they hear a door close somewhere else in the Bazaar. Session ends there.
 
+---
+
+## Appendix: Concept Art
+
+![The Found, a towering figure built from keys, gloves, and rusted relics from Meeka's Bazaar, its head made of open hands](../assets/images/antagonists/the-found.png)
+
+![The Ephemeral, a pale, ghostly figure trailed by shadow, standing before ruins on a checkered floor](../assets/images/antagonists/the-ephemeral.png)
+
+![The Celebrant, a smiling masked figure crowned with candles, raising a toast at a feast](../assets/images/antagonists/the-celebrant.png)
+
