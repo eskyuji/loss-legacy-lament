@@ -6,11 +6,11 @@ title: "Mythrir: Loss, Legacy, and Lament"
 
 A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the long shadow of grief, as gods, immortals, and ancient houses reckon with a death that should have been impossible. Focused on the current campaign; past campaigns are kept in the [archive](archive/).
 
-> "The future is here, the tower will claim us. Before me is death, and behind me non-existence. We knew what was to come and did nothing to stop it. Hubris is our downfall."
+> "Nothing lost stays lost forever. I am the Found."
 >
-> — [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent)
+> — The Found
 >
-> [Session 2 — Before Me Is Death](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary#session-2--before-me-is-death)
+> [Session 3 — The Found, The Celebrant, and The Ephemeral](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary#session-3--the-found-the-celebrant-and-the-ephemeral)
 {: .pull-quote}
 
 ---
