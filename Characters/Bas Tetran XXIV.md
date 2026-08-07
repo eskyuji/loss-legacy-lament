@@ -1,5 +1,6 @@
 ---
 title: Bas Tetran XXIV
+permalink: "/Characters/bas-tetran-xxiv.html"
 ---
 
 # Bas Tetran XXIV
@@ -14,7 +15,7 @@ title: Bas Tetran XXIV
 **Race:** Tabaxi (Snow Leopard)
 **Campaign Setting:** Post-apocalyptic technological future
 
-The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like a modern-day spy — charming, suave, and professionally lethal. Takes jobs for whoever is paying but holds a quiet moral code and won't touch overtly evil work. Head of [House Tetran](../Factions/House Tetran), one of the oldest noble houses in Mythrir — the hereditary title "Bas" belongs to the house's ruling lord, making him both the origin and the namesake of an entire dynastic lineage. Later becomes Godblooded and immortal after touching Aleer's divine blood.
+The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like a modern-day spy — charming, suave, and professionally lethal. Takes jobs for whoever is paying but holds a quiet moral code and won't touch overtly evil work. Head of [House Tetran](../Factions/house-tetran), one of the oldest noble houses in Mythrir — the hereditary title "Bas" belongs to the house's ruling lord, making him both the origin and the namesake of an entire dynastic lineage. Later becomes Godblooded and immortal after touching Aleer's divine blood.
 
 **House motto:** "The Moon Remembers."
 
@@ -53,7 +54,7 @@ The twenty-fourth in a long line of Tabaxi bearing the same name. Operates like 
 
 Receives the sword Reno — worn down to almost nothing but forged of pure Tychonium — as a freely-given gift from Tyn, the Oathstone of Tenacity, in Lost Hope, just before the city goes dark around them. Strikes a deal with the Yuan-Ti near Ryxspine Lake, trading years of his own life for the dagger that becomes the Coiled Viper. Present for Aleer's death aboard the Heracles and the Tower of the Third Moon arc; touches Aleer's divine blood in the aftermath and is transformed into "the Godblooded" — immortal, marked with metallic-gold eyes and luminous blue lips, the first of his line to become more than mortal.
 
-*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../archive/Items/Yeziah, the Sentient Platemail), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
+*⚠️ Naming note: this file's weapons section spells his blade "Yesiah," which closely echoes — or may be a deliberate homophone of — [Yeziah, the Sentient Platemail](../archive/Items/yeziah-the-sentient-platemail), Tycho's sentient bismuth armor from Campaign 2, itself named for the Masculine Moon. Whether this is intentional dynastic naming or a spelling drift on one of the two items isn't confirmed in session — flagging rather than reconciling.*
 
 ---
 
@@ -76,13 +77,13 @@ Receives the sword Reno — worn down to almost nothing but forged of pure Tycho
 
 When Bas returned after his 500 years of servitude to Meeka, he found that House Tetran had continued without him — his cousin had inherited the title as Bas Tetran XXV, and successive Lords and Ladies had ruled capably in the centuries since. He did not reclaim his title or contest the succession. He introduced himself simply as Bas, accepted the position of First Advisor, and has served every subsequent Lord or Lady Tetran in that role ever since. None have begun their reign without seeking his blessing — not because law demands it, but because none have wished to.
 
-See [House Tetran](../Factions/House Tetran) for full house history.
+See [House Tetran](../Factions/house-tetran) for full house history.
 
 <details class="recap-entry" markdown="1" id="session-05--the-reunion-at-the-cats-pajamas">
 <summary><span class="recap-entry-title">Session 0.5 — The Reunion at the Cat's Pajamas</span><span class="recap-entry-hook">Visibly aged for the first time in centuries; recognizes the summer snow as a bad omen and receives Teyou's letter naming his central unresolved wound.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail. Key points for Bas specifically:
 
 - **Current appearance:** Visibly aged for the first time since his transformation — roughly 15-20 years' worth of wear despite the centuries. Distinguished rather than merely suave now ("silver fox era"): lighter, near-silver fur; long hair worn in a single braid over one shoulder (previously short); a new scar crossing his right eye from a blade that nearly took it; faint creases from age.
 - Recognizes snow falling over Veranath in summer — absent since the last Frost Shepherds' era — as a bad omen shared with Tycho, who carries the snowflakes in his mane into the bar.
@@ -97,7 +98,7 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Searches Teyou's body, tails the beggar, engages the untouchable Owl, and ends the goblin's attack — hearing the shard speak to him alone.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail. Key points for Bas specifically:
 
 - Searches Teyou's body directly for the first time: finds 37 electrum (an obsolete currency Teyou had tried to pay with earlier in the scene) and a three-inch sliver of Tychonium. Confirms in the process that Reno — the worn Tychonium sword Tyn gave him in Campaign 4 — was eventually melted down and reforged into a bismuth breastplate for Emp, and that Seraph's status is now confirmed **lost**, in the same unresolved category as Netiri and Za'ani.
 - Tracks the beggar on foot with Magerna, using his old "lose a gold piece" shorthand to summon Meeka directly for the first time since his 500 years in her service. Identifies the recurring vendor exchange as three word-for-word identical conversations — the first sign of Synchronization Malformata.
@@ -112,9 +113,9 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Confirms Reno's fate with Thelonius, reads 702's confession as truthful, and takes personal responsibility for the rescued goblin child.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail. Key points for Bas specifically:
 
-- Confirms with Thelonius that Tyn's old gift Reno (see [Reno](../Items/Reno)) was melted down into a bismuth breastplate for Emp, and learns for the first time that the blade was originally Tyn's own sentient friend before his ascension to Oathstone.
+- Confirms with Thelonius that Tyn's old gift Reno (see [Reno](../Items/reno)) was melted down into a bismuth breastplate for Emp, and learns for the first time that the blade was originally Tyn's own sentient friend before his ascension to Oathstone.
 - Questions 702 Purpose and Intent directly about how he already knows of Feit's possible return with no witnesses present; on a natural 20 insight check, confirms 702 is withholding something but not lying. Uses Panache to comfort, not manipulate, 702 after his confession about the murdered infant — the check fails against 702's own resolve, but the gesture lands anyway.
 - Declines to use 702's face for the goblin-camp notification out of respect after hearing his story; borrows a random lieutenant's face instead via his prestige-class ability, then decides against using even that once the scale of the massacre becomes clear.
 - Comforts and effectively adopts the sole goblin survivor, "Shithead," refusing to hand him off to intermediaries and personally escorting him to House Modril's orphanage at the Maw. Uses Inspiring Leader (26 temporary hit points) on the way out of Veranath.
@@ -128,7 +129,7 @@ See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campai
 <summary><span class="recap-entry-title">Session 3 — The Found, The Celebrant, and The Ephemeral</span><span class="recap-entry-hook">Loses Yesiah and Rea's magic mid-fight to the Ephemeral, nearly reveals how much his lost allies still weigh on him, and is confirmed as the Ephemeral's mirror opposite.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail. Key points for Bas specifically:
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail. Key points for Bas specifically:
 
 - Rigs a makeshift carrier for the sleeping goblin child so the party can press on through the night rather than stop and camp.
 - Is the first to be directly targeted by the Ephemeral, which coalesces from his own shadow, its face cycling through everyone he's known — including the allies he's spent two thousand years searching for. Nearly lets slip how much those faces matter to him before catching himself and burying the names among less important ones; Meeka reads through the deflection anyway.

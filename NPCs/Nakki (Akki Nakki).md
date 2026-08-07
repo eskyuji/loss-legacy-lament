@@ -1,5 +1,6 @@
 ---
 title: Nakki (Akki Nakki)
+permalink: "/NPCs/nakki-akki-nakki.html"
 ---
 
 # Nakki (Akki Nakki)

@@ -1,5 +1,6 @@
 ---
 title: Balanar and Malhar
+permalink: "/archive/NPCs/balanar-and-malhar.html"
 ---
 
 # Balanar and Malhar

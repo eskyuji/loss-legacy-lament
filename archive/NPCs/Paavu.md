@@ -1,5 +1,6 @@
 ---
 title: Paavu
+permalink: "/archive/NPCs/paavu.html"
 ---
 
 # Paavu

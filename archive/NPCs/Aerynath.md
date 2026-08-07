@@ -1,5 +1,6 @@
 ---
 title: Aerynath
+permalink: "/archive/NPCs/aerynath.html"
 ---
 
 # Aerynath

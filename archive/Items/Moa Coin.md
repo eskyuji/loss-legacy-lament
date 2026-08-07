@@ -1,5 +1,6 @@
 ---
 title: Moa Coin
+permalink: "/archive/Items/moa-coin.html"
 ---
 
 # Moa Coin
@@ -26,4 +27,4 @@ Tied to the Scales of Balance — touching the Scales is what triggers Paavu to 
 
 ## Notes
 
-*Mechanical details to be added as they're established in session. See [Paavu](../NPCs/Paavu), [Corthus the Fallen Star](../NPCs/Corthus the Fallen Star).*
+*Mechanical details to be added as they're established in session. See [Paavu](../NPCs/paavu), [Corthus the Fallen Star](../NPCs/corthus-the-fallen-star).*

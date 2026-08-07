@@ -1,5 +1,6 @@
 ---
 title: House Volkan
+permalink: "/Factions/house-volkan.html"
 ---
 
 # House Volkan
@@ -13,7 +14,7 @@ title: House Volkan
 **Motto:** *"What Is Forged Endures."*
 **Campaign Appearances:** CAMPAIGN 5 — Loss, Legacy, and Lament (referenced, not yet encountered directly)
 
-*⚠️ Naming note: this GM-provided lore dump spells the house "Volkan," while earlier Campaign 5 session material — [Reno](../Items/Reno), [Oathstones](../Items/Oathstones), [Thelonius](../NPCs/Thelonius), [The Shard](../Items/The%20Shard), [Tyn](../NPCs/Tyn), [Tycho](../NPCs/Tycho), [Netiri](../NPCs/Netiri), [Seraph](../NPCs/Seraph) — had spelled it "Vulcan." Resolved in favor of "Volkan" as the correct spelling; those files have been updated to match.*
+*⚠️ Naming note: this GM-provided lore dump spells the house "Volkan," while earlier Campaign 5 session material — [Reno](../Items/reno), [Oathstones](../Items/oathstones), [Thelonius](../NPCs/thelonius), [The Shard](../Items/the-shard), [Tyn](../NPCs/tyn), [Tycho](../NPCs/tycho), [Netiri](../NPCs/netiri), [Seraph](../NPCs/seraph) — had spelled it "Vulcan." Resolved in favor of "Volkan" as the correct spelling; those files have been updated to match.*
 
 ---
 
@@ -47,7 +48,7 @@ Thelonius identifies the party's broken Tychonium shard as House Volkan work in 
 
 ## Notes
 
-*Introduced as standalone background lore by the GM outside of session play. See [Items/The Shard](../Items/The%20Shard) and [NPCs/Thelonius](../NPCs/Thelonius) for the in-fiction Campaign 5 thread this connects to.*
+*Introduced as standalone background lore by the GM outside of session play. See [Items/The Shard](../Items/the-shard) and [NPCs/Thelonius](../NPCs/thelonius) for the in-fiction Campaign 5 thread this connects to.*
 
 ---
 

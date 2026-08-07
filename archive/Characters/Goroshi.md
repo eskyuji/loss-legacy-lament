@@ -1,5 +1,6 @@
 ---
 title: Goroshi
+permalink: "/archive/Characters/goroshi.html"
 ---
 
 # Goroshi

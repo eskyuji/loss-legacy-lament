@@ -1,5 +1,6 @@
 ---
 title: Myhama
+permalink: "/archive/NPCs/myhama.html"
 ---
 
 # Myhama

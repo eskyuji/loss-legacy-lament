@@ -1,5 +1,6 @@
 ---
 title: Geno Atul
+permalink: "/archive/NPCs/geno-atul.html"
 ---
 
 # Geno Atul

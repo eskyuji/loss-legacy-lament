@@ -1,5 +1,6 @@
 ---
 title: Yelena Moller
+permalink: "/archive/Characters/yelena-moller.html"
 ---
 
 # Yelena Moller

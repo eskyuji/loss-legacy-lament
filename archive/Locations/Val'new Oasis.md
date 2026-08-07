@@ -1,5 +1,6 @@
 ---
 title: Val'new Oasis
+permalink: "/archive/Locations/valnew-oasis.html"
 ---
 
 # Val'new Oasis

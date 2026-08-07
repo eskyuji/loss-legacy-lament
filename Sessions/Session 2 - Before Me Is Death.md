@@ -1,12 +1,13 @@
 ---
 title: "Session 2 — Before Me Is Death"
+permalink: "/Sessions/session-2-before-me-is-death.html"
 ---
 
 # Session 2 — Before Me Is Death
 
 *702 confesses two thousand years of guilt just before the party finds a goblin camp slaughtered to the last — save one orphaned survivor they refuse to leave behind.*
 
-Part of [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary). See all sessions at [Session Recaps](Recaps).
+Part of [Campaign 5: Loss, Legacy, and Lament](campaign-5-loss-legacy-and-lament-overall-summary). See all sessions at [Session Recaps](recaps).
 
 ---
 
@@ -14,7 +15,7 @@ Part of [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy
 
 Back at the Cat's Pajamas — with no further Synchronization Malformata noticed on the walk back — Thelonius pulls the party into a hidden demiplane behind the bar (recognizable as such to three beings this old and powerful), roughly ten feet by ten: a booth, a keg, a camp stove, a closet. Brought fully up to speed — the shard, the Owl, the goblin, the loop, Feit's likely return — he handles the shard directly with his prosthetic metal arm rather than his flesh hand, a small, deliberate precaution Bas nearly misses.
 
-He confirms it as House Volkan work, bearing the rune *Remember*, and names it for what it structurally shouldn't be able to be: shattered Tychonium — nearly unheard of, given Tychonium's reputation as the finest weapon- and armor-making material in the world. He also confirms the metal's namesake outright: he personally watched Tycho, when still mortal, dismantle a tyrannosaurus barehanded in about six seconds while it had him in its jaws. *"There's a reason the metal bears his name."* This surfaces an old thread: the sentient Tychonium blade Tyn — the Merchant King of Lost Hope, now confirmed to be the Oathstone of Tenacity — gave Bas some two thousand years ago (see [Reno](../Items/Reno)) was, per Thelonius, originally Tyn's own friend, transformed into a weapon when Tyn became an Oathstone. What that means for a blade later melted down into Emp's breastplate is left unresolved.
+He confirms it as House Volkan work, bearing the rune *Remember*, and names it for what it structurally shouldn't be able to be: shattered Tychonium — nearly unheard of, given Tychonium's reputation as the finest weapon- and armor-making material in the world. He also confirms the metal's namesake outright: he personally watched Tycho, when still mortal, dismantle a tyrannosaurus barehanded in about six seconds while it had him in its jaws. *"There's a reason the metal bears his name."* This surfaces an old thread: the sentient Tychonium blade Tyn — the Merchant King of Lost Hope, now confirmed to be the Oathstone of Tenacity — gave Bas some two thousand years ago (see [Reno](../Items/reno)) was, per Thelonius, originally Tyn's own friend, transformed into a weapon when Tyn became an Oathstone. What that means for a blade later melted down into Emp's breastplate is left unresolved.
 
 Thelonius advises against approaching the Volkans directly — pride will keep any of them from admitting they forged a blade of Tychonium that later broke. Instead, he sends the party in Veranath's name to **Milton's Feast**, hosted by House Richardson at the Maw, to earn the kind of favor that might open doors the Volkans would otherwise keep shut. A history check (Magerna and Meeka only — Bas whiffs it) fills in the background: Bruce Richardson, a musician who spent his life playing shows with his magical raccoon companion Milton on drums, quietly earned favors across all of Mythrir and built House Richardson into a power that holds no currency and fields no army — nobody would dare attack a house everyone else owes something to. Its motto: *"Always leave the table with more friends than you sat down with."* The feast happens every year in Junathar (Mythrir's equivalent of June) at the Maw, with every great house represented and one seat always left open for Milton. The party has two weeks and departs as Veranath's representatives, banner and all — a faded, dusty, more than slightly narcissistic red banner bearing Thelonius's own face.
 

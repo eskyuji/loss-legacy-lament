@@ -1,5 +1,6 @@
 ---
 title: 'Campaign 2: The Eternal Empire — Overall Summary'
+permalink: "/archive/Sessions/campaign-2-the-eternal-empire-overall-summary.html"
 ---
 
 # Campaign 2: The Eternal Empire — Overall Summary

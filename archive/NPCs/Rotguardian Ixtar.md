@@ -1,5 +1,6 @@
 ---
 title: Rotguardian Ixtar
+permalink: "/archive/NPCs/rotguardian-ixtar.html"
 ---
 
 # Rotguardian Ixtar

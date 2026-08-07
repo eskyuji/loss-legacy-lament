@@ -1,5 +1,6 @@
 ---
 title: Monsieur Pierre
+permalink: "/archive/NPCs/monsieur-pierre.html"
 ---
 
 # Monsieur Pierre

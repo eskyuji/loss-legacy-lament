@@ -1,5 +1,6 @@
 ---
 title: Kwadwo
+permalink: "/archive/Characters/kwadwo.html"
 ---
 
 # Kwadwo

@@ -1,5 +1,6 @@
 ---
 title: Resheek
+permalink: "/archive/NPCs/resheek.html"
 ---
 
 # Resheek

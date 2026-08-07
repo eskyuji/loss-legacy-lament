@@ -1,5 +1,6 @@
 ---
 title: Library of Mor'Talus
+permalink: "/archive/Locations/library-of-mortalus.html"
 ---
 
 # Library of Mor'Talus

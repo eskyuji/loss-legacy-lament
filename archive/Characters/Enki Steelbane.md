@@ -1,5 +1,6 @@
 ---
 title: Enki Steelbane
+permalink: "/archive/Characters/enki-steelbane.html"
 ---
 
 # Enki Steelbane

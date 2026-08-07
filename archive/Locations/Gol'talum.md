@@ -1,5 +1,6 @@
 ---
 title: Gol'talum
+permalink: "/archive/Locations/goltalum.html"
 ---
 
 # Gol'talum

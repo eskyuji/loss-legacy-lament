@@ -1,5 +1,6 @@
 ---
 title: House Yufi
+permalink: "/Factions/house-yufi.html"
 ---
 
 # House Yufi

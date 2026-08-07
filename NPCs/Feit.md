@@ -1,5 +1,6 @@
 ---
 title: Feit
+permalink: "/NPCs/feit.html"
 ---
 
 # Feit

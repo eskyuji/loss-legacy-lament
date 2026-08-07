@@ -1,5 +1,6 @@
 ---
 title: Star
+permalink: "/archive/NPCs/star.html"
 ---
 
 # Star

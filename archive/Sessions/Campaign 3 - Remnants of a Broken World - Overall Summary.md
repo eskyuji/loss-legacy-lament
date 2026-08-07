@@ -1,5 +1,6 @@
 ---
 title: 'Campaign 3: Remnants of a Broken World — Overall Summary'
+permalink: "/archive/Sessions/campaign-3-remnants-of-a-broken-world-overall-summary.html"
 ---
 
 # Campaign 3: Remnants of a Broken World — Overall Summary

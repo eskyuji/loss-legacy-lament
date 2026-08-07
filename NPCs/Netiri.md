@@ -1,5 +1,6 @@
 ---
 title: Netiri
+permalink: "/NPCs/netiri.html"
 ---
 
 # Netiri
@@ -38,7 +39,7 @@ Not present in Campaign 5, but her fate is addressed: confirmed (Session 1) to b
 </div>
 </details>
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

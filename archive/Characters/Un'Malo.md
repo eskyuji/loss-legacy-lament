@@ -1,5 +1,6 @@
 ---
 title: Un'Malo
+permalink: "/archive/Characters/unmalo.html"
 ---
 
 # Un'Malo

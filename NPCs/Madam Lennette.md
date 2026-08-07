@@ -1,5 +1,6 @@
 ---
 title: Madam Lennette
+permalink: "/NPCs/madam-lennette.html"
 ---
 
 # Madam Lennette

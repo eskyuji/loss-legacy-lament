@@ -1,5 +1,6 @@
 ---
 title: Galv
+permalink: "/archive/Characters/galv.html"
 ---
 
 # Galv

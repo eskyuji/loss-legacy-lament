@@ -1,5 +1,6 @@
 ---
 title: Don Carlo Iro
+permalink: "/archive/NPCs/don-carlo-iro.html"
 ---
 
 # Don Carlo Iro

@@ -1,5 +1,6 @@
 ---
 title: Sitherak the Alhoun (No Name)
+permalink: "/archive/NPCs/sitherak-the-alhoun.html"
 ---
 
 # Sitherak the Alhoun (No Name)

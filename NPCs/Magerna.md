@@ -1,5 +1,6 @@
 ---
 title: Magerna
+permalink: "/NPCs/magerna.html"
 ---
 
 # Magerna

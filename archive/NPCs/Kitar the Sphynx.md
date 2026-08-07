@@ -1,5 +1,6 @@
 ---
 title: Kitar the Sphynx
+permalink: "/archive/NPCs/kitar-the-sphynx.html"
 ---
 
 # Kitar the Sphynx

@@ -1,5 +1,6 @@
 ---
 title: Myka's Keep
+permalink: "/archive/Locations/mykas-keep.html"
 ---
 
 # Myka's Keep

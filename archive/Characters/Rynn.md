@@ -1,5 +1,6 @@
 ---
 title: Rynn
+permalink: "/archive/Characters/rynn.html"
 ---
 
 # Rynn

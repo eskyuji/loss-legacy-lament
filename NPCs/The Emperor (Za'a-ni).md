@@ -1,5 +1,6 @@
 ---
 title: The Emperor (Za'a-ni)
+permalink: "/NPCs/the-emperor-zaa-ni.html"
 ---
 
 # The Emperor (Za'a-ni)
@@ -27,7 +28,7 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 <summary><span class="recap-entry-title">Session 1 — The Broken Blade</span><span class="recap-entry-hook">Secondhand: confirmed to have received Reno, later melted down and reforged into the bismuth breastplate he now wears.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-**Secondhand — Emp does not appear in person.** Confirmed to have received [Reno](../Items/Reno), Bas's old Tychonium blade from Tyn, at some point after Campaign 4 — melted down and reforged into a bismuth breastplate he now wears.
+**Secondhand — Emp does not appear in person.** Confirmed to have received [Reno](../Items/reno), Bas's old Tychonium blade from Tyn, at some point after Campaign 4 — melted down and reforged into a bismuth breastplate he now wears.
 
 </div>
 </details>
@@ -41,7 +42,7 @@ Warns Russo to evacuate the Scrapyard when Shaidar's Rest goes dark, and Russo h
 </div>
 </details>
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Blood Magic Orphan
+permalink: "/archive/NPCs/the-blood-magic-orphan.html"
 ---
 
 # The Blood Magic Orphan

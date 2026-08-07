@@ -1,5 +1,6 @@
 ---
 title: Tyra
+permalink: "/archive/Characters/tyra.html"
 ---
 
 # Tyra

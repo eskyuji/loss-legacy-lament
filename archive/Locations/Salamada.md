@@ -1,5 +1,6 @@
 ---
 title: Salamada (Salamda)
+permalink: "/archive/Locations/salamada.html"
 ---
 
 # Salamada (Salamda)

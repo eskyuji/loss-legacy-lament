@@ -1,5 +1,6 @@
 ---
 title: King Nebbuzar
+permalink: "/archive/NPCs/king-nebbuzar.html"
 ---
 
 # King Nebbuzar

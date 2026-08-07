@@ -1,5 +1,6 @@
 ---
 title: House Tetran
+permalink: "/Factions/house-tetran.html"
 ---
 
 # House Tetran
@@ -50,8 +51,8 @@ That distinction matters for his arc. He already demonstrated, when he returned 
 
 ## Cross-references
 
-- [Bas Tetran XXIV](../Characters/Bas Tetran XXIV) — the founding figure and current First Advisor
-- [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) — campaign in which Bas's arc centers on this tension
+- [Bas Tetran XXIV](../Characters/bas-tetran-xxiv) — the founding figure and current First Advisor
+- [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) — campaign in which Bas's arc centers on this tension
 
 ---
 

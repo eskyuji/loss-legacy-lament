@@ -1,5 +1,6 @@
 ---
 title: Carp
+permalink: "/archive/Characters/carp.html"
 ---
 
 # Carp

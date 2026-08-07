@@ -1,5 +1,6 @@
 ---
 title: Lake Urathil
+permalink: "/archive/Locations/lake-urathil.html"
 ---
 
 # Lake Urathil

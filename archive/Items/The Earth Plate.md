@@ -1,5 +1,6 @@
 ---
 title: The Earth Plate
+permalink: "/archive/Items/the-earth-plate.html"
 ---
 
 # The Earth Plate

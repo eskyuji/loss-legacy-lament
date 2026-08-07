@@ -1,5 +1,6 @@
 ---
 title: House Modril
+permalink: "/Factions/house-modril.html"
 ---
 
 # House Modril
@@ -16,11 +17,11 @@ title: House Modril
 
 ## Overview
 
-Few Great Houses have a humbler beginning. House Modril claims no royal blood and no divine ancestry — its founder was simply one of the many orphaned children taken in by the Modril family before Feit's disappearance. While history remembers **Magerna** as the Scarecrow and the embodiment of vengeance (see [Magerna](../Characters/Magerna)), House Modril remembers the man who taught abandoned children how to sow fields, mend fences, and share a meal with strangers — the farmer whose death is the origin of Magerna's consciousness. When Magerna vanished from history to pursue Feit, he left behind no kingdom, no title, and no heirs. He left a farm.
+Few Great Houses have a humbler beginning. House Modril claims no royal blood and no divine ancestry — its founder was simply one of the many orphaned children taken in by the Modril family before Feit's disappearance. While history remembers **Magerna** as the Scarecrow and the embodiment of vengeance (see [Magerna](../Characters/magerna)), House Modril remembers the man who taught abandoned children how to sow fields, mend fences, and share a meal with strangers — the farmer whose death is the origin of Magerna's consciousness. When Magerna vanished from history to pursue Feit, he left behind no kingdom, no title, and no heirs. He left a farm.
 
 The children he had raised refused to abandon it. Under the guidance of the eldest, Marty, the farm became a village, the village a county, and the county one of the oldest Great Houses in Mythrir.
 
-**House Modril has never claimed descent from Magerna, nor has Magerna ever accepted membership within it.** The relationship between the two is one of reverence, not inheritance. Members of the House refer to him simply as "The Farmer." This directly resolves the tension flagged on [Magerna's page](../Characters/Magerna) — House Modril and Magerna share a name and an origin story, but are not blood relations; the farmer had no descendants, only the children he chose to raise.
+**House Modril has never claimed descent from Magerna, nor has Magerna ever accepted membership within it.** The relationship between the two is one of reverence, not inheritance. Members of the House refer to him simply as "The Farmer." This directly resolves the tension flagged on [Magerna's page](../Characters/magerna) — House Modril and Magerna share a name and an origin story, but are not blood relations; the farmer had no descendants, only the children he chose to raise.
 
 ---
 
@@ -38,23 +39,23 @@ Among the oldest farmers of House Modril, there's a story told only after sunset
 
 ## Mara Modril and the Shard
 
-A family legend, likely connected to the same corrupting phenomenon behind [The Shard](../Items/The%20Shard) the party currently holds:
+A family legend, likely connected to the same corrupting phenomenon behind [The Shard](../Items/the-shard) the party currently holds:
 
 Mara Modril found a small silver shard while turning the soil beneath an old apple tree — no larger than her thumb, impossibly smooth, unlike any metal she'd seen. That night she dreamed of youth, strength, cheering crowds, and kings bowing to her — before a voice told her: *"You are nothing without me."* She refused it, plainly and repeatedly (*"I had a farm."* / *"My children will remember my name."* / *"I've had a good life."*), until the voice grew desperate and repeated its line a final time. Mara's answer: *"I was something long before I found you."* She woke, walked the shard straight to the farm's old well, and dropped it into the deepest part. It struck water, then silence — "the shard never found another voice beneath that farm." The potatoes grew especially well that year.
 
-*This is presented here as the family's own legend rather than confirmed connected history — whether Mara's shard and the party's shard are literally the same object, fragments of one shattered original, or an unrelated but similarly-voiced phenomenon is not established. See [The Shard](../Items/The%20Shard) for the other known parallel accounts.*
+*This is presented here as the family's own legend rather than confirmed connected history — whether Mara's shard and the party's shard are literally the same object, fragments of one shattered original, or an unrelated but similarly-voiced phenomenon is not established. See [The Shard](../Items/the-shard) for the other known parallel accounts.*
 
 ---
 
 ## Connection to Campaign 5
 
-House Modril operates orphanages across most of the western world — including the one at the Maw that receives the rescued goblin child ("Shithead") from the party at the end of Session 2. See [Magerna](../Characters/Magerna), [Shithead (Goblin Survivor)](../NPCs/Shithead%20(Goblin%20Survivor)), and [Locations/Maw of Arrath](../Locations/Maw%20of%20Arrath).
+House Modril operates orphanages across most of the western world — including the one at the Maw that receives the rescued goblin child ("Shithead") from the party at the end of Session 2. See [Magerna](../Characters/magerna), [Shithead (Goblin Survivor)](../NPCs/shithead-goblin-survivor), and [Locations/Maw of Arrath](../Locations/maw-of-arrath).
 
 ---
 
 ## Notes
 
-*Introduced as standalone background lore by the GM outside of session play, directly resolving a previously-flagged tension between Magerna's origin story and House Modril's status as an active noble house. See the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary)'s "Threads left open" section, updated accordingly.*
+*Introduced as standalone background lore by the GM outside of session play, directly resolving a previously-flagged tension between Magerna's origin story and House Modril's status as an active noble house. See the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary)'s "Threads left open" section, updated accordingly.*
 
 ---
 

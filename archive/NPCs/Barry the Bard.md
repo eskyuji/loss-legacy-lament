@@ -1,5 +1,6 @@
 ---
 title: Barry the Bard
+permalink: "/archive/NPCs/barry-the-bard.html"
 ---
 
 # Barry the Bard

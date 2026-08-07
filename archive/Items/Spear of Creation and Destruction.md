@@ -1,5 +1,6 @@
 ---
 title: Spear of Creation and Destruction
+permalink: "/archive/Items/spear-of-creation-and-destruction.html"
 ---
 
 # Spear of Creation and Destruction

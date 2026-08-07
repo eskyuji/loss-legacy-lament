@@ -1,5 +1,6 @@
 ---
 title: Logan
+permalink: "/archive/Characters/logan.html"
 ---
 
 # Logan

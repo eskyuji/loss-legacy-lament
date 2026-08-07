@@ -1,5 +1,6 @@
 ---
 title: King Phresee
+permalink: "/archive/NPCs/king-phresee.html"
 ---
 
 # King Phresee

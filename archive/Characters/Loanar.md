@@ -1,5 +1,6 @@
 ---
 title: Loanar
+permalink: "/archive/Characters/loanar.html"
 ---
 
 # Loanar

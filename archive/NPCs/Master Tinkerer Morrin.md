@@ -1,5 +1,6 @@
 ---
 title: Master Tinkerer Morrin
+permalink: "/archive/NPCs/master-tinkerer-morrin.html"
 ---
 
 # Master Tinkerer Morrin

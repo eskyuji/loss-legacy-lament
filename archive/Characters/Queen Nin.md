@@ -1,5 +1,6 @@
 ---
 title: Queen Nin
+permalink: "/archive/Characters/queen-nin.html"
 ---
 
 # Queen Nin

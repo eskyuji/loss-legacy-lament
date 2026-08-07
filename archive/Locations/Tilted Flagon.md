@@ -1,5 +1,6 @@
 ---
 title: Tilted Flagon
+permalink: "/archive/Locations/tilted-flagon.html"
 ---
 
 # Tilted Flagon

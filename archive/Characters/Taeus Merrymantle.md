@@ -1,5 +1,6 @@
 ---
 title: Taeus Merrymantle
+permalink: "/archive/Characters/taeus-merrymantle.html"
 ---
 
 # Taeus Merrymantle

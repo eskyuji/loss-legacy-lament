@@ -1,5 +1,6 @@
 ---
 title: Aleer
+permalink: "/NPCs/aleer.html"
 ---
 
 # Aleer

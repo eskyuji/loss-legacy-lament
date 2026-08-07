@@ -1,5 +1,6 @@
 ---
 title: Elise Redd
+permalink: "/archive/NPCs/elise-redd.html"
 ---
 
 # Elise Redd

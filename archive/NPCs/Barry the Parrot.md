@@ -1,5 +1,6 @@
 ---
 title: Barry the Parrot (the Pirate)
+permalink: "/archive/NPCs/barry-the-parrot.html"
 ---
 
 # Barry the Parrot (the Pirate)

@@ -1,5 +1,6 @@
 ---
 title: The Crash
+permalink: "/archive/Locations/the-crash.html"
 ---
 
 # The Crash
@@ -30,4 +31,4 @@ A floating, swamp-shrouded Ziggurat hidden beneath a thin layer of sand, home to
 
 ## Notes
 
-*The Magus holds court separately from Queen Nin, in the Slums — see [The Magus](../Characters/The Magus) for her role and the political tension between the two.*
+*The Magus holds court separately from Queen Nin, in the Slums — see [The Magus](../Characters/the-magus) for her role and the political tension between the two.*

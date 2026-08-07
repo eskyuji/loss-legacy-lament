@@ -1,5 +1,6 @@
 ---
 title: South Arill / North Arill
+permalink: "/archive/Locations/south-and-north-arill.html"
 ---
 
 # South Arill / North Arill

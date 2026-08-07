@@ -1,5 +1,6 @@
 ---
 title: Xanathar
+permalink: "/archive/NPCs/xanathar.html"
 ---
 
 # Xanathar

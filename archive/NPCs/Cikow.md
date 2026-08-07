@@ -1,5 +1,6 @@
 ---
 title: Cikow
+permalink: "/archive/NPCs/cikow.html"
 ---
 
 # Cikow

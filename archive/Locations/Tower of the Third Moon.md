@@ -1,5 +1,6 @@
 ---
 title: Tower of the Third Moon
+permalink: "/archive/Locations/tower-of-the-third-moon.html"
 ---
 
 # Tower of the Third Moon

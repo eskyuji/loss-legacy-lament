@@ -1,5 +1,6 @@
 ---
 title: Salazar
+permalink: "/archive/NPCs/salazar.html"
 ---
 
 # Salazar

@@ -1,5 +1,6 @@
 ---
 title: House Richardson
+permalink: "/Factions/house-richardson.html"
 ---
 
 # House Richardson
@@ -36,9 +37,9 @@ Held every year in the middle of Junathar (the Mythrir equivalent of June), at t
 
 Visitors occasionally remark that the food on Milton's table is often gone by morning. The servants insist the kitchen staff clears it away; the kitchen staff insist they do not. House Richardson has never investigated the matter very closely — some traditions are more enjoyable left unexplained.
 
-*See also: [Mythrir Calendar and Festivals](../Lore/Mythrir%20Calendar%20and%20Festivals) places Milton's Feast on High Summer 25 — the actual calendar month; "Junathar" was an offhand table joke riffing on "June," not a real month name.*
+*See also: [Mythrir Calendar and Festivals](../Lore/mythrir-calendar-and-festivals) places Milton's Feast on High Summer 25 — the actual calendar month; "Junathar" was an offhand table joke riffing on "June," not a real month name.*
 
-**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Volkan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+**Campaign 5, Session 2:** Thelonius sends Bas, Magerna, and Meeka to attend this year's Feast as Verenath's official representatives, hoping the favor they earn there will smooth the way to an audience with the Master of the Forges at the Scarlet Peaks — something House Volkan's pride would otherwise make impossible, given the party's broken Tychonium shard. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

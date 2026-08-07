@@ -1,5 +1,6 @@
 ---
 title: Mackleroy
+permalink: "/archive/NPCs/mackleroy.html"
 ---
 
 # Mackleroy

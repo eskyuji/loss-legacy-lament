@@ -1,5 +1,6 @@
 ---
 title: Wesley Valentine
+permalink: "/archive/NPCs/wesley-valentine.html"
 ---
 
 # Wesley Valentine

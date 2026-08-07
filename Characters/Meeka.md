@@ -1,5 +1,6 @@
 ---
 title: Meeka
+permalink: "/Characters/meeka.html"
 ---
 
 # Meeka
@@ -49,7 +50,7 @@ Takes Teyou's body into her own mass and sinks away with it — he "doesn't belo
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Her new body is confirmed permanent; Divine Intervention is formalized, and she pulls Liberty of the End as her first artifact.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-Her new constructed body is confirmed permanent, not a one-scene transformation. The table formalizes how Divine Intervention works for a player character who is also her own god: at 20th level her calls succeed automatically, letting her draw any single inactive artifact — one previously wielded by an earlier player character — out of her own domain for one use, on a one-week cooldown. Her first pull is [Liberty of the End](../Items/Liberty of the End), Seraph's old hourglass artifact. Initially balks at joining the trip to the goblin camp ("I'm more just confused as to where I said I was joining you") until she hears Teyou's voice in her own head — *"Don't forget you owe me"* — and immediately reverses herself. Reveals, without elaborating, that she holds an unspecified "piece" of 702 Purpose and Intent (his word: "peace"), taken at some unspecified point, and refuses to return it: *"How he is now is what's needed."* Activates Liberty of the End's Stars Without Number ability to close out the session, rolling 22 miles and a southward heading to land the party just outside the Maw of Arrath.
+Her new constructed body is confirmed permanent, not a one-scene transformation. The table formalizes how Divine Intervention works for a player character who is also her own god: at 20th level her calls succeed automatically, letting her draw any single inactive artifact — one previously wielded by an earlier player character — out of her own domain for one use, on a one-week cooldown. Her first pull is [Liberty of the End](../Items/liberty-of-the-end), Seraph's old hourglass artifact. Initially balks at joining the trip to the goblin camp ("I'm more just confused as to where I said I was joining you") until she hears Teyou's voice in her own head — *"Don't forget you owe me"* — and immediately reverses herself. Reveals, without elaborating, that she holds an unspecified "piece" of 702 Purpose and Intent (his word: "peace"), taken at some unspecified point, and refuses to return it: *"How he is now is what's needed."* Activates Liberty of the End's Stars Without Number ability to close out the session, rolling 22 miles and a southward heading to land the party just outside the Maw of Arrath.
 
 </div>
 </details>
@@ -63,7 +64,7 @@ Is the first one addressed directly, telepathically, by the Found — a being wh
 </div>
 </details>
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Ephemeral
+permalink: "/NPCs/the-ephemeral.html"
 ---
 
 # The Ephemeral
@@ -17,9 +18,9 @@ A shapeless figure that coalesces directly out of Bas's own shadow, its face cyc
 
 ## Campaign 5 Session Detail
 
-First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Found and the Celebrant — see [Session 3](../Sessions/Session%203%20-%20The%20Found,%20The%20Celebrant,%20and%20The%20Ephemeral). Demonstrates an ability to strip the magic from exactly one target at a time: first Bas's ancestral weapons, Yesiah and Rea, go fully mundane for several rounds; later, mid-fight, its attention shifts to Magerna, and the Ring of the Father goes dark with it right as Magerna needs its protection most. Despite outward appearances suggesting the Celebrant is the trio's public face, it's the Ephemeral that makes the tactical call to withdraw — using the party's laughter-induced incapacitation as cover to pull all three beings out of the fight entirely rather than press an advantage it clearly could have taken.
+First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Found and the Celebrant — see [Session 3](../Sessions/session-3-the-found-the-celebrant-and-the-ephemeral). Demonstrates an ability to strip the magic from exactly one target at a time: first Bas's ancestral weapons, Yesiah and Rea, go fully mundane for several rounds; later, mid-fight, its attention shifts to Magerna, and the Ring of the Father goes dark with it right as Magerna needs its protection most. Despite outward appearances suggesting the Celebrant is the trio's public face, it's the Ephemeral that makes the tactical call to withdraw — using the party's laughter-induced incapacitation as cover to pull all three beings out of the fight entirely rather than press an advantage it clearly could have taken.
 
-See the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) for full scene detail.
+See the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

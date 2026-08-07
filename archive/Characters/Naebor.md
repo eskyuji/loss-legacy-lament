@@ -1,5 +1,6 @@
 ---
 title: Naebor
+permalink: "/archive/Characters/naebor.html"
 ---
 
 # Naebor

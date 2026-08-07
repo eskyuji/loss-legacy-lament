@@ -1,12 +1,13 @@
 ---
 title: "Session 1 — The Broken Blade"
+permalink: "/Sessions/session-1-the-broken-blade.html"
 ---
 
 # Session 1 — The Broken Blade
 
 *A goblin possessed by a shattered Tychonium shard attacks a beggar trapped in a time loop — and Feit's name resurfaces for the first time in two thousand years.*
 
-Part of [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary). See all sessions at [Session Recaps](Recaps).
+Part of [Campaign 5: Loss, Legacy, and Lament](campaign-5-loss-legacy-and-lament-overall-summary). See all sessions at [Session Recaps](recaps).
 
 ---
 

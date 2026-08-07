@@ -1,5 +1,6 @@
 ---
 title: 1000 Straight Forward Derivative
+permalink: "/archive/NPCs/1000-straight-forward-derivative.html"
 ---
 
 # 1000 Straight Forward Derivative

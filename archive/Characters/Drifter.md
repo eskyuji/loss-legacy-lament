@@ -1,5 +1,6 @@
 ---
 title: Drifter
+permalink: "/archive/Characters/drifter.html"
 ---
 
 # Drifter

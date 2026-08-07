@@ -1,5 +1,6 @@
 ---
 title: Ironwood Armor
+permalink: "/archive/Items/ironwood-armor.html"
 ---
 
 # Ironwood Armor

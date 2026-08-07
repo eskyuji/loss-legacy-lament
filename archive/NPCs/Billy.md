@@ -1,5 +1,6 @@
 ---
 title: Billy
+permalink: "/archive/NPCs/billy.html"
 ---
 
 # Billy

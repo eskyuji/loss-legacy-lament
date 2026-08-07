@@ -1,5 +1,6 @@
 ---
 title: Empyr
+permalink: "/archive/Locations/empyr.html"
 ---
 
 # Empyr

@@ -1,5 +1,6 @@
 ---
 title: Desiree Redd
+permalink: "/archive/NPCs/desiree-redd.html"
 ---
 
 # Desiree Redd

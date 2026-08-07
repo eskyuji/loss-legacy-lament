@@ -1,5 +1,6 @@
 ---
 title: The Maw
+permalink: "/archive/Locations/the-maw.html"
 ---
 
 # The Maw

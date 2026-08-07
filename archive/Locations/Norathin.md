@@ -1,5 +1,6 @@
 ---
 title: Norathin
+permalink: "/archive/Locations/norathin.html"
 ---
 
 # Norathin

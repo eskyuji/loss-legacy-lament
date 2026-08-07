@@ -1,5 +1,6 @@
 ---
 title: Tirgad
+permalink: "/archive/Characters/tirgad.html"
 ---
 
 # Tirgad

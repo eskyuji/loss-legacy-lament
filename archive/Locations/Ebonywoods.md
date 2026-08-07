@@ -1,5 +1,6 @@
 ---
 title: Ebonywoods
+permalink: "/archive/Locations/ebonywoods.html"
 ---
 
 # Ebonywoods

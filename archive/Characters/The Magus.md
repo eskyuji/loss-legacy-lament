@@ -1,5 +1,6 @@
 ---
 title: The Magus
+permalink: "/archive/Characters/the-magus.html"
 ---
 
 # The Magus

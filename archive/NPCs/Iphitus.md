@@ -1,5 +1,6 @@
 ---
 title: Iphitus
+permalink: "/archive/NPCs/iphitus.html"
 ---
 
 # Iphitus

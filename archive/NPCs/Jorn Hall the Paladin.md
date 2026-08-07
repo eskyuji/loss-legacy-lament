@@ -1,5 +1,6 @@
 ---
 title: Jorn Hall the Paladin
+permalink: "/archive/NPCs/jorn-hall-the-paladin.html"
 ---
 
 # Jorn Hall the Paladin

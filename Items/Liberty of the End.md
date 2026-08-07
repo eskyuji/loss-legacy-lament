@@ -1,5 +1,6 @@
 ---
 title: Liberty of the End
+permalink: "/Items/liberty-of-the-end.html"
 ---
 
 # Liberty of the End
@@ -26,4 +27,4 @@ Originally Seraph's own artifact — its Stars Without Number effect was later f
 
 ## Notes
 
-*Full extent of its other effects (beyond the three used or described in session) not yet established. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) and [Meeka](../Characters/Meeka) for context on how Meeka's access to it works.*
+*Full extent of its other effects (beyond the three used or described in session) not yet established. See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) and [Meeka](../Characters/meeka) for context on how Meeka's access to it works.*

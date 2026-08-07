@@ -1,5 +1,6 @@
 ---
 title: Tiny Tim
+permalink: "/archive/NPCs/tiny-tim.html"
 ---
 
 # Tiny Tim

@@ -1,5 +1,6 @@
 ---
 title: 000 Excessive Treble
+permalink: "/archive/NPCs/000-excessive-treble.html"
 ---
 
 # 000 Excessive Treble

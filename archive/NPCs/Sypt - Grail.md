@@ -1,5 +1,6 @@
 ---
 title: Sypt / Grail
+permalink: "/archive/NPCs/sypt-grail.html"
 ---
 
 # Sypt / Grail

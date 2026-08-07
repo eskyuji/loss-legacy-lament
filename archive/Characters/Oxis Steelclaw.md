@@ -1,5 +1,6 @@
 ---
 title: Oxis Steelclaw
+permalink: "/archive/Characters/oxis-steelclaw.html"
 ---
 
 # Oxis Steelclaw

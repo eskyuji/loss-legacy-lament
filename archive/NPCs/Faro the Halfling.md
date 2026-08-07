@@ -1,5 +1,6 @@
 ---
 title: Faro the Halfling
+permalink: "/archive/NPCs/faro-the-halfling.html"
 ---
 
 # Faro the Halfling

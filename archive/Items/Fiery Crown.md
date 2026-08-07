@@ -1,5 +1,6 @@
 ---
 title: Fiery Crown
+permalink: "/archive/Items/fiery-crown.html"
 ---
 
 # Fiery Crown
@@ -26,4 +27,4 @@ Trophy/proof of the party's defeat of Lehinar at Behelor's request — presented
 
 ## Notes
 
-*Mechanical details to be added as they're established in session. See [Lehinar (Uriel)](../NPCs/Lehinar (Uriel)), [Behelor](../NPCs/Behelor).*
+*Mechanical details to be added as they're established in session. See [Lehinar (Uriel)](../NPCs/lehinar-uriel), [Behelor](../NPCs/behelor).*

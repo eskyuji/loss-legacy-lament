@@ -1,5 +1,6 @@
 ---
 title: The Yuan-Ti
+permalink: "/archive/NPCs/the-yuan-ti.html"
 ---
 
 # The Yuan-Ti

@@ -1,5 +1,6 @@
 ---
 title: The Found
+permalink: "/NPCs/the-found.html"
 ---
 
 # The Found
@@ -17,11 +18,11 @@ A tall, broad humanoid figure built entirely from relics — a single glove, bro
 
 ## Campaign 5 Session Detail
 
-First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Celebrant and the Ephemeral — see [Session 3](../Sessions/Session%203%20-%20The%20Found,%20The%20Celebrant,%20and%20The%20Ephemeral). Addresses Meeka telepathically before the party can approach: *"There you are. There you are. There you are."* Then: *"Nothing lost stays lost forever. I am the Found."*
+First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Celebrant and the Ephemeral — see [Session 3](../Sessions/session-3-the-found-the-celebrant-and-the-ephemeral). Addresses Meeka telepathically before the party can approach: *"There you are. There you are. There you are."* Then: *"Nothing lost stays lost forever. I am the Found."*
 
 In combat, proves to be the most straightforwardly mortal of the three — Bas fells it outright in a single exchange once Meeka's Holy Weapon restores his blade's bite. The Celebrant raises a glass and brings it back up off the ground moments later, visibly dead on its feet but still standing and still fighting. It's ultimately finished for good by Magerna's spirit guardians and spiritual weapon while it's still down — a death the Celebrant notably can't undo a second time. Despite that, its body vanishes along with its two companions when the Ephemeral pulls the group out of the fight, leaving no corpse behind.
 
-See the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) for full scene detail.
+See the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

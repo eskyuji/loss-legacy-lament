@@ -1,5 +1,6 @@
 ---
 title: Boon of Mortalus
+permalink: "/archive/Items/boon-of-mortalus.html"
 ---
 
 # Boon of Mortalus

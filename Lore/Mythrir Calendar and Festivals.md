@@ -1,5 +1,6 @@
 ---
 title: "Mythrir Calendar and Festivals"
+permalink: "/Lore/mythrir-calendar-and-festivals.html"
 ---
 
 # Mythrir Calendar and Festivals
@@ -44,9 +45,9 @@ Commemorates the day the world was forever changed during the Terraclasm. Not a 
 
 ### High Summer 25 — Milton's Feast
 
-Hosted by [House Richardson](../Factions/House%20Richardson) in the [Maw](../Locations/Maw%20of%20Arrath). Diplomats, nobles, merchants, and every Great House gather; music, puzzles, negotiations, and favors define the week more than politics. The famous Richardson Challenge is held on the final evening.
+Hosted by [House Richardson](../Factions/house-richardson) in the [Maw](../Locations/maw-of-arrath). Diplomats, nobles, merchants, and every Great House gather; music, puzzles, negotiations, and favors define the week more than politics. The famous Richardson Challenge is held on the final evening.
 
-*Naming note: existing session-recap material ([House Richardson](../Factions/House%20Richardson), [Maw of Arrath](../Locations/Maw%20of%20Arrath), and the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary)) refers to the month of Milton's Feast as "Junathar" — an offhand table joke riffing on "June," not a real in-world month name. "High Summer" is the actual calendar month.*
+*Naming note: existing session-recap material ([House Richardson](../Factions/house-richardson), [Maw of Arrath](../Locations/maw-of-arrath), and the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary)) refers to the month of Milton's Feast as "Junathar" — an offhand table joke riffing on "June," not a real in-world month name. "High Summer" is the actual calendar month.*
 
 ### Goldharvest 30 — The Smouldering
 
@@ -56,7 +57,7 @@ Celebrates the final great harvest before winter preparations. Bonfires burn thr
 
 Mythrir's equivalent of Halloween. Lanterns line every road; families leave an empty chair and a warm meal for those who have been lost, and children wear masks representing forgotten heroes, monsters, or ancestors. The Gates of Death open in Veranath and allow souls to depart Mythrir Prime.
 
-*Likely the same gates as the [Gates of the Afterlife](../Locations/Veranath), which the party crosses in Campaign 4 to reach the death-world ("Mythrir -1") — treated here as the same structure rather than a separate one, though not explicitly confirmed in session.*
+*Likely the same gates as the [Gates of the Afterlife](../Locations/veranath), which the party crosses in Campaign 4 to reach the death-world ("Mythrir -1") — treated here as the same structure rather than a separate one, though not explicitly confirmed in session.*
 
 ### Frostveil 20 — Jaq's Frost
 

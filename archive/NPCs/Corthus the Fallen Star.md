@@ -1,5 +1,6 @@
 ---
 title: Corthus the Fallen Star
+permalink: "/archive/NPCs/corthus-the-fallen-star.html"
 ---
 
 # Corthus the Fallen Star

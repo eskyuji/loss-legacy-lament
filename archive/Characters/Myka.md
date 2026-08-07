@@ -1,5 +1,6 @@
 ---
 title: Myka
+permalink: "/archive/Characters/myka.html"
 ---
 
 # Myka

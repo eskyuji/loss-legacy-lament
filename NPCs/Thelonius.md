@@ -1,5 +1,6 @@
 ---
 title: Thelonius
+permalink: "/NPCs/thelonius.html"
 ---
 
 # Thelonius
@@ -19,7 +20,7 @@ Ancient beyond reckoning, cursed into the form of a sphynx cat by The Watcher fo
 
 The Oathstone of Remembrance reveal pays off fully here: now ruling over a dead, abandoned Veranath as a cat hive-mind, Thelonius leads the party through four labors as part of his "Oathstone of Remembrance" arc before they cross the Gates of the Afterlife.
 
-*⚠️ Possible naming overlap: the Campaign 4 raw notes spell this ruined cat-city "Veranath," while the existing [Locations/Varaneth.md](../archive/Locations/Varaneth) entry (capital of the Eternal Empire, home of the Cat's Pajamas, from Campaign 2) is spelled "Varaneth." Given Thelonius's strong ties to both — he holds court at the Cat's Pajamas in the Campaign 2 city and rules the cat hive-mind in the Campaign 4 city — these may be the same city fallen to ruin 2,000 years later, or two distinctly named places. Flagging rather than merging the Locations entries.*
+*⚠️ Possible naming overlap: the Campaign 4 raw notes spell this ruined cat-city "Veranath," while the existing [Locations/Varaneth.md](../archive/Locations/varaneth) entry (capital of the Eternal Empire, home of the Cat's Pajamas, from Campaign 2) is spelled "Varaneth." Given Thelonius's strong ties to both — he holds court at the Cat's Pajamas in the Campaign 2 city and rules the cat hive-mind in the Campaign 4 city — these may be the same city fallen to ruin 2,000 years later, or two distinctly named places. Flagging rather than merging the Locations entries.*
 
 ---
 
@@ -63,12 +64,12 @@ When asked by Magerna where to put a dead god's body, deadpans an offer of the t
 <summary><span class="recap-entry-title">Session 2 — Before Me Is Death</span><span class="recap-entry-hook">Identifies the shard as House Volkan work, reveals Reno's origin as Tyn's own sentient friend, and sends the party to Milton's Feast.</span></summary>
 <div class="recap-entry-body" markdown="1">
 
-Maintains a hidden 10-by-10 demiplane behind the bar (booth, keg, camp stove, closet), accessed by hitting a switch that rotates the booth into the wall. Personally witnessed Tycho, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds — the reason, per Thelonius, the metal Tychonium bears his name. Identifies the party's shard as House Volkan work and reveals that Reno/Rynn, the Tychonium blade Tyn gave Bas in Campaign 4 (see [Reno](../Items/Reno)), was originally Tyn's own sentient friend, transformed into a weapon when Tyn became an Oathstone. Advises against approaching the Volkans directly over the shard (pride would keep them from admitting a broken Tychonium blade exists) and instead sends the party to Milton's Feast at the Maw as Veranath's representatives — see [House Richardson](../Factions/House Richardson). Gives the party a Veranath banner bearing his own face and a "span read" (a matched-pair magical telegraph, unlimited use) for contact on the road. Explains Synchronization Malformata's origin and mechanism: the phenomenon is literally where "Frost Shepherds" got their name (it only snows when they're needed), and the rarer "Type B" variant the party witnessed happens when too few Owls are present to record events cleanly, smearing one event across multiple witnesses. Handles the party's shard with his prosthetic metal arm rather than his flesh hand — a deliberate, barely-noticed precaution. Threatens, without hesitation, to kill 702 Purpose and Intent himself at the first sign of Feit's renewed influence, while visibly flipping coins in his metal hand the entire conversation — a combat-readiness tell per Meeka.
+Maintains a hidden 10-by-10 demiplane behind the bar (booth, keg, camp stove, closet), accessed by hitting a switch that rotates the booth into the wall. Personally witnessed Tycho, while still mortal, dismantle a tyrannosaurus barehanded in about six seconds — the reason, per Thelonius, the metal Tychonium bears his name. Identifies the party's shard as House Volkan work and reveals that Reno/Rynn, the Tychonium blade Tyn gave Bas in Campaign 4 (see [Reno](../Items/reno)), was originally Tyn's own sentient friend, transformed into a weapon when Tyn became an Oathstone. Advises against approaching the Volkans directly over the shard (pride would keep them from admitting a broken Tychonium blade exists) and instead sends the party to Milton's Feast at the Maw as Veranath's representatives — see [House Richardson](../Factions/house-richardson). Gives the party a Veranath banner bearing his own face and a "span read" (a matched-pair magical telegraph, unlimited use) for contact on the road. Explains Synchronization Malformata's origin and mechanism: the phenomenon is literally where "Frost Shepherds" got their name (it only snows when they're needed), and the rarer "Type B" variant the party witnessed happens when too few Owls are present to record events cleanly, smearing one event across multiple witnesses. Handles the party's shard with his prosthetic metal arm rather than his flesh hand — a deliberate, barely-noticed precaution. Threatens, without hesitation, to kill 702 Purpose and Intent himself at the first sign of Feit's renewed influence, while visibly flipping coins in his metal hand the entire conversation — a combat-readiness tell per Meeka.
 
 </div>
 </details>
 
-See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/Campaign 5 - Loss, Legacy, and Lament - Overall Summary) for full scene detail.
+See [Campaign 5 - Loss, Legacy, and Lament - Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

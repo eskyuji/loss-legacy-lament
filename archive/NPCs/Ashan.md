@@ -1,5 +1,6 @@
 ---
 title: Ashan
+permalink: "/archive/NPCs/ashan.html"
 ---
 
 # Ashan

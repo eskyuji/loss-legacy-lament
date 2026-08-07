@@ -1,5 +1,6 @@
 ---
 title: Sunny and Moony
+permalink: "/archive/NPCs/sunny-and-moony.html"
 ---
 
 # Sunny and Moony

@@ -1,5 +1,6 @@
 ---
 title: Benji
+permalink: "/archive/Characters/benji.html"
 ---
 
 # Benji

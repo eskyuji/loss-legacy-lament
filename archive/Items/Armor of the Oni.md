@@ -1,5 +1,6 @@
 ---
 title: Armor of the Oni
+permalink: "/archive/Items/armor-of-the-oni.html"
 ---
 
 # Armor of the Oni

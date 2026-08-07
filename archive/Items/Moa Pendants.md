@@ -1,5 +1,6 @@
 ---
 title: Moa Pendants
+permalink: "/archive/Items/moa-pendants.html"
 ---
 
 # Moa Pendants

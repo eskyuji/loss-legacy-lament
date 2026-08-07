@@ -1,5 +1,6 @@
 ---
 title: Gul'Malar
+permalink: "/archive/Locations/gulmalar.html"
 ---
 
 # Gul'Malar

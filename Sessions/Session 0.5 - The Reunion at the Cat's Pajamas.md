@@ -1,12 +1,13 @@
 ---
 title: "Session 0.5 — The Reunion at the Cat's Pajamas"
+permalink: "/Sessions/session-05-the-reunion-at-the-cats-pajamas.html"
 ---
 
 # Session 0.5 — The Reunion at the Cat's Pajamas
 
 *The Worldcrafter Teyou Zhiang dies mid-drink at a century-old reunion, leaving behind a will, a prophecy, and the first sign of a new era.*
 
-Part of [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary). See all sessions at [Session Recaps](Recaps).
+Part of [Campaign 5: Loss, Legacy, and Lament](campaign-5-loss-legacy-and-lament-overall-summary). See all sessions at [Session Recaps](recaps).
 
 ---
 

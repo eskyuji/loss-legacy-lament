@@ -1,5 +1,6 @@
 ---
 title: 'Campaign 4: Past and Future, Dusk and Dawn — Overall Summary'
+permalink: "/archive/Sessions/campaign-4-past-and-future-dusk-and-dawn-overall-summary.html"
 ---
 
 # Campaign 4: Past and Future, Dusk and Dawn — Overall Summary

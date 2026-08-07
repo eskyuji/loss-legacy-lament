@@ -1,5 +1,6 @@
 ---
 title: Kwa-mina
+permalink: "/archive/NPCs/kwa-mina.html"
 ---
 
 # Kwa-mina

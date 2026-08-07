@@ -1,5 +1,6 @@
 ---
 title: Behelor
+permalink: "/archive/NPCs/behelor.html"
 ---
 
 # Behelor

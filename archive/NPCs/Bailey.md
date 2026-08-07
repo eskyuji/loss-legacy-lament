@@ -1,5 +1,6 @@
 ---
 title: Bailey
+permalink: "/archive/NPCs/bailey.html"
 ---
 
 # Bailey

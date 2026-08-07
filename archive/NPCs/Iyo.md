@@ -1,5 +1,6 @@
 ---
 title: Iyo
+permalink: "/archive/NPCs/iyo.html"
 ---
 
 # Iyo

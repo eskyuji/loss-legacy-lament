@@ -1,5 +1,6 @@
 ---
 title: The Celebrant
+permalink: "/NPCs/the-celebrant.html"
 ---
 
 # The Celebrant
@@ -17,9 +18,9 @@ A masked reveler, endlessly delighted, who catches Magerna gently out of the sky
 
 ## Campaign 5 Session Detail
 
-First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Found and the Ephemeral — see [Session 3](../Sessions/Session%203%20-%20The%20Found,%20The%20Celebrant,%20and%20The%20Ephemeral). Mid-fight, folds the road itself into a demiplane replica of Milton's Feast — a full-blown party complete with revelers and children — that Bas recognizes on sight as the actual destination the party hasn't reached yet. Both Bas and Magerna are struck with uncontrollable laughter inside it. Raises a glass to bring the fallen Found back to its feet once, though the same trick doesn't hold the second time it goes down. Closes the encounter with a toast that hits everyone within sixty feet with a wave of psychic damage, incapacitating both spellcasters with laughter — the opening the Ephemeral then uses to pull the whole group out rather than press the advantage.
+First appearance in Campaign 5. Encountered walking the road roughly twenty-two miles south of the Maw of Arrath, alongside the Found and the Ephemeral — see [Session 3](../Sessions/session-3-the-found-the-celebrant-and-the-ephemeral). Mid-fight, folds the road itself into a demiplane replica of Milton's Feast — a full-blown party complete with revelers and children — that Bas recognizes on sight as the actual destination the party hasn't reached yet. Both Bas and Magerna are struck with uncontrollable laughter inside it. Raises a glass to bring the fallen Found back to its feet once, though the same trick doesn't hold the second time it goes down. Closes the encounter with a toast that hits everyone within sixty feet with a wave of psychic damage, incapacitating both spellcasters with laughter — the opening the Ephemeral then uses to pull the whole group out rather than press the advantage.
 
-See the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) for full scene detail.
+See the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

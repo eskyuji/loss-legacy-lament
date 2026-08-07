@@ -1,5 +1,6 @@
 ---
 title: 446 Impartial Argument
+permalink: "/archive/NPCs/446-impartial-argument.html"
 ---
 
 # 446 Impartial Argument

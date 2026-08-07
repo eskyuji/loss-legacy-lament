@@ -1,5 +1,6 @@
 ---
 title: Yeziah, the Sentient Platemail
+permalink: "/archive/Items/yeziah-the-sentient-platemail.html"
 ---
 
 # Yeziah, the Sentient Platemail

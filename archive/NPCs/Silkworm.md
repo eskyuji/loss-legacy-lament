@@ -1,5 +1,6 @@
 ---
 title: Silkworm
+permalink: "/archive/NPCs/silkworm.html"
 ---
 
 # Silkworm

@@ -1,5 +1,6 @@
 ---
 title: Death's Walking Stick (a.k.a. Death's Scythe)
+permalink: "/archive/Items/deaths-walking-stick.html"
 ---
 
 # Death's Walking Stick (a.k.a. Death's Scythe)

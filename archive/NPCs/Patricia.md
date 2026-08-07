@@ -1,5 +1,6 @@
 ---
 title: Patricia
+permalink: "/archive/NPCs/patricia.html"
 ---
 
 # Patricia

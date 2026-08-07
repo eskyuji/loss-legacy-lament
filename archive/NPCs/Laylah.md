@@ -1,5 +1,6 @@
 ---
 title: Laylah
+permalink: "/archive/NPCs/laylah.html"
 ---
 
 # Laylah

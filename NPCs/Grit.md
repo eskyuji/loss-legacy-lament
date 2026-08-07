@@ -1,5 +1,6 @@
 ---
 title: Grit
+permalink: "/NPCs/grit.html"
 ---
 
 # Grit
@@ -11,13 +12,13 @@ title: Grit
 
 ## Overview
 
-A goblin child of the Verenath goblin camp under the Western Bridge, small and chronically underfed even by the standards of his own camp — three years old in goblin years, roughly ten in human terms. The only camp member who had ever shown kindness to the younger goblin later known as "Shithead" (see [Shithead (Goblin Survivor)](Shithead%20(Goblin%20Survivor)), who describes Grit as the one person who was ever kind to him.
+A goblin child of the Verenath goblin camp under the Western Bridge, small and chronically underfed even by the standards of his own camp — three years old in goblin years, roughly ten in human terms. The only camp member who had ever shown kindness to the younger goblin later known as "Shithead" (see [Shithead (Goblin Survivor)](shithead-goblin-survivor), who describes Grit as the one person who was ever kind to him.
 
 ---
 
 ## Origin
 
-Three days without eating, checking every alley in Verenath's slums for forgotten scraps, Grit found silver instead of bread: a shard no longer than his hand, wedged in a crack between cobblestones, warm to the touch and unmarked by any jeweler. The instant he picked it up, a voice settled into his thoughts — not heard, but felt, as though it had always been there. It offered to make others see what he could become; in exchange, his hunger and exhaustion vanished, and for the first time in his life he stood a little straighter. An old woman watching from her window later swore the alley's shadows had leaned toward him as he walked home. He never noticed. The voice's last words to him, before he tucked the shard into his sleeve: *"You are nothing without me."* — see [The Shard](../Items/The%20Shard) for the item itself and its other known instances.
+Three days without eating, checking every alley in Verenath's slums for forgotten scraps, Grit found silver instead of bread: a shard no longer than his hand, wedged in a crack between cobblestones, warm to the touch and unmarked by any jeweler. The instant he picked it up, a voice settled into his thoughts — not heard, but felt, as though it had always been there. It offered to make others see what he could become; in exchange, his hunger and exhaustion vanished, and for the first time in his life he stood a little straighter. An old woman watching from her window later swore the alley's shadows had leaned toward him as he walked home. He never noticed. The voice's last words to him, before he tucked the shard into his sleeve: *"You are nothing without me."* — see [The Shard](../Items/the-shard) for the item itself and its other known instances.
 
 ---
 
@@ -27,7 +28,7 @@ Sometime after acquiring the shard, Grit is transformed — grown to hobgoblin s
 
 His name is only recovered secondhand in Session 2, from the lone survivor of the massacre he caused.
 
-See [The Shard](../Items/The%20Shard) and the [Campaign 5 Overall Summary](../Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) for full scene detail.
+See [The Shard](../Items/the-shard) and the [Campaign 5 Overall Summary](../Sessions/campaign-5-loss-legacy-and-lament-overall-summary) for full scene detail.
 
 ---
 

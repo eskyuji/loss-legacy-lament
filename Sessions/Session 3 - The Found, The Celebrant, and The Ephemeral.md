@@ -1,12 +1,13 @@
 ---
 title: "Session 3 — The Found, The Celebrant, and The Ephemeral"
+permalink: "/Sessions/session-3-the-found-the-celebrant-and-the-ephemeral.html"
 ---
 
 # Session 3 — The Found, The Celebrant, and The Ephemeral
 
 *Three beings ambush the party on the road to the Maw, each one a distorted mirror of Meeka, Magerna, or Bas — and a box waiting in Meeka's own Bazaar confirms it.*
 
-Part of [Campaign 5: Loss, Legacy, and Lament](Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary). See all sessions at [Session Recaps](Recaps).
+Part of [Campaign 5: Loss, Legacy, and Lament](campaign-5-loss-legacy-and-lament-overall-summary). See all sessions at [Session Recaps](recaps).
 
 ---
 

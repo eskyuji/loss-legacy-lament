@@ -1,5 +1,6 @@
 ---
 title: The Nameless One (Moa)
+permalink: "/archive/NPCs/the-nameless-one-moa.html"
 ---
 
 # The Nameless One (Moa)

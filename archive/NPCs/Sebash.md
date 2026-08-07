@@ -1,5 +1,6 @@
 ---
 title: Sebash
+permalink: "/archive/NPCs/sebash.html"
 ---
 
 # Sebash

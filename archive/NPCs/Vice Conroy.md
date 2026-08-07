@@ -1,5 +1,6 @@
 ---
 title: Vice Conroy
+permalink: "/archive/NPCs/vice-conroy.html"
 ---
 
 # Vice Conroy

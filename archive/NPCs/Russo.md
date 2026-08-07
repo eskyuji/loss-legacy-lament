@@ -1,5 +1,6 @@
 ---
 title: Russo
+permalink: "/archive/NPCs/russo.html"
 ---
 
 # Russo

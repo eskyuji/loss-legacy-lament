@@ -1,5 +1,6 @@
 ---
 title: Maginus
+permalink: "/archive/NPCs/maginus.html"
 ---
 
 # Maginus

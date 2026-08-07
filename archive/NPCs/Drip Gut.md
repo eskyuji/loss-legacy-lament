@@ -1,5 +1,6 @@
 ---
 title: Drip Gut
+permalink: "/archive/NPCs/drip-gut.html"
 ---
 
 # Drip Gut

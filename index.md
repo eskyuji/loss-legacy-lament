@@ -10,7 +10,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the l
 >
 > — The Found
 >
-> [Session 3 — The Found, The Celebrant, and The Ephemeral](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary#session-3--the-found-the-celebrant-and-the-ephemeral)
+> [Session 3 — The Found, The Celebrant, and The Ephemeral](Sessions/campaign-5-loss-legacy-and-lament-overall-summary#session-3--the-found-the-celebrant-and-the-ephemeral)
 {: .pull-quote}
 
 ---
@@ -21,7 +21,7 @@ A living wiki for the Mythrir D&D 5e homebrew campaign — high fantasy in the l
 
 En route to the Maw with the rescued goblin child, the party is ambushed on the road by three strange beings: the Found, wearing relics from Meeka's own Bazaar of the Lost; the Celebrant, whose laughter dissolves fear and folds the road into a demiplane replica of Milton's Feast; and the Ephemeral, who steps out of Bas's own shadow and can strip a target's magic at will. All three vanish mid-fight the moment the party gains the upper hand. Regrouping in Meeka's Bazaar, a mysterious stereograph confirms the three are twisted opposites of Meeka, Magerna, and Bas themselves — and somewhere else in the Bazaar, a door closes.
 
-[Read the full recap →](Sessions/Recaps)
+[Read the full recap →](Sessions/recaps)
 
 ---
 
@@ -31,8 +31,8 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [Bas Tetran XXIV](Characters/Bas%20Tetran%20XXIV) | [Magerna](Characters/Magerna) |
-| [Meeka](Characters/Meeka) | |
+| [Bas Tetran XXIV](Characters/bas-tetran-xxiv) | [Magerna](Characters/magerna) |
+| [Meeka](Characters/meeka) | |
 {: .link-grid}
 
 ---
@@ -43,22 +43,22 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [702 Purpose and Intent](NPCs/702%20Purpose%20and%20Intent) | [December Redd](NPCs/December%20Redd) |
-| [Feit](NPCs/Feit) | [Nakki (Akki Nakki)](NPCs/Nakki%20(Akki%20Nakki)) |
-| [Netiri](NPCs/Netiri) | [Seraph](NPCs/Seraph) |
-| [Teyou Zhiang](NPCs/Teyou%20Zhiang) | [The Celebrant](NPCs/The%20Celebrant) |
-| [The Emperor (Za'a-ni)](NPCs/The%20Emperor%20(Za'a-ni)) | [The Ephemeral](NPCs/The%20Ephemeral) |
-| [The Found](NPCs/The%20Found) | [Thelonius](NPCs/Thelonius) |
-| [Tycho](NPCs/Tycho) | [Tyn](NPCs/Tyn) |
+| [702 Purpose and Intent](NPCs/702-purpose-and-intent) | [December Redd](NPCs/december-redd) |
+| [Feit](NPCs/feit) | [Nakki (Akki Nakki)](NPCs/nakki-akki-nakki) |
+| [Netiri](NPCs/netiri) | [Seraph](NPCs/seraph) |
+| [Teyou Zhiang](NPCs/teyou-zhiang) | [The Celebrant](NPCs/the-celebrant) |
+| [The Emperor (Za'a-ni)](NPCs/the-emperor-zaa-ni) | [The Ephemeral](NPCs/the-ephemeral) |
+| [The Found](NPCs/the-found) | [Thelonius](NPCs/thelonius) |
+| [Tycho](NPCs/tycho) | [Tyn](NPCs/tyn) |
 {: .link-grid}
 
 ### Minor NPCs
 
 | | |
 |---|---|
-| [Aleer](NPCs/Aleer) | [Grit](NPCs/Grit) |
-| [Madam Lennette](NPCs/Madam%20Lennette) | [Magerna](NPCs/Magerna) |
-| [Shithead (Goblin Survivor)](NPCs/Shithead%20(Goblin%20Survivor)) | [The Beggar](NPCs/The%20Beggar) |
+| [Aleer](NPCs/aleer) | [Grit](NPCs/grit) |
+| [Madam Lennette](NPCs/madam-lennette) | [Magerna](NPCs/magerna) |
+| [Shithead (Goblin Survivor)](NPCs/shithead-goblin-survivor) | [The Beggar](NPCs/the-beggar) |
 {: .link-grid}
 
 ---
@@ -67,8 +67,8 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [Liberty of the End](Items/Liberty%20of%20the%20End) | [Oathstones](Items/Oathstones) |
-| [Reno](Items/Reno) | [The Shard](Items/The%20Shard) |
+| [Liberty of the End](Items/liberty-of-the-end) | [Oathstones](Items/oathstones) |
+| [Reno](Items/reno) | [The Shard](Items/the-shard) |
 {: .link-grid}
 
 ---
@@ -77,8 +77,8 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [Hall of the Owls](Locations/Hall%20of%20the%20Owls) | [Maw of Arrath](Locations/Maw%20of%20Arrath) |
-| [Veranath](Locations/Veranath) | |
+| [Hall of the Owls](Locations/hall-of-the-owls) | [Maw of Arrath](Locations/maw-of-arrath) |
+| [Veranath](Locations/veranath) | |
 {: .link-grid}
 
 ---
@@ -87,9 +87,9 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [House Modril](Factions/House%20Modril) | [House Richardson](Factions/House%20Richardson) |
-| [House Tetran](Factions/House%20Tetran) | [House Volkan](Factions/House%20Volkan) |
-| [House Yufi](Factions/House%20Yufi) | |
+| [House Modril](Factions/house-modril) | [House Richardson](Factions/house-richardson) |
+| [House Tetran](Factions/house-tetran) | [House Volkan](Factions/house-volkan) |
+| [House Yufi](Factions/house-yufi) | |
 {: .link-grid}
 
 ---
@@ -98,7 +98,7 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [Mythrir Calendar and Festivals](Lore/Mythrir%20Calendar%20and%20Festivals) | |
+| [Mythrir Calendar and Festivals](Lore/mythrir-calendar-and-festivals) | |
 {: .link-grid}
 
 ---
@@ -107,8 +107,8 @@ Player characters only. Recurring allies, immortals, and other significant figur
 
 | | |
 |---|---|
-| [Session Recaps](Sessions/Recaps) | [Campaign 5 — Loss, Legacy, and Lament](Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary) |
-| [Overall History Executive Summary](Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary) | |
+| [Session Recaps](Sessions/recaps) | [Campaign 5 — Loss, Legacy, and Lament](Sessions/campaign-5-loss-legacy-and-lament-overall-summary) |
+| [Overall History Executive Summary](Sessions/mythrir-overall-history-executive-summary) | |
 {: .link-grid}
 
 ---
@@ -123,4 +123,4 @@ Characters, NPCs, items, and locations from completed campaigns (1–4), plus th
 
 ## Reference
 
-- [Character Index](Mythrir%20%E2%80%94%20Character%20Index) — spans all five campaigns
+- [Character Index](mythrir-character-index) — spans all five campaigns

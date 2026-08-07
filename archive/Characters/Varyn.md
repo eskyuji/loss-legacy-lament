@@ -1,5 +1,6 @@
 ---
 title: Varyn
+permalink: "/archive/Characters/varyn.html"
 ---
 
 # Varyn

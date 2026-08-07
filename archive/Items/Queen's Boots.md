@@ -1,5 +1,6 @@
 ---
 title: Queen's Boots
+permalink: "/archive/Items/queens-boots.html"
 ---
 
 # Queen's Boots

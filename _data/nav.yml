@@ -4,108 +4,108 @@
 - label: Home
   url: "/"
 - label: Session Recaps
-  url: "/Sessions/Recaps"
+  url: "/Sessions/recaps"
 - label: Characters
   items:
     - label: Bas Tetran XXIV
-      url: "/Characters/Bas%20Tetran%20XXIV"
+      url: "/Characters/bas-tetran-xxiv"
     - label: Magerna
-      url: "/Characters/Magerna"
+      url: "/Characters/magerna"
     - label: Meeka
-      url: "/Characters/Meeka"
+      url: "/Characters/meeka"
 - label: Major NPCs
   items:
     - label: 702 Purpose and Intent
-      url: "/NPCs/702%20Purpose%20and%20Intent"
+      url: "/NPCs/702-purpose-and-intent"
     - label: December Redd
-      url: "/NPCs/December%20Redd"
+      url: "/NPCs/december-redd"
     - label: Feit
-      url: "/NPCs/Feit"
+      url: "/NPCs/feit"
     - label: Nakki (Akki Nakki)
-      url: "/NPCs/Nakki%20(Akki%20Nakki)"
+      url: "/NPCs/nakki-akki-nakki"
     - label: Netiri
-      url: "/NPCs/Netiri"
+      url: "/NPCs/netiri"
     - label: Seraph
-      url: "/NPCs/Seraph"
+      url: "/NPCs/seraph"
     - label: Teyou Zhiang
-      url: "/NPCs/Teyou%20Zhiang"
+      url: "/NPCs/teyou-zhiang"
     - label: The Celebrant
-      url: "/NPCs/The%20Celebrant"
+      url: "/NPCs/the-celebrant"
     - label: The Emperor (Za'a-ni)
-      url: "/NPCs/The%20Emperor%20(Za'a-ni)"
+      url: "/NPCs/the-emperor-zaa-ni"
     - label: The Ephemeral
-      url: "/NPCs/The%20Ephemeral"
+      url: "/NPCs/the-ephemeral"
     - label: The Found
-      url: "/NPCs/The%20Found"
+      url: "/NPCs/the-found"
     - label: Thelonius
-      url: "/NPCs/Thelonius"
+      url: "/NPCs/thelonius"
     - label: Tycho
-      url: "/NPCs/Tycho"
+      url: "/NPCs/tycho"
     - label: Tyn
-      url: "/NPCs/Tyn"
+      url: "/NPCs/tyn"
 - label: Minor NPCs
   items:
     - label: Aleer
-      url: "/NPCs/Aleer"
+      url: "/NPCs/aleer"
     - label: Grit
-      url: "/NPCs/Grit"
+      url: "/NPCs/grit"
     - label: Madam Lennette
-      url: "/NPCs/Madam%20Lennette"
+      url: "/NPCs/madam-lennette"
     - label: Magerna
-      url: "/NPCs/Magerna"
+      url: "/NPCs/magerna"
     - label: Shithead (Goblin Survivor)
-      url: "/NPCs/Shithead%20(Goblin%20Survivor)"
+      url: "/NPCs/shithead-goblin-survivor"
     - label: The Beggar
-      url: "/NPCs/The%20Beggar"
+      url: "/NPCs/the-beggar"
 - label: Items
   items:
     - label: Liberty of the End
-      url: "/Items/Liberty%20of%20the%20End"
+      url: "/Items/liberty-of-the-end"
     - label: Oathstones
-      url: "/Items/Oathstones"
+      url: "/Items/oathstones"
     - label: Reno
-      url: "/Items/Reno"
+      url: "/Items/reno"
     - label: The Shard
-      url: "/Items/The%20Shard"
+      url: "/Items/the-shard"
 - label: Locations
   items:
     - label: Hall of the Owls
-      url: "/Locations/Hall%20of%20the%20Owls"
+      url: "/Locations/hall-of-the-owls"
     - label: Maw of Arrath
-      url: "/Locations/Maw%20of%20Arrath"
+      url: "/Locations/maw-of-arrath"
     - label: Veranath
-      url: "/Locations/Veranath"
+      url: "/Locations/veranath"
 - label: Factions
   items:
     - label: House Modril
-      url: "/Factions/House%20Modril"
+      url: "/Factions/house-modril"
     - label: House Richardson
-      url: "/Factions/House%20Richardson"
+      url: "/Factions/house-richardson"
     - label: House Tetran
-      url: "/Factions/House%20Tetran"
+      url: "/Factions/house-tetran"
     - label: House Volkan
-      url: "/Factions/House%20Volkan"
+      url: "/Factions/house-volkan"
     - label: House Yufi
-      url: "/Factions/House%20Yufi"
+      url: "/Factions/house-yufi"
 - label: Lore
   items:
     - label: Mythrir Calendar and Festivals
-      url: "/Lore/Mythrir%20Calendar%20and%20Festivals"
+      url: "/Lore/mythrir-calendar-and-festivals"
 - label: Sessions
   items:
     - label: "Campaign 5 — Loss, Legacy, and Lament"
-      url: "/Sessions/Campaign%205%20-%20Loss,%20Legacy,%20and%20Lament%20-%20Overall%20Summary"
+      url: "/Sessions/campaign-5-loss-legacy-and-lament-overall-summary"
     - label: Overall History Executive Summary
-      url: "/Sessions/Mythrir%20%E2%80%94%20Overall%20History%20Executive%20Summary"
+      url: "/Sessions/mythrir-overall-history-executive-summary"
     - label: "Session 0.5 — The Reunion at the Cat's Pajamas"
-      url: "/Sessions/Session%200.5%20-%20The%20Reunion%20at%20the%20Cat's%20Pajamas"
+      url: "/Sessions/session-05-the-reunion-at-the-cats-pajamas"
     - label: "Session 1 — The Broken Blade"
-      url: "/Sessions/Session%201%20-%20The%20Broken%20Blade"
+      url: "/Sessions/session-1-the-broken-blade"
     - label: "Session 2 — Before Me Is Death"
-      url: "/Sessions/Session%202%20-%20Before%20Me%20Is%20Death"
+      url: "/Sessions/session-2-before-me-is-death"
     - label: "Session 3 — The Found, The Celebrant, and The Ephemeral"
-      url: "/Sessions/Session%203%20-%20The%20Found,%20The%20Celebrant,%20and%20The%20Ephemeral"
+      url: "/Sessions/session-3-the-found-the-celebrant-and-the-ephemeral"
 - label: Archive
   url: "/archive/"
 - label: Character Index
-  url: "/Mythrir%20%E2%80%94%20Character%20Index"
+  url: "/mythrir-character-index"

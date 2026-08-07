@@ -1,5 +1,6 @@
 ---
 title: Abacus Black
+permalink: "/archive/Characters/abacus-black.html"
 ---
 
 # Abacus Black

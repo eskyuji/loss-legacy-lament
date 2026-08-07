@@ -1,5 +1,6 @@
 ---
 title: Ilirr
+permalink: "/archive/NPCs/ilirr.html"
 ---
 
 # Ilirr

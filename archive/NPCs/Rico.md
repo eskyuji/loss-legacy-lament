@@ -1,5 +1,6 @@
 ---
 title: Rico
+permalink: "/archive/NPCs/rico.html"
 ---
 
 # Rico

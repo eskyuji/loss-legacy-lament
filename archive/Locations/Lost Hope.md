@@ -1,5 +1,6 @@
 ---
 title: Lost Hope
+permalink: "/archive/Locations/lost-hope.html"
 ---
 
 # Lost Hope

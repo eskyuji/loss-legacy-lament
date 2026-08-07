@@ -1,5 +1,6 @@
 ---
 title: 773 Philosophical Directory
+permalink: "/archive/NPCs/773-philosophical-directory.html"
 ---
 
 # 773 Philosophical Directory

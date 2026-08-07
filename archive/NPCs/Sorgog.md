@@ -1,5 +1,6 @@
 ---
 title: Sorgog
+permalink: "/archive/NPCs/sorgog.html"
 ---
 
 # Sorgog
