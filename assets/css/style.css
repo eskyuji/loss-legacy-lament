@@ -1,18 +1,18 @@
 /* Mythrir wiki — dark tech-noir theme */
 
 :root {
-  --bg: #0a0d0d;
-  --bg-elevated: #16191a;
-  --bg-elevated-hover: #202425;
-  --border: #2b2f30;
-  --text: #e7e4dc;
-  --text-muted: #8d8b85;
-  --accent: #3a8f96;
-  --accent-bright: #8fe0da;
-  --accent-dim: #1d4a4f;
-  --accent-rgb: 58, 143, 150;
-  --accent-bright-rgb: 143, 224, 218;
-  --accent-underline-rgb: 90, 178, 182;
+  --bg: #050504;
+  --bg-elevated: #131210;
+  --bg-elevated-hover: #1d1b16;
+  --border: #2c2820;
+  --text: #ede6d6;
+  --text-muted: #96907e;
+  --accent: #c9a227;
+  --accent-bright: #eecb72;
+  --accent-dim: #8a6f2e;
+  --accent-rgb: 201, 162, 39;
+  --accent-bright-rgb: 238, 203, 114;
+  --accent-underline-rgb: 211, 174, 106;
   --radius: 12px;
   --max-width: 1000px;
   --font-body: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -25,9 +25,9 @@
    that character's own color from the party's session-tracker cards, rather
    than just a tinted accent on top of the site default. Applied via a body
    class the layout sets for Bas, Magerna, and Meeka (see
-   _layouts/default.html); every other page uses the teal default above.
-   Redefining the same custom properties here means the rest of the
-   stylesheet needs no page-specific selectors — it all just cascades. */
+   _layouts/default.html); every other page uses the site's default black/gold
+   theme above. Redefining the same custom properties here means the rest of
+   the stylesheet needs no page-specific selectors — it all just cascades. */
 
 body.theme-bas {
   --bg: #0f0a07;
@@ -109,7 +109,7 @@ body {
   padding: 0 24px;
 }
 
-/* Peripheral ornament — teal-tinted banners, astrolabe rings, and a distant spire
+/* Peripheral ornament — gold banners, astrolabe rings, and a distant spire
    silhouette sitting in the margins outside the content column. Fixed to the
    viewport so it reads as a frame around the page rather than scrolling content. */
 
